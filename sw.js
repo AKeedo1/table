@@ -1,6 +1,6 @@
 /* Table — service worker. Canonical pattern (2.1): ordered install, cache only OK
    responses, network-first raced against a 2.5s timeout, HTML fallback for navigations. */
-const CACHE = 'table-v7';
+const CACHE = 'table-v8';
 const SHELL = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest',
   './recipes.json',
   './assets/icon-192.png', './assets/icon-512.png'];

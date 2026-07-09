@@ -47,6 +47,17 @@ function t(k){ return T[store.lang][k]; }
 // Batch 5 a11y — <html lang> follows the EN/TL toggle
 function applyLang(){ try{ document.documentElement.lang = store.lang==='tl'?'tl':'en'; }catch(e){} }
 applyLang();
+// Appearance: manual toggle, persisted. auto (follows system) -> light -> dark -> auto
+store.theme = store.theme || 'auto';
+const THEME_ORDER=['auto','light','dark'], THEME_LABEL={auto:'Auto',light:'Light',dark:'Dark'};
+const _mq = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+function effectiveTheme(){ return store.theme==='auto' ? (_mq && _mq.matches ? 'dark':'light') : store.theme; }
+function applyTheme(){ try{ document.documentElement.setAttribute('data-theme', effectiveTheme()); }catch(e){} }
+applyTheme();
+if(_mq){ try{ _mq.addEventListener('change', ()=>{ if(store.theme==='auto') applyTheme(); }); }catch(e){ try{ _mq.addListener(()=>{ if(store.theme==='auto') applyTheme(); }); }catch(e2){} } }
+function cycleTheme(){ store.theme = THEME_ORDER[(THEME_ORDER.indexOf(store.theme)+1)%THEME_ORDER.length]; save(); applyTheme(); }
+function themeBtn(){ return `<button class="themebtn" data-theme-btn aria-label="Appearance: ${THEME_LABEL[store.theme]}">${THEME_LABEL[store.theme]}</button>`; }
+document.addEventListener('click', (e)=>{ const b=e.target.closest('[data-theme-btn]'); if(!b) return; cycleTheme(); const l=THEME_LABEL[store.theme]; b.textContent=l; b.setAttribute('aria-label','Appearance: '+l); });
 
 const app = document.getElementById('app');
 
@@ -150,6 +161,7 @@ function header(){
   return `<header class="hdr">
     <div class="mark">${MARK}</div>
     <div class="wordmark">Table<small>recipes</small></div>
+    ${themeBtn()}
     ${langPill()}
   </header>`;
 }
@@ -411,6 +423,7 @@ function renderCook(r){
     <div class="ctop">
       <button class="x">×</button>
       <div class="ctitle">${r.title}</div>
+      ${themeBtn()}
       ${langPill()}
     </div>
     <div class="cscroll">

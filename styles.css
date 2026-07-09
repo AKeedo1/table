@@ -223,19 +223,18 @@ body.cook-open{overflow:hidden}
 @keyframes skl{0%{background-position:200% 0}100%{background-position:-200% 0}}
 @media(prefers-reduced-motion:reduce){.skl-line{animation:none}}
 
-/* ============ Batch 5 — dark mode (evening kitchen; follows system) ============ */
-@media (prefers-color-scheme: dark){
-  :root{
-    --paper:#1b1714; --paper-2:#141210; --card:#262019; --card-2:#201a14;
-    --ink:#f2e9dd; --ink-2:#c4b7a6; --muted:#9a8e7e; --line:#393026;
-    --accent:#e0765a; --accent-deep:#eea88f; --accent-soft:#3a2822; --accent-wash:#2b1f1a;
-    --olive:#9aa876; --olive-soft:#252c1d; --honey:#e2b666; --honey-soft:#332a1a; --rose:#c98484;
-    --love:#e0765a; --good:#9aa876; --tweak:#e2b666; --kill:#c98484;
-    --sh-soft:0 4px 16px rgba(0,0,0,.5), 0 1px 3px rgba(0,0,0,.4);
-    --sh-pop:0 12px 32px rgba(0,0,0,.6), 0 3px 8px rgba(0,0,0,.45);
-  }
-  .bg-layer{background:radial-gradient(130% 80% at 50% -8%, #241d17 0%, var(--paper) 46%, var(--paper-2) 100%)}
-  .hdr{background:rgba(27,23,20,.82);border-bottom-color:rgba(57,48,38,.7)}
-  .cook{background:linear-gradient(160deg,#241d17,var(--paper) 60%,var(--paper-2))}
-  .skl-line{background:linear-gradient(90deg,var(--line),#33291f,var(--line));background-size:200% 100%}
+/* ============ Batch 5 — dark mode (manual toggle: JS sets html[data-theme]) ============ */
+.themebtn{border:1px solid var(--line);background:var(--card);font:inherit;font-weight:700;font-size:12px;color:var(--muted);padding:0 12px;min-height:44px;border-radius:999px;cursor:pointer;flex:0 0 auto;box-shadow:var(--sh-soft)}
+html[data-theme="dark"]{
+  --paper:#1b1714; --paper-2:#141210; --card:#262019; --card-2:#201a14;
+  --ink:#f2e9dd; --ink-2:#c4b7a6; --muted:#9a8e7e; --line:#393026;
+  --accent:#e0765a; --accent-deep:#eea88f; --accent-soft:#3a2822; --accent-wash:#2b1f1a;
+  --olive:#9aa876; --olive-soft:#252c1d; --honey:#e2b666; --honey-soft:#332a1a; --rose:#c98484;
+  --love:#e0765a; --good:#9aa876; --tweak:#e2b666; --kill:#c98484;
+  --sh-soft:0 4px 16px rgba(0,0,0,.5), 0 1px 3px rgba(0,0,0,.4);
+  --sh-pop:0 12px 32px rgba(0,0,0,.6), 0 3px 8px rgba(0,0,0,.45);
 }
+html[data-theme="dark"] .bg-layer{background:radial-gradient(130% 80% at 50% -8%, #241d17 0%, var(--paper) 46%, var(--paper-2) 100%)}
+html[data-theme="dark"] .hdr{background:rgba(27,23,20,.82);border-bottom-color:rgba(57,48,38,.7)}
+html[data-theme="dark"] .cook{background:linear-gradient(160deg,#241d17,var(--paper) 60%,var(--paper-2))}
+html[data-theme="dark"] .skl-line{background:linear-gradient(90deg,var(--line),#33291f,var(--line));background-size:200% 100%}
