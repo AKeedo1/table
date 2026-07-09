@@ -1,0 +1,2008 @@
+{
+  "generated": "from week data modules — do not hand-edit",
+  "collections": [
+    "Week 9",
+    "Winners"
+  ],
+  "categories": [
+    "Chicken",
+    "Fish",
+    "Lamb",
+    "Beef"
+  ],
+  "recipes": [
+    {
+      "id": "week9-sun",
+      "collection": "Week 9",
+      "category": "Chicken",
+      "cuisine": "Vietnamese",
+      "title": "Charred Lemongrass Chicken",
+      "subtitle": "Jasmine Rice & Herb Slaw",
+      "serves": "1 Serving",
+      "macro": "≈686 kcal | 52g P | 22g F | 70g C | 7g fiber",
+      "description": "Gym-day fuel. Lemongrass-and-chili chicken charred hard and sliced over jasmine rice, with a crisp cabbage-and-carrot slaw for real crunch and fibre, mint and coriander, and lime nuoc cham poured over at the table. Bright and fresh but rice-solid — proper food after training. Chicken in whole flattened pieces or cubes, never strips.",
+      "ingredients": [
+        {
+          "group": "Chicken — marinate a few hours (Sunday batch)",
+          "items": [
+            "200g chicken breast, butterflied flat (or ~3cm cubes)",
+            "1 lemongrass stalk, tender core very finely minced (or 1 tbsp lemongrass paste)",
+            "1 tbsp fish sauce",
+            "1 tsp honey",
+            "2 garlic cloves, grated",
+            "1 tsp vegetable oil",
+            "Black pepper"
+          ]
+        },
+        {
+          "group": "Base",
+          "items": [
+            "60g jasmine rice (dry)"
+          ]
+        },
+        {
+          "group": "Herb Slaw (the vegetable)",
+          "items": [
+            "100g white cabbage, finely shredded",
+            "1 carrot, shredded",
+            "Handful mint + coriander, torn",
+            "1 tsp rice vinegar",
+            "Squeeze of lime",
+            "Pinch salt",
+            "1 tbsp roasted peanuts, crushed"
+          ]
+        },
+        {
+          "group": "To Serve (from Sunday batch)",
+          "items": [
+            "3–4 tbsp nuoc cham",
+            "Lime wedge"
+          ]
+        }
+      ],
+      "steps": [
+        "Marinate the chicken in the lemongrass, fish sauce, honey, garlic, oil and pepper — a few hours, ideally the Sunday batch.",
+        "Cook the rice, keep covered.",
+        "Slaw: toss the cabbage, carrot and herbs with the rice vinegar, lime, salt. Leave 5 min to soften slightly. Scatter the crushed peanuts on top at the end.",
+        "Get a griddle or heavy pan screaming hot. Char the chicken hard, 2–3 min per side, until blackened at the tips and cooked through (74°C). Rest 3 min, slice thick.",
+        "Plate: rice, sliced chicken over, the herb slaw alongside. Pour the nuoc cham over the chicken and rice, squeeze the lime."
+      ],
+      "tl": {
+        "description": "Pagkain para sa gym day. Manok na may tanglad at sili, inihaw nang husto, hiniwa sa ibabaw ng kanin, may sariwang herbs, atsarang karot, at nuoc cham na ibinubuhos sa mesa. Presko pero busog sa kanin.",
+        "ingredients": [
+          {
+            "group": "Manok — i-marinate ng ilang oras",
+            "items": [
+              "200g dibdib ng manok, biniyak nang patag (o ~3cm na cubes)",
+              "1 tangkay tanglad, ang malambot na ubod tadtarin nang pino (o 1 kutsara lemongrass paste)",
+              "1 kutsara patis",
+              "1 kutsarita pulot",
+              "2 butil bawang, kinudkod",
+              "1 kutsarita mantika",
+              "Paminta"
+            ]
+          },
+          {
+            "group": "Base",
+            "items": [
+              "60g bigas na jasmine (hilaw)"
+            ]
+          },
+          {
+            "group": "Herb Slaw (ang gulay)",
+            "items": [
+              "100g puting repolyo, hiniwang pino",
+              "1 karot, kinudkod",
+              "Isang dakot mint + wansoy, pinunit",
+              "1 kutsarita suka (rice vinegar)",
+              "Piga ng dayap",
+              "Kurot na asin",
+              "1 kutsara piniritong mani, dinurog"
+            ]
+          },
+          {
+            "group": "Ihain kasama",
+            "items": [
+              "3–4 kutsara nuoc cham (sarsa)",
+              "Hiwa ng dayap"
+            ]
+          }
+        ],
+        "steps": [
+          "I-marinate ang manok sa tanglad, patis, pulot, bawang, mantika at paminta — ilang oras.",
+          "Lutuin ang kanin, takpan.",
+          "Slaw: haluin ang repolyo, karot at herbs sa suka, dayap, asin. Hayaan ng 5 minuto para bahagyang lumambot. Budburan ng durog na mani sa huli.",
+          "Painitin nang husto ang kawali. Iihaw ang manok, 2–3 minuto bawat gilid, hanggang may pagkasunog sa dulo at lutong-luto (74°C). Ipahinga ng 3 minuto, hiwain nang makapal.",
+          "Ihain: kanin, ilagay ang hiniwang manok sa ibabaw, katabi ang herb slaw. Ibuhos ang nuoc cham sa manok at kanin, pigain ang dayap."
+        ]
+      }
+    },
+    {
+      "id": "week9-mon",
+      "collection": "Week 9",
+      "category": "Chicken",
+      "cuisine": "Georgian",
+      "title": "Georgian Garlic Chicken",
+      "subtitle": "Wilted Spinach & Pomegranate",
+      "serves": "1 Serving",
+      "macro": "≈633 kcal | 56g P | 25g F | 46g C | 8g fiber",
+      "description": "Shkmeruli, levelled up. Chili-and-coriander seared chicken in a garlic-milk sauce finished OFF the heat with Greek yogurt — so it's tangy and rich but far lighter than cream. It sits on garlicky wilted spinach (the iron and fibre), scattered with toasted almonds, dill and pomegranate for crunch, freshness and a juicy-sweet pop. Warm flatbread to mop. Heat, tang, crunch, greens — not one flat note.",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "200g chicken breast, whole or halved into two thick pieces",
+            "1 tsp olive oil",
+            "½ tsp ground coriander",
+            "½ tsp paprika",
+            "Pinch chili flakes",
+            "Salt, black pepper"
+          ]
+        },
+        {
+          "group": "Garlic-Milk-Yogurt Sauce",
+          "items": [
+            "6 garlic cloves, finely grated (it mellows as it cooks)",
+            "100ml milk",
+            "½ tsp butter",
+            "½ tsp dried coriander",
+            "2 tbsp Greek yogurt (stirred in OFF the heat — never boil it)",
+            "Small handful fresh dill",
+            "Salt"
+          ]
+        },
+        {
+          "group": "Garlicky Spinach (the vegetable)",
+          "items": [
+            "150g spinach",
+            "1 garlic clove, sliced",
+            "Squeeze of lemon"
+          ]
+        },
+        {
+          "group": "Finish & Sides",
+          "items": [
+            "1 tbsp almonds, toasted and roughly chopped",
+            "2 tbsp pomegranate seeds",
+            "Drizzle of pomegranate molasses",
+            "1 flatbread / khubz",
+            "Small salad: leaves + parsley + 4–5 cherry tomatoes, ½ tsp olive oil, lemon"
+          ]
+        }
+      ],
+      "steps": [
+        "Season the chicken with coriander, paprika, chili, salt and pepper. Heat the olive oil and sear hard on both sides until deep golden with a real crust, 4–5 min a side, nearly cooked. Remove.",
+        "Same pan, low heat: melt the butter, add the grated garlic and dried coriander, 30–40 sec until fragrant, not coloured. Pour in the milk, add salt, simmer 3 min until it coats a spoon. Take OFF the heat and stir in the Greek yogurt and most of the dill — off-heat so it stays smooth and doesn't split.",
+        "Wilt the spinach with the garlic in the chicken pan (its residual fat) plus a splash of water, 2 min, finish with a squeeze of lemon.",
+        "Return the chicken to the pan, spoon the sauce over, finish 2–3 min over low heat until cooked through (74°C).",
+        "Plate: garlicky spinach down first, chicken and sauce over it, scatter the toasted almonds, pomegranate seeds and remaining dill, a thin drizzle of pomegranate molasses. Warm flatbread and the little salad alongside."
+      ],
+      "tl": {
+        "description": "Manok na may bawang at sili, inihaw hanggang golden, isinawsaw sa sarsang gatas-at-bawang na pinalambot ng yogurt — mas magaan kaysa cream. Nasa ibabaw ng gisadong spinach, may almonds, dill at pomegranate. May tinapay na isasawsaw.",
+        "ingredients": [
+          {
+            "group": "Manok",
+            "items": [
+              "200g dibdib ng manok, buo o hinati sa dalawa",
+              "1 kutsarita olive oil",
+              "½ kutsarita durog na wansoy (ground coriander)",
+              "½ kutsarita paprika",
+              "Kurot na chili flakes",
+              "Asin, paminta"
+            ]
+          },
+          {
+            "group": "Sarsa (Gatas-Bawang-Yogurt)",
+            "items": [
+              "6 butil bawang, kinudkod",
+              "100ml gatas",
+              "½ kutsarita mantikilya",
+              "½ kutsarita tuyong wansoy",
+              "2 kutsara Greek yogurt (ihalo kapag ALIS na sa apoy — huwag pakuluan)",
+              "Sariwang dill",
+              "Asin"
+            ]
+          },
+          {
+            "group": "Gisadong Spinach (ang gulay)",
+            "items": [
+              "150g spinach",
+              "1 butil bawang, hiniwa",
+              "Piga ng lemon"
+            ]
+          },
+          {
+            "group": "Pandagdag at Kasama",
+            "items": [
+              "1 kutsara inihaw na almonds, tinadtad",
+              "2 kutsara buto ng pomegranate",
+              "Kaunting pomegranate molasses",
+              "1 flatbread / khubz",
+              "Maliit na salad: dahon + parsley + kamatis, ½ kutsarita olive oil, lemon"
+            ]
+          }
+        ],
+        "steps": [
+          "Timplahan ang manok ng wansoy, paprika, chili, asin at paminta. Iihaw nang husto sa mantika, 4–5 minuto bawat gilid, hanggang golden at halos luto na. Alisin.",
+          "Sa parehong kawali, mahinang apoy: tunawin ang mantikilya, ilagay ang bawang at tuyong wansoy, 30–40 segundo (huwag pasunugin). Ibuhos ang gatas at asin, pakuluan nang dahan-dahan 3 minuto hanggang lumapot. ALISIN sa apoy at ihalo ang yogurt at karamihan ng dill (para hindi maghiwalay).",
+          "Igisa ang spinach kasama ang bawang sa kawaling pinaglutuan ng manok (natirang taba) + kaunting tubig, 2 minuto, pigaan ng lemon.",
+          "Ibalik ang manok sa sarsa, sandukan sa ibabaw, lutuin pa 2–3 minuto hanggang lutong-luto (74°C).",
+          "Ihain: spinach sa ilalim, manok at sarsa sa ibabaw, budburan ng almonds, pomegranate at dill, patakan ng pomegranate molasses. Katabi ang mainit na tinapay at ang maliit na salad."
+        ]
+      }
+    },
+    {
+      "id": "week9-tue",
+      "collection": "Week 9",
+      "category": "Fish",
+      "cuisine": "North African",
+      "title": "Harissa & Preserved-Lemon Salmon",
+      "subtitle": "Blistered Zucchini & Lemon Rice",
+      "serves": "1 Serving",
+      "macro": "≈644 kcal | 46g P | 28g F | 52g C | 6g fiber",
+      "description": "The one fish, and the week's omega-3 hit — a direct lever on the HDL/LDL/TG trio. A North African traybake: salmon lacquered in harissa and honey, roasted with zucchini and cherry tomatoes until they go jammy, preserved lemon cutting through, over a simple herbed lemon rice. One tray, complex dry heat, real vegetables, minimal work.",
+      "ingredients": [
+        {
+          "group": "Salmon",
+          "items": [
+            "200g salmon fillet, skin on",
+            "1 tbsp harissa (dry-roasted style — Mina/DEA)",
+            "1 tsp honey",
+            "½ preserved lemon, pulp discarded, rind finely chopped"
+          ]
+        },
+        {
+          "group": "Roasting Vegetables (the vegetable)",
+          "items": [
+            "1 zucchini, in half-moons",
+            "6–8 cherry tomatoes",
+            "1 tsp olive oil",
+            "1 garlic clove, sliced",
+            "½ tsp cumin seeds",
+            "Salt, black pepper"
+          ]
+        },
+        {
+          "group": "Lemon Rice",
+          "items": [
+            "60g jasmine rice (dry)",
+            "Squeeze of lemon",
+            "Small handful parsley, chopped"
+          ]
+        }
+      ],
+      "steps": [
+        "Cook the rice; fold through the lemon and parsley. Keep covered.",
+        "Heat the oven to 200°C. Toss the zucchini and cherry tomatoes with olive oil, garlic, cumin seeds, salt and pepper on a lined tray. Roast 12 min to get them going.",
+        "Whisk the harissa, honey and chopped preserved lemon. Coat the salmon — its own fat plus the glaze is plenty, no added oil needed.",
+        "Push the vegetables to the sides, lay the salmon skin-down in the middle. Roast another 10–12 min until the salmon is just cooked and the glaze is caramelised, the tomatoes bursting.",
+        "Serve the salmon and roast vegetables over the lemon rice, all the tray juices spooned over."
+      ],
+      "tl": {
+        "description": "Ang isahang isda ng linggo, at ang omega-3 hit — deretsong lever sa HDL/LDL/TG. North African traybake: salmon na binalot sa harissa at pulot, iniihaw kasama ang zucchini at cherry tomatoes hanggang maging malambot at matamis, may preserved lemon na humihiwa sa lasa, sa ibabaw ng simpleng herbed lemon rice. Isang tray lang, kaunting trabaho.",
+        "ingredients": [
+          {
+            "group": "Salmon",
+            "items": [
+              "200g salmon fillet, may balat",
+              "1 kutsara harissa (dry-roasted style — Mina/DEA)",
+              "1 kutsarita pulot",
+              "½ preserved lemon, itapon ang laman, tadtarin nang pino ang balat"
+            ]
+          },
+          {
+            "group": "Gulay na Iihaw sa Oven (ang gulay)",
+            "items": [
+              "1 zucchini, ginawang half-moons",
+              "6–8 cherry tomatoes",
+              "1 kutsarita olive oil",
+              "1 butil bawang, hiniwa",
+              "½ kutsarita cumin seeds",
+              "Asin, paminta"
+            ]
+          },
+          {
+            "group": "Lemon Rice",
+            "items": [
+              "60g bigas na jasmine (hilaw)",
+              "Piga ng lemon",
+              "Isang dakot parsley, tinadtad"
+            ]
+          }
+        ],
+        "steps": [
+          "Lutuin ang kanin; haluan ng lemon at parsley. Takpan.",
+          "Painitin ang oven sa 200°C. Haluin ang zucchini at cherry tomatoes sa olive oil, bawang, cumin seeds, asin at paminta sa isang tray na may papel. Iihaw ng 12 minuto para magsimula.",
+          "Haluin ang harissa, pulot at tinadtad na preserved lemon. Pahiran ang salmon — ang sariling taba nito kasama ang glaze ay sapat na, hindi na kailangan ng dagdag na mantika.",
+          "Itabi ang gulay sa gilid, ilagay ang salmon na nakababa ang balat sa gitna. Iihaw pa ng 10–12 minuto hanggang katamtaman ang luto ng salmon at caramelized na ang glaze, sumasabog na ang kamatis.",
+          "Ihain ang salmon at inihaw na gulay sa ibabaw ng lemon rice, sandukan ang lahat ng katas ng tray sa ibabaw."
+        ]
+      }
+    },
+    {
+      "id": "week9-wed",
+      "collection": "Week 9",
+      "category": "Chicken",
+      "cuisine": "Filipino",
+      "title": "Bacolod Grilled Chicken",
+      "subtitle": "Garlic Rice & Smoked Eggplant",
+      "serves": "1 Serving",
+      "macro": "≈632 kcal | 53g P | 20g F | 60g C | 7g fiber",
+      "description": "Filipino inasal — chicken marinated in lime, garlic and ginger, basted with paprika oil and grilled until burnished — with toasted garlic fried rice and a smoky charred-eggplant salad (ensalada) for the vegetable. A sharp carrot pickle on the side. Grilled, bright and smoky, a completely different plate from Monday. Chicken in whole pieces or thick chunks.",
+      "ingredients": [
+        {
+          "group": "Chicken — marinate overnight (Tue PM)",
+          "items": [
+            "200g chicken breast, left whole / in large chunks",
+            "Juice of 2 limes",
+            "1 tsp brown sugar",
+            "2 garlic cloves, grated",
+            "1 tsp grated ginger",
+            "1 tbsp low-sodium soy sauce",
+            "Salt, black pepper"
+          ]
+        },
+        {
+          "group": "Paprika Basting Oil",
+          "items": [
+            "2 tsp oil + ½ tsp paprika + a pinch of turmeric (brush on lightly)"
+          ]
+        },
+        {
+          "group": "Garlic Fried Rice",
+          "items": [
+            "60g jasmine rice (dry) — cook ahead, ideally day-old",
+            "3 garlic cloves, finely chopped",
+            "½ tsp oil",
+            "1 spring onion, sliced",
+            "Salt"
+          ]
+        },
+        {
+          "group": "Smoked Eggplant Salad (the vegetable)",
+          "items": [
+            "1 medium eggplant",
+            "1 tomato, diced",
+            "1 spring onion, sliced",
+            "1 tsp soy sauce",
+            "1 tsp rice vinegar",
+            "Handful coriander"
+          ]
+        },
+        {
+          "group": "Side (from Sunday batch)",
+          "items": [
+            "2 tbsp carrot pickle",
+            "Lime wedge"
+          ]
+        }
+      ],
+      "steps": [
+        "Marinate the chicken overnight in the lime, sugar, garlic, ginger, soy, salt and pepper.",
+        "Eggplant: char it whole over a flame or under a hot grill until the skin blackens and it collapses, ~10 min, turning. Cool, peel, tear the flesh into strips. Toss with the tomato, spring onion, soy, vinegar and coriander.",
+        "Paprika oil: warm the oil with paprika and turmeric 1 min.",
+        "Garlic rice: fry the chopped garlic in the oil until pale gold, add the cooked rice, salt, toss over high heat until coated and lightly toasted. Finish with the spring onion.",
+        "Grill the chicken on a screaming-hot pan, basting lightly with the paprika oil and turning, 4–5 min a side until burnished and cooked through (74°C). Rest 3 min.",
+        "Plate: garlic rice, chicken alongside, the smoked eggplant salad, a mound of carrot pickle, lime to squeeze."
+      ],
+      "tl": {
+        "description": "Filipino inasal — manok na ni-marinate sa dayap, bawang at luya, binrush ng paprika oil at inihaw hanggang golden — may toasted garlic fried rice at maanghang-usok na ensaladang talong para sa gulay. May maasim na atsarang karot sa tabi. Inihaw, presko at usok, ibang-iba sa Lunes. Buo o makakapal na piraso ang manok, huwag strips.",
+        "ingredients": [
+          {
+            "group": "Manok — i-marinate magdamag (Martes gabi)",
+            "items": [
+              "200g dibdib ng manok, iwanang buo / malalaking piraso",
+              "Katas ng 2 dayap",
+              "1 kutsarita brown sugar",
+              "2 butil bawang, kinudkod",
+              "1 kutsarita kinudkod na luya",
+              "1 kutsara low-sodium soy sauce",
+              "Asin, paminta"
+            ]
+          },
+          {
+            "group": "Paprika Basting Oil",
+            "items": [
+              "2 kutsarita mantika + ½ kutsarita paprika + kurot na turmeric (brush nang bahagya)"
+            ]
+          },
+          {
+            "group": "Garlic Fried Rice",
+            "items": [
+              "60g bigas na jasmine (hilaw) — lutuin nang maaga, mas maganda kung lipas isang araw",
+              "3 butil bawang, tinadtad nang pino",
+              "½ kutsarita mantika",
+              "1 spring onion, hiniwa",
+              "Asin"
+            ]
+          },
+          {
+            "group": "Ensaladang Talong (ang gulay)",
+            "items": [
+              "1 katamtamang talong",
+              "1 kamatis, hiniwa nang maliit",
+              "1 spring onion, hiniwa",
+              "1 kutsarita toyo",
+              "1 kutsarita suka (rice vinegar)",
+              "Isang dakot wansoy"
+            ]
+          },
+          {
+            "group": "Kasama (galing Linggong batch)",
+            "items": [
+              "2 kutsara atsarang karot",
+              "Hiwa ng dayap"
+            ]
+          }
+        ],
+        "steps": [
+          "I-marinate ang manok magdamag sa dayap, asukal, bawang, luya, toyo, asin at paminta.",
+          "Talong: ihawin nang buo sa apoy o sa mainit na griller hanggang maitiman ang balat at lumambot, ~10 minuto, binabaligtad. Palamigin, balatan, punitin ang laman sa mga strips. Haluin sa kamatis, spring onion, toyo, suka at wansoy.",
+          "Paprika oil: painitin ang mantika kasama ang paprika at turmeric ng 1 minuto.",
+          "Garlic rice: igisa ang tinadtad na bawang sa mantika hanggang bahagyang guminto, ilagay ang kaninlutong kanin, asin, haluin sa malakas na apoy hanggang mabalot at bahagyang ma-toast. Tapusin sa spring onion.",
+          "Ihawin ang manok sa napakainit na kawali, binrush nang bahagya ng paprika oil at binabaligtad, 4–5 minuto bawat gilid hanggang golden at lutong-luto (74°C). Ipahinga ng 3 minuto.",
+          "Ihain: garlic rice, manok sa tabi, ang ensaladang talong, isang bunton ng atsarang karot, dayap na pipigain."
+        ]
+      }
+    },
+    {
+      "id": "week9-thu",
+      "collection": "Week 9",
+      "category": "Chicken",
+      "cuisine": "Chinese",
+      "title": "Black Pepper Chicken & Greens",
+      "subtitle": "Steamed Rice",
+      "serves": "1 Serving",
+      "macro": "≈628 kcal | 54g P | 20g F | 58g C | 6g fiber",
+      "description": "Closes the week loud — all the punch, nothing hard to find. Cubed chicken velveted and flash-fried, then tossed in a glossy black-pepper, garlic and soy sauce with broccoli and long beans (the vegetable, straight in the wok), over steamed rice. A cold smashed cucumber on the side to cool it. Coarse-cracked black pepper is the star — no specialty spice needed.",
+      "ingredients": [
+        {
+          "group": "Chicken — velvet Thu morning",
+          "items": [
+            "200g chicken breast, cut into ~2cm cubes (cube it — never strips)",
+            "1 tsp light soy sauce",
+            "1 tsp cornflour",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Black Pepper Sauce",
+          "items": [
+            "1 tbsp low-sodium soy sauce",
+            "1 tsp oyster sauce",
+            "1 tsp rice vinegar",
+            "½ tsp sugar",
+            "1 tsp coarsely cracked black pepper (heaped — it's the star)"
+          ]
+        },
+        {
+          "group": "Wok & Greens (the vegetable)",
+          "items": [
+            "2 tsp vegetable oil",
+            "4 garlic cloves, sliced",
+            "1 thumb ginger, julienned",
+            "100g broccoli, small florets",
+            "80g long beans (or green beans), in 3cm lengths",
+            "1 spring onion, in batons"
+          ]
+        },
+        {
+          "group": "Base & Side",
+          "items": [
+            "60g jasmine rice (dry)",
+            "1 small cucumber, smashed, salted 10 min + drained, dressed with ½ tsp sesame oil, 1 tsp rice vinegar, 1 grated garlic clove"
+          ]
+        }
+      ],
+      "steps": [
+        "Smashed cucumber: smash, tear, salt 10 min, squeeze, dress, chill. Toss the chicken with soy, cornflour and salt, leave 15–20 min. Cook the rice.",
+        "Blanch the broccoli and long beans in boiling water 2 min, drain (keeps them vivid and quick in the wok).",
+        "Very hot wok with the oil: flash-fry the chicken cubes in one layer until seared and just cooked, 3–4 min. Lift out.",
+        "Same wok: garlic and ginger 30 sec, add the cracked black pepper 15 sec until fragrant. Add the blanched greens, toss 1 min.",
+        "Return the chicken, add the sauce, toss hard 1–2 min until glossy and coating. Off the heat, throw in the spring onion.",
+        "Serve over the rice with the cold smashed cucumber alongside."
+      ],
+      "tl": {
+        "description": "Sinasarhan ang linggo nang malakas — buong lakas ng lasa, walang mahirap hanapin. Manok na cubed, vinelvet at flash-fried, tapos hinalo sa makintab na black-pepper, bawang at toyo na sarsa kasama ang broccoli at sitaw (ang gulay, deretso sa wok), sa ibabaw ng kanin. May malamig na smashed cucumber sa tabi para pampalamig. Ang bituin ay ang magaspang na durog na paminta — hindi na kailangan ng espesyal na spice.",
+        "ingredients": [
+          {
+            "group": "Manok — velvet Huwebes umaga",
+            "items": [
+              "200g dibdib ng manok, ginawang ~2cm na cubes (cube ito — huwag strips)",
+              "1 kutsarita light soy sauce",
+              "1 kutsarita cornflour",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Black Pepper Sauce",
+            "items": [
+              "1 kutsara low-sodium soy sauce",
+              "1 kutsarita oyster sauce",
+              "1 kutsarita suka (rice vinegar)",
+              "½ kutsarita asukal",
+              "1 kutsarita magaspang na durog na paminta (siksik — ito ang bituin)"
+            ]
+          },
+          {
+            "group": "Wok at Gulay (ang gulay)",
+            "items": [
+              "2 kutsarita mantika",
+              "4 butil bawang, hiniwa",
+              "1 hinlalaki luya, ginawang julienne",
+              "100g broccoli, maliliit na florets",
+              "80g sitaw (o green beans), sa 3cm na haba",
+              "1 spring onion, ginawang batons"
+            ]
+          },
+          {
+            "group": "Base at Kasama",
+            "items": [
+              "60g bigas na jasmine (hilaw)",
+              "1 maliit na pipino, dinurog, inasnan 10 minuto + sinala, tinimplahan ng ½ kutsarita sesame oil, 1 kutsarita suka (rice vinegar), 1 kinudkod na butil bawang"
+            ]
+          }
+        ],
+        "steps": [
+          "Smashed cucumber: durugin, punitin, asnan 10 minuto, pigain, timplahan, palamigin. Haluin ang manok sa toyo, cornflour at asin, iwan 15–20 minuto. Lutuin ang kanin.",
+          "Blanch ang broccoli at sitaw sa kumukulong tubig ng 2 minuto, salain (para manatiling matingkad at mabilis sa wok).",
+          "Napakainit na wok na may mantika: flash-fry ang manok na cubes sa isang layer hanggang ma-sear at kasisiluto lang, 3–4 minuto. Hanguin.",
+          "Parehong wok: bawang at luya 30 segundo, ilagay ang durog na paminta 15 segundo hanggang bumango. Ilagay ang blanched na gulay, haluin 1 minuto.",
+          "Ibalik ang manok, ilagay ang sarsa, haluin nang husto 1–2 minuto hanggang makintab at bumalot. Alis sa apoy, ihagis ang spring onion.",
+          "Ihain sa ibabaw ng kanin kasama ang malamig na smashed cucumber sa tabi."
+        ]
+      }
+    },
+    {
+      "id": "win-krapao",
+      "collection": "Winners",
+      "category": "Chicken",
+      "cuisine": "Thai",
+      "title": "Kra Pao Gai",
+      "subtitle": "(Thai Holy Basil Chicken)",
+      "serves": "1 Serving",
+      "macro": "≈668 kcal | 55g P | 24g F | 58g C | 2g fiber",
+      "description": "Super loved — untouched. Street kra pao, not restaurant. Screaming-hot wok, hand-chopped chicken breast (the texture you proved beats ground), and the fried egg is NOT optional — runny yolk, crispy lacey edges. The hottest pan you own; that char is the flavour.",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "200g chicken breast, very finely chopped by hand (not pre-ground)",
+            "1 tbsp vegetable oil (high smoke point — not olive oil here)"
+          ]
+        },
+        {
+          "group": "Chili-Garlic Paste (Sunday batch)",
+          "items": [
+            "5–8 bird's eye chilies (start with 5, deseed some if needed)",
+            "4 garlic cloves",
+            "1 shallot, roughly chopped"
+          ]
+        },
+        {
+          "group": "Sauce",
+          "items": [
+            "1 tbsp oyster sauce",
+            "1.5 tsp fish sauce",
+            "½ tsp light soy sauce",
+            "½ tsp sugar"
+          ]
+        },
+        {
+          "group": "Base & Finish",
+          "items": [
+            "60g jasmine rice (dry)",
+            "1 egg",
+            "Large handful Thai holy basil (or Italian basil)",
+            "½ tsp sesame oil (finishing, optional)"
+          ]
+        }
+      ],
+      "steps": [
+        "Cook rice. Set aside covered.",
+        "Pound chilies, garlic, and shallot into a rough paste (Sunday batch keeps 3 days). It should smell aggressive.",
+        "Get the wok to maximum heat. Add oil. Add the chili-garlic paste, fry 20 sec, stirring constantly — it will be loud.",
+        "Add chicken. Break up immediately and aggressively. Keep heat high — you want char, not steam. Cook in two batches if it starts to steam.",
+        "Add oyster sauce, fish sauce, soy, sugar. Stir-fry 2–3 min until cooked with caramelized edges.",
+        "Kill heat. Add basil, toss — residual heat wilts it in 30 sec.",
+        "Fry the egg separately in a small pan with ½ tsp oil — very hot, baste with oil, runny yolk, crispy lacey edges.",
+        "Plate: rice, kra pao on top, fried egg over that. Optional few drops sesame oil."
+      ],
+      "tl": {
+        "description": "Napakamahal — hindi ginalaw. Street kra pao, hindi restaurant. Napakainit na wok, dibdib ng manok na tinadtad sa kamay (ang texture na napatunayan mong mas maganda kaysa giniling), at ang piniritong itlog ay HINDI opsyonal — malabnaw na pula, malutong at may lace na gilid. Ang pinakamainit na kawaling meron ka; ang pagkakasunog na iyon ang lasa.",
+        "ingredients": [
+          {
+            "group": "Manok",
+            "items": [
+              "200g dibdib ng manok, tinadtad nang napakapino sa kamay (hindi giniling na)",
+              "1 kutsara mantika (mataas ang smoke point — hindi olive oil dito)"
+            ]
+          },
+          {
+            "group": "Chili-Garlic Paste (Linggong batch)",
+            "items": [
+              "5–8 bird's eye chili (magsimula sa 5, tanggalan ng buto ang iba kung kailangan)",
+              "4 butil bawang",
+              "1 shallot, hiniwa nang magaspang"
+            ]
+          },
+          {
+            "group": "Sarsa",
+            "items": [
+              "1 kutsara oyster sauce",
+              "1.5 kutsarita patis",
+              "½ kutsarita light soy sauce",
+              "½ kutsarita asukal"
+            ]
+          },
+          {
+            "group": "Base at Pantapos",
+            "items": [
+              "60g bigas na jasmine (hilaw)",
+              "1 itlog",
+              "Malaking dakot Thai holy basil (o Italian basil)",
+              "½ kutsarita sesame oil (pantapos, opsyonal)"
+            ]
+          }
+        ],
+        "steps": [
+          "Lutuin ang kanin. Itabi na nakatakip.",
+          "Bayuhin ang sili, bawang, at shallot hanggang maging magaspang na paste (tumatagal 3 araw ang Linggong batch). Dapat maanghang ang amoy.",
+          "Painitin ang wok sa pinakamataas. Ilagay ang mantika. Ilagay ang chili-garlic paste, igisa 20 segundo, patuloy na hinahalo — magiging maingay ito.",
+          "Ilagay ang manok. Durugin agad at malakas. Panatilihing mataas ang apoy — gusto mo ng char, hindi singaw. Lutuin sa dalawang batch kung magsimulang mag-singaw.",
+          "Ilagay ang oyster sauce, patis, toyo, asukal. Igisa 2–3 minuto hanggang luto na may caramelized na gilid.",
+          "Patayin ang apoy. Ilagay ang basil, haluin — lulubog ito sa natirang init sa loob ng 30 segundo.",
+          "Iprito ang itlog nang hiwalay sa maliit na kawali na may ½ kutsarita mantika — napakainit, budburan ng mantika, malabnaw na pula, malutong na may lace na gilid.",
+          "Ihain: kanin, kra pao sa ibabaw, piniritong itlog sa ibabaw noon. Opsyonal na ilang patak ng sesame oil."
+        ]
+      },
+      "tier": "Super loved"
+    },
+    {
+      "id": "win-bulgogi",
+      "collection": "Winners",
+      "category": "Chicken",
+      "cuisine": "Korean",
+      "title": "Bulgogi Chicken Lettuce Wraps",
+      "subtitle": "",
+      "serves": "1 Serving",
+      "macro": "≈544 kcal | 48g P | 16g F | 52g C | 2g fiber",
+      "description": "",
+      "ingredients": [
+        {
+          "group": "Chicken & Marinade",
+          "items": [
+            "220g chicken breast, thinly sliced",
+            "2 tbsp soy sauce",
+            "1 tsp sesame oil",
+            "1 clove garlic, minced",
+            "½ tsp fresh ginger, grated",
+            "1 tsp honey or brown sugar",
+            "2 tbsp grated Asian pear or apple (natural tenderizer)"
+          ]
+        },
+        {
+          "group": "Wraps",
+          "items": [
+            "4–6 butter lettuce leaves",
+            "50g jasmine rice (dry weight)"
+          ]
+        },
+        {
+          "group": "Quick Pickled Cucumber",
+          "items": [
+            "½ cucumber, thinly sliced",
+            "1 tbsp rice wine vinegar",
+            "½ tsp sugar",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Garnish",
+          "items": [
+            "1 tsp sesame seeds",
+            "2 spring onions, sliced",
+            "½ tsp sesame oil",
+            "1 tsp gochujang (optional, on the side)"
+          ]
+        }
+      ],
+      "steps": [
+        "Marinate chicken minimum 20 min — overnight is better. Combine all marinade ingredients and coat chicken evenly.",
+        "Quick pickle: mix sliced cucumber with rice vinegar, sugar, and salt. Set aside 10 min.",
+        "Cook rice. Set aside.",
+        "Cook chicken on high heat in batches — 2–3 min per side until caramelized with charred edges. Don’t crowd the pan.",
+        "Slice chicken against the grain into thin strips.",
+        "Assemble: lettuce cup, small spoonful of rice, chicken, pickled cucumber, spring onion, sesame seeds. Drizzle sesame oil. Gochujang on the side."
+      ],
+      "tl": {
+        "description": "",
+        "ingredients": [
+          {
+            "group": "Manok at Marinade",
+            "items": [
+              "220g dibdib ng manok, hiniwang manipis",
+              "2 kutsara toyo",
+              "1 kutsarita sesame oil",
+              "1 butil bawang, tinadtad",
+              "½ kutsarita sariwang luya, kinudkod",
+              "1 kutsarita pulot o brown sugar",
+              "2 kutsara kinudkod na Asian pear o mansanas (natural na pampalambot)"
+            ]
+          },
+          {
+            "group": "Wraps",
+            "items": [
+              "4–6 dahon ng butter lettuce",
+              "50g bigas na jasmine (hilaw na timbang)"
+            ]
+          },
+          {
+            "group": "Mabilisang Atsarang Pipino",
+            "items": [
+              "½ pipino, hiniwang manipis",
+              "1 kutsara suka (rice wine vinegar)",
+              "½ kutsarita asukal",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Pampalamuti",
+            "items": [
+              "1 kutsarita sesame seeds",
+              "2 spring onions, hiniwa",
+              "½ kutsarita sesame oil",
+              "1 kutsarita gochujang (opsyonal, sa tabi)"
+            ]
+          }
+        ],
+        "steps": [
+          "I-marinate ang manok ng kahit 20 minuto — mas maganda kung magdamag. Pagsamahin ang lahat ng marinade at balutin nang pantay ang manok.",
+          "Mabilisang atsara: haluin ang hiniwang pipino sa suka, asukal, at asin. Itabi 10 minuto.",
+          "Lutuin ang kanin. Itabi.",
+          "Lutuin ang manok sa malakas na apoy nang paunti-unti — 2–3 minuto bawat gilid hanggang caramelized na may sunog na gilid. Huwag punuin ang kawali.",
+          "Hiwain ang manok laban sa grain sa manipis na strips.",
+          "Buuin: dahon ng lettuce, kaunting kanin, manok, atsarang pipino, spring onion, sesame seeds. Patakan ng sesame oil. Gochujang sa tabi."
+        ]
+      },
+      "tier": "Loved"
+    },
+    {
+      "id": "win-braised",
+      "collection": "Winners",
+      "category": "Chicken",
+      "cuisine": "Levantine",
+      "title": "Braised Chicken Thighs",
+      "subtitle": "with Preserved Lemon, Olives & Herbed Bulgur",
+      "serves": "1 Serving",
+      "macro": "≈628 kcal | 48g P | 24g F | 55g C | 6g fiber",
+      "description": "",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "2 bone-in chicken thighs, skin removed (or 240g boneless thighs)",
+            "¼ tsp each: turmeric, ground cumin, cinnamon, ground ginger",
+            "Salt and black pepper",
+            "1 tsp olive oil"
+          ]
+        },
+        {
+          "group": "Braise",
+          "items": [
+            "½ medium onion, thinly sliced",
+            "2 cloves garlic, minced",
+            "Pinch saffron threads, steeped in 2 tbsp warm water",
+            "¼ preserved lemon, rind only, finely sliced (discard pulp)",
+            "8 green olives, pitted and halved",
+            "150ml low-sodium chicken stock"
+          ]
+        },
+        {
+          "group": "Bulgur",
+          "items": [
+            "50g bulgur wheat (dry weight)",
+            "1 tbsp flat-leaf parsley, chopped",
+            "1 tbsp fresh cilantro, chopped",
+            "½ lemon, juiced",
+            "Salt"
+          ]
+        }
+      ],
+      "steps": [
+        "Season chicken with salt, pepper, turmeric, cumin, cinnamon, and ginger.",
+        "Brown chicken in a hot oven-safe pan with olive oil — 4–5 min skin-side down until deep golden. Flip 2 min. Remove and set aside.",
+        "In the same pan, sauté onion over medium heat 5–6 min until softened. Add garlic, 1 min.",
+        "Add saffron water and stock. Bring to a simmer. Add preserved lemon rind and olives.",
+        "Return chicken to pan. Cover and braise on low heat 25–30 min until cooked through and very tender.",
+        "Bulgur: pour boiling water over bulgur (cover by 2cm), cover tightly, 12–15 min, drain. Toss with parsley, cilantro, lemon juice, salt.",
+        "Plate: bulgur base, chicken on top. Spoon braising liquid and olives over everything."
+      ],
+      "tl": {
+        "description": "",
+        "ingredients": [
+          {
+            "group": "Manok",
+            "items": [
+              "2 chicken thighs na may buto, tinanggalan ng balat (o 240g boneless thighs)",
+              "¼ kutsarita bawat isa: turmeric, durog na cumin, cinnamon, durog na luya",
+              "Asin at paminta",
+              "1 kutsarita olive oil"
+            ]
+          },
+          {
+            "group": "Braise",
+            "items": [
+              "½ katamtamang sibuyas, hiniwang manipis",
+              "2 butil bawang, tinadtad",
+              "Kurot na saffron threads, ibinabad sa 2 kutsara mainit na tubig",
+              "¼ preserved lemon, balat lang, hiniwang pino (itapon ang laman)",
+              "8 green olives, tinanggalan ng buto at hinati",
+              "150ml low-sodium chicken stock"
+            ]
+          },
+          {
+            "group": "Bulgur",
+            "items": [
+              "50g bulgur wheat (hilaw na timbang)",
+              "1 kutsara flat-leaf parsley, tinadtad",
+              "1 kutsara sariwang cilantro, tinadtad",
+              "½ lemon, piniga",
+              "Asin"
+            ]
+          }
+        ],
+        "steps": [
+          "Timplahan ang manok ng asin, paminta, turmeric, cumin, cinnamon, at luya.",
+          "I-brown ang manok sa mainit na oven-safe na kawali na may olive oil — 4–5 minuto na nakababa ang balat hanggang golden. Baligtarin 2 minuto. Hanguin at itabi.",
+          "Sa parehong kawali, i-sauté ang sibuyas sa katamtamang apoy 5–6 minuto hanggang lumambot. Ilagay ang bawang, 1 minuto.",
+          "Ilagay ang saffron water at stock. Pakuluan nang dahan-dahan. Ilagay ang balat ng preserved lemon at olives.",
+          "Ibalik ang manok sa kawali. Takpan at i-braise sa mahinang apoy 25–30 minuto hanggang lutong-luto at napakalambot.",
+          "Bulgur: buhusan ang bulgur ng kumukulong tubig (2cm ang taas), takpan nang mahigpit, 12–15 minuto, salain. Haluin sa parsley, cilantro, katas ng lemon, asin.",
+          "Ihain: bulgur sa ilalim, manok sa ibabaw. Sandukan ang katas ng braise at olives sa lahat."
+        ]
+      },
+      "tier": "Loved"
+    },
+    {
+      "id": "win-sichuan",
+      "collection": "Winners",
+      "category": "Chicken",
+      "cuisine": "Sichuan",
+      "title": "Sichuan Dry-Fried",
+      "subtitle": "Chicken & Green Bean Bowl",
+      "serves": "1 Serving",
+      "macro": "≈558 kcal | 55g P | 14g F | 53g C | 6g fiber",
+      "description": "Gan bian (dry-fried) is a Sichuan technique — screaming wok, very little oil, the protein and veg seared until edges blister. Sichuan peppercorn brings the má (numbing tingle) on top of dry-roasted chili heat. Rest day, slightly lighter portion.",
+      "ingredients": [
+        {
+          "group": "Jasmine Rice",
+          "items": [
+            "60g jasmine rice (dry weight, rinsed)",
+            "90ml water",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Dry-Fried Chicken & Green Beans",
+          "items": [
+            "200g chicken breast, cut into bite-sized chunks (against the grain)",
+            "100g green beans, trimmed, halved if long",
+            "1 tsp Sichuan peppercorns (whole) — see substitution note below",
+            "4 dried red chilies (halved, seeds shaken out for less heat)",
+            "4 garlic cloves, sliced thin",
+            "1 thumb fresh ginger, julienned",
+            "1 tbsp peanut oil (or any neutral high-smoke-point oil)",
+            "1 tsp toasted sesame oil (finish only — added off-heat)",
+            "1 tbsp LOW-SODIUM light soy sauce",
+            "1 tsp Chinese black vinegar (or rice vinegar fallback)",
+            "½ tsp sugar",
+            "2 spring onions, sliced thin (white and green parts separated)"
+          ]
+        },
+        {
+          "group": "Garlic-Sautéed Spinach",
+          "items": [
+            "100g fresh baby spinach",
+            "2 garlic cloves, minced",
+            "1 tsp olive oil",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Sichuan Peppercorn Substitution",
+          "items": [
+            "If unavailable: 1 tsp freshly cracked black pepper + zest of ½ lemon (off-heat) + 1 extra dried chili.",
+            "Pink peppercorns are NOT a substitute — different plant, no numbing effect.",
+            "You'll lose the má tingle but get a layered fragrant heat that works for the dish."
+          ]
+        }
+      ],
+      "steps": [
+        "Rice: bring rice + water + salt to boil, cover, reduce to lowest heat, 12 min. Off heat, sit 5 min. Fluff.",
+        "Spinach (3 min): heat olive oil in a small pan, add minced garlic, 20 sec until fragrant (do not brown). Add spinach in batches, toss until just wilted. Salt. Set aside.",
+        "Wok (5 min, mise en place ready): heat dry wok or heavy pan very hot. Add Sichuan peppercorns and dry chilies, toast 30 sec until fragrant — pull out and reserve.",
+        "Add peanut oil, swirl. Add chicken pieces in single layer. Do NOT stir for 60 sec — let one side sear hard. Toss, sear 60 more sec. Push to side.",
+        "Add green beans to the empty side, sear 90 sec until blistered.",
+        "Add garlic, ginger, white parts of spring onion. Toss everything together 30 sec.",
+        "Return Sichuan peppercorns and chilies to the pan.",
+        "Add soy sauce, black vinegar, sugar around the edge of the pan (so it sizzles, not steams). Toss to coat.",
+        "Off heat, drizzle sesame oil, scatter green onion tops.",
+        "Plate: rice as base. Pile dry-fried chicken + beans on top. Sautéed spinach alongside. Eat hot."
+      ],
+      "tl": {
+        "description": "Ang gan bian (dry-fried) ay isang teknik ng Sichuan — napakainit na wok, kaunti lang na mantika, ang protina at gulay ay ni-sear hanggang mag-blister ang mga gilid. Ang Sichuan peppercorn ang nagdadala ng má (nangangalay na tingle) sa ibabaw ng init ng dry-roasted na sili. Rest day, bahagyang mas maliit na porsyon.",
+        "ingredients": [
+          {
+            "group": "Jasmine Rice",
+            "items": [
+              "60g bigas na jasmine (hilaw na timbang, hinugasan)",
+              "90ml tubig",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Dry-Fried Chicken at Green Beans",
+            "items": [
+              "200g dibdib ng manok, ginawang bite-sized na piraso (laban sa grain)",
+              "100g green beans, ginupitan, hinati kung mahaba",
+              "1 kutsarita Sichuan peppercorns (buo) — tingnan ang substitution note sa baba",
+              "4 dried red chilies (hinati, iniwang buto para mas mababang init)",
+              "4 butil bawang, hiniwang manipis",
+              "1 hinlalaki sariwang luya, ginawang julienne",
+              "1 kutsara peanut oil (o kahit anong neutral na mataas ang smoke point na mantika)",
+              "1 kutsarita toasted sesame oil (pantapos lang — idinagdag alis sa apoy)",
+              "1 kutsara LOW-SODIUM light soy sauce",
+              "1 kutsarita Chinese black vinegar (o rice vinegar bilang kapalit)",
+              "½ kutsarita asukal",
+              "2 spring onions, hiniwang manipis (hiwalay ang puti at berde)"
+            ]
+          },
+          {
+            "group": "Garlic-Sautéed Spinach",
+            "items": [
+              "100g sariwang baby spinach",
+              "2 butil bawang, tinadtad",
+              "1 kutsarita olive oil",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Sichuan Peppercorn Substitution",
+            "items": [
+              "Kung wala: 1 kutsarita sariwang durog na paminta + zest ng ½ lemon (alis sa apoy) + 1 dagdag na dried chili.",
+              "Ang pink peppercorns ay HINDI kapalit — ibang halaman, walang nangangalay na epekto.",
+              "Mawawala ang má na tingle pero makakakuha ka ng layered na mabangong init na bagay sa putahe."
+            ]
+          }
+        ],
+        "steps": [
+          "Kanin: pakuluan ang bigas + tubig + asin, takpan, hinaan sa pinakamababa, 12 minuto. Alis sa apoy, iwan 5 minuto. Buhaghagin.",
+          "Spinach (3 minuto): painitin ang olive oil sa maliit na kawali, ilagay ang tinadtad na bawang, 20 segundo hanggang bumango (huwag i-brown). Ilagay ang spinach nang paunti-unti, haluin hanggang lumanta lang. Asnan. Itabi.",
+          "Wok (5 minuto, handa na ang mise en place): painitin nang husto ang tuyong wok o mabigat na kawali. Ilagay ang Sichuan peppercorns at dried chilies, i-toast 30 segundo hanggang bumango — hanguin at itabi.",
+          "Ilagay ang peanut oil, iikot. Ilagay ang manok sa isang layer. HUWAG haluin ng 60 segundo — hayaang mag-sear nang husto ang isang gilid. Haluin, i-sear pa ng 60 segundo. Itabi sa gilid.",
+          "Ilagay ang green beans sa walang laman na gilid, i-sear 90 segundo hanggang mag-blister.",
+          "Ilagay ang bawang, luya, puting bahagi ng spring onion. Haluin lahat 30 segundo.",
+          "Ibalik ang Sichuan peppercorns at chilies sa kawali.",
+          "Ilagay ang toyo, black vinegar, asukal sa gilid ng kawali (para sumirit, hindi mag-singaw). Haluin para mabalot.",
+          "Alis sa apoy, patakan ng sesame oil, ikalat ang berdeng bahagi ng spring onion.",
+          "Ihain: kanin bilang base. Ibunton ang dry-fried na manok + beans sa ibabaw. Sautéed spinach sa tabi. Kaining mainit."
+        ]
+      },
+      "tier": "Loved"
+    },
+    {
+      "id": "win-aji",
+      "collection": "Winners",
+      "category": "Chicken",
+      "cuisine": "Peruvian",
+      "title": "Peruvian",
+      "subtitle": "Aji de Gallina Bowl",
+      "serves": "1 Serving",
+      "macro": "≈666 kcal | 52g P | 26g F | 56g C | 7g fiber",
+      "description": "Peru's national comfort dish — shredded poached chicken in a creamy yellow-chili-walnut sauce, classically served over rice with potato, black olives, boiled egg. We swap the boiled egg for sunny-side-up (your rule). Aji amarillo paste is the soul — fruity, mildly spicy yellow Peruvian chili. Post-leg-day dinner.",
+      "ingredients": [
+        {
+          "group": "Poached Chicken",
+          "items": [
+            "200g chicken breast (1 piece, room temp before cooking)",
+            "Water to cover by 2cm",
+            "1 small bay leaf",
+            "1 garlic clove, smashed",
+            "1 small piece celery (optional)",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Aji Amarillo Sauce (from Sunday batch)",
+          "items": [
+            "4–5 tbsp aji amarillo sauce (warmed in a small pan)"
+          ]
+        },
+        {
+          "group": "Jasmine Rice",
+          "items": [
+            "60g jasmine rice (dry, rinsed)",
+            "90ml water",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Salsa Criolla (fresh, Monday morning — does NOT keep)",
+          "items": [
+            "30g red onion, sliced as thin as possible (mandoline)",
+            "1 tbsp lime juice",
+            "1 tsp finely chopped cilantro",
+            "½ fresh green chili, finely minced, seeds out (start with ¼ if super-spicy)",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Toppings (per bowl)",
+          "items": [
+            "1 small boiled potato (≈80g), peeled, sliced into 3–4 rounds (boil 12–15 min from cold salted water with skin on, peel after)",
+            "4–5 black olives (Kalamata or Peruvian botija)",
+            "1 egg, sunny-side up (yolk runny)",
+            "1 tbsp toasted walnuts, roughly chopped",
+            "1 tsp fresh parsley or cilantro, chopped",
+            "Lime wedge"
+          ]
+        },
+        {
+          "group": "Aji Amarillo Sauce (Peruvian Yellow Chili Cream) (make ahead)",
+          "items": [
+            "1 medium yellow onion, finely diced",
+            "4 garlic cloves, minced",
+            "3 tbsp aji amarillo paste (Belazu or Doña Isabel — Carrefour Hyatt Plaza international aisle)",
+            "30g walnuts, soaked in hot water 10 min then drained",
+            "2 slices stale white bread, crusts off, soaked in 100ml low-fat milk",
+            "100ml evaporated milk, light (Carnation)",
+            "30g grated parmesan",
+            "2 tbsp olive oil",
+            "½ tsp ground cumin",
+            "½ tsp turmeric",
+            "Salt, black pepper"
+          ]
+        }
+      ],
+      "steps": [
+        "Salsa criolla (Monday morning, 2 min): combine sliced onion + lime + cilantro + chili + salt in a small bowl. Toss. Sit 10 min while everything else comes together — the onion mellows and turns pink.",
+        "Rice (15 min): bring rice + water + salt to a boil, cover, lowest heat, 12 min. Off heat, sit 5 min. Fluff.",
+        "Chicken (15 min, start with rice): in a small pot, cover chicken with water, add bay leaf + garlic + celery + salt. Bring to a bare simmer (small bubbles, NEVER a hard boil — boiling makes chicken tough). Simmer 10–12 min until just cooked through (74°C). Off heat, sit 3 min in the liquid. Lift out, cool 2 min, shred with two forks into bite-sized pieces.",
+        "Combine: warm 4–5 tbsp aji amarillo sauce in a small pan. Add shredded chicken, toss to coat, warm through 1 min — should be saucy, not dry.",
+        "Fried egg (2 min): crack into a non-stick pan with a film of oil. Sunny-side, cover 90 sec for crispy edges + runny yolk.",
+        "Plate: rice as base. Pile saucy chicken on top, spooning extra sauce around. Fan sliced potato along one side. Cluster the olives. Mound salsa criolla on the other side. Slide fried egg on top of chicken. Scatter toasted walnuts, parsley. Lime wedge on the rim.",
+        "Make-ahead — Aji Amarillo Sauce (Peruvian Yellow Chili Cream): Heat olive oil in a heavy pan on medium. Add diced onion + pinch salt, cook 8–10 min until very soft and just starting to color. Add garlic, cumin, turmeric, cook 1 min. Add aji amarillo paste, stir 2 min — should smell deep and fruity, not raw. Add drained walnuts, the milk-soaked bread (squeezed lightly), evaporated milk, parmesan. Stir to combine. Simmer 5 min. Off heat, transfer to a blender, blend smooth (or immersion blender in the pan). Taste, adjust salt. Cool, jar, refrigerate — holds 5 days."
+      ],
+      "tl": {
+        "description": "Ang pambansang comfort dish ng Peru — hinimay na pinakuluang manok sa creamy na dilaw-na-sili-at-walnut na sarsa, klasikong inihahain sa ibabaw ng kanin na may patatas, black olives, pinakuluang itlog. Pinalitan namin ang pinakuluang itlog ng sunny-side-up (ang tuntunin mo). Ang aji amarillo paste ang kaluluwa — prutas, bahagyang maanghang na dilaw na Peruvian chili. Hapunan pagkatapos ng leg day.",
+        "ingredients": [
+          {
+            "group": "Pinakuluang Manok",
+            "items": [
+              "200g dibdib ng manok (1 piraso, room temp bago lutuin)",
+              "Tubig na tatakip ng 2cm",
+              "1 maliit na bay leaf",
+              "1 butil bawang, dinurog",
+              "1 maliit na piraso celery (opsyonal)",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Aji Amarillo Sauce (galing Linggong batch)",
+            "items": [
+              "4–5 kutsara aji amarillo sauce (pinainit sa maliit na kawali)"
+            ]
+          },
+          {
+            "group": "Jasmine Rice",
+            "items": [
+              "60g bigas na jasmine (hilaw, hinugasan)",
+              "90ml tubig",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Salsa Criolla (sariwa, Lunes umaga — HINDI natatago)",
+            "items": [
+              "30g pulang sibuyas, hiniwang kasing-nipis kaya (mandoline)",
+              "1 kutsara katas ng dayap",
+              "1 kutsarita cilantro, tinadtad nang pino",
+              "½ sariwang berdeng sili, tinadtad nang pino, walang buto (magsimula sa ¼ kung sobrang anghang)",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Toppings (bawat mangkok)",
+            "items": [
+              "1 maliit na pinakuluang patatas (≈80g), binalatan, hiniwa sa 3–4 na bilog (pakuluan 12–15 minuto mula sa malamig na inasnang tubig na may balat, balatan pagkatapos)",
+              "4–5 black olives (Kalamata o Peruvian botija)",
+              "1 itlog, sunny-side up (malabnaw ang pula)",
+              "1 kutsara toasted walnuts, hiniwang magaspang",
+              "1 kutsarita sariwang parsley o cilantro, tinadtad",
+              "Hiwa ng dayap"
+            ]
+          },
+          {
+            "group": "Aji Amarillo Sauce (Peruvian Yellow Chili Cream) (gawin nang maaga)",
+            "items": [
+              "1 katamtamang dilaw na sibuyas, hiniwang pino",
+              "4 butil bawang, tinadtad",
+              "3 kutsara aji amarillo paste (Belazu o Doña Isabel — Carrefour Hyatt Plaza international aisle)",
+              "30g walnuts, ibinabad sa mainit na tubig 10 minuto tapos sinala",
+              "2 hiwa lipas na puting tinapay, tinanggalan ng gilid, ibinabad sa 100ml low-fat na gatas",
+              "100ml evaporated milk, light (Carnation)",
+              "30g kinudkod na parmesan",
+              "2 kutsara olive oil",
+              "½ kutsarita durog na cumin",
+              "½ kutsarita turmeric",
+              "Asin, paminta"
+            ]
+          }
+        ],
+        "steps": [
+          "Salsa criolla (Lunes umaga, 2 minuto): pagsamahin ang hiniwang sibuyas + dayap + cilantro + sili + asin sa maliit na mangkok. Haluin. Iwan 10 minuto habang natatapos ang lahat — lumalambot ang sibuyas at nagiging kulay-rosas.",
+          "Kanin (15 minuto): pakuluan ang bigas + tubig + asin, takpan, pinakamababang apoy, 12 minuto. Alis sa apoy, iwan 5 minuto. Buhaghagin.",
+          "Manok (15 minuto, simulan kasabay ng kanin): sa maliit na kaldero, takpan ng tubig ang manok, ilagay ang bay leaf + bawang + celery + asin. Dahan-dahang pakuluan (maliliit na bula, HINDI kailanman malakas na kulo — natitigas ang manok kapag pinakuluan nang malakas). Pakuluan 10–12 minuto hanggang kasisiluto lang (74°C). Alis sa apoy, iwan 3 minuto sa sabaw. Hanguin, palamigin 2 minuto, himayin gamit ang dalawang tinidor sa bite-sized na piraso.",
+          "Pagsamahin: painitin ang 4–5 kutsara aji amarillo sauce sa maliit na kawali. Ilagay ang hinimay na manok, haluin para mabalot, painitin 1 minuto — dapat masarsa, hindi tuyo.",
+          "Piniritong itlog (2 minuto): basagin sa non-stick na kawali na may kaunting mantika. Sunny-side, takpan 90 segundo para sa malutong na gilid + malabnaw na pula.",
+          "Ihain: kanin bilang base. Ibunton ang masarsang manok sa ibabaw, sandukan ng dagdag na sarsa sa paligid. Ipamaypay ang hiniwang patatas sa isang gilid. Ikumpol ang olives. Ibunton ang salsa criolla sa kabilang gilid. Ipatong ang piniritong itlog sa manok. Ikalat ang toasted walnuts, parsley. Hiwa ng dayap sa gilid.",
+          "Gawin nang maaga — Aji Amarillo Sauce (Peruvian Yellow Chili Cream): Painitin ang olive oil sa mabigat na kawali sa katamtamang apoy. Ilagay ang hiniwang sibuyas + kurot na asin, lutuin 8–10 minuto hanggang napakalambot at nagsisimulang mangulay. Ilagay ang bawang, cumin, turmeric, lutuin 1 minuto. Ilagay ang aji amarillo paste, haluin 2 minuto — dapat malalim at prutas ang amoy, hindi hilaw. Ilagay ang sinalang walnuts, ang tinapay na ibinabad sa gatas (pinigang bahagya), evaporated milk, parmesan. Haluin para magsama. Pakuluan nang dahan-dahan 5 minuto. Alis sa apoy, ilipat sa blender, i-blend hanggang makinis (o immersion blender sa kawali). Tikman, ayusin ang asin. Palamigin, ilagay sa garapon, i-refrigerate — tumatagal 5 araw."
+        ]
+      },
+      "tier": "Loved"
+    },
+    {
+      "id": "win-souvlaki",
+      "collection": "Winners",
+      "category": "Lamb",
+      "cuisine": "Greek",
+      "title": "Greek Lamb",
+      "subtitle": "Souvlaki Bowl",
+      "serves": "1 Serving",
+      "macro": "≈688 kcal | 50g P | 32g F | 50g C | 8g fiber",
+      "description": "Greek. Heme iron for MCH. Whole lamb cubes, not ground — different texture from Week 4 kofta. Fire does the work; tzatziki carries the fat.",
+      "ingredients": [
+        {
+          "group": "Lemon Freekeh Base",
+          "items": [
+            "50g cracked freekeh (dry weight)",
+            "Pinch salt, squeeze of lemon after cooking"
+          ]
+        },
+        {
+          "group": "Souvlaki",
+          "items": [
+            "220g lamb leg or shoulder, cut into ~2.5cm cubes",
+            "1 tbsp olive oil",
+            "1 tbsp lemon juice",
+            "2 cloves garlic, minced",
+            "1 tsp dried oregano (Greek if available)",
+            "1 bay leaf, crumbled",
+            "Salt, black pepper",
+            "Marinate overnight — non-negotiable for tenderness"
+          ]
+        },
+        {
+          "group": "Greek Salad (Finely Diced)",
+          "items": [
+            "¼ cucumber, finely diced",
+            "1 small tomato, finely diced",
+            "2 tbsp red onion, finely diced",
+            "8 kalamata olives, halved",
+            "25g feta, crumbled (small — flavor accent only)",
+            "1 tsp red wine vinegar + 1 tsp olive oil + pinch oregano"
+          ]
+        },
+        {
+          "group": "Tzatziki",
+          "items": [
+            "70g full-fat Greek yogurt",
+            "2 tbsp grated cucumber, squeezed completely dry",
+            "1 small clove garlic, grated",
+            "1 tsp lemon juice",
+            "1 tsp finely chopped fresh dill",
+            "1 tsp finely chopped fresh mint",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Crunch & Finish",
+          "items": [
+            "Small handful pita chips (½ small pita, torn, toasted dry until crisp)",
+            "Extra oregano, lemon wedge",
+            "Drizzle olive oil only if bowl looks dry"
+          ]
+        }
+      ],
+      "steps": [
+        "Marinate lamb the night before. Toss cubes with all marinade ingredients, refrigerate covered.",
+        "Freekeh: rinse, simmer in 150ml water + salt, 20 min covered. Squeeze lemon through, fluff.",
+        "Tzatziki: grate cucumber, salt it, drain 10 min, squeeze in towel. Add to yogurt with garlic, lemon, herbs, salt. Rest 10 min for flavors to meld.",
+        "Greek salad: combine all diced veg, dress with vinegar + oil + oregano. Don’t dress more than 5 min before serving.",
+        "Lamb: skewers optional. Hot grill or cast-iron, screaming heat. 2 min per side for medium-rare (4 sides cubed = 8 min total). Rest 3 min.",
+        "Pita chips: tear pita, toast dry in pan or oven until crisp.",
+        "Assemble: lemon freekeh → lamb cubes → Greek salad piled to one side → generous tzatziki → kalamata → crumbled feta → pita chips → oregano → lemon."
+      ],
+      "tl": {
+        "description": "Greek. Heme iron para sa MCH. Buong cubes ng lamb, hindi giniling — ibang texture sa kofta ng Week 4. Ang apoy ang gumagawa ng trabaho; ang tzatziki ang nagdadala ng taba.",
+        "ingredients": [
+          {
+            "group": "Lemon Freekeh Base",
+            "items": [
+              "50g cracked freekeh (hilaw na timbang)",
+              "Kurot na asin, piga ng lemon pagkaluto"
+            ]
+          },
+          {
+            "group": "Souvlaki",
+            "items": [
+              "220g lamb leg o shoulder, ginawang ~2.5cm na cubes",
+              "1 kutsara olive oil",
+              "1 kutsara katas ng lemon",
+              "2 butil bawang, tinadtad",
+              "1 kutsarita dried oregano (Greek kung meron)",
+              "1 bay leaf, dinurog",
+              "Asin, paminta",
+              "I-marinate magdamag — hindi mababago para sa lambot"
+            ]
+          },
+          {
+            "group": "Greek Salad (Hiniwang Pino)",
+            "items": [
+              "¼ pipino, hiniwang pino",
+              "1 maliit na kamatis, hiniwang pino",
+              "2 kutsara pulang sibuyas, hiniwang pino",
+              "8 kalamata olives, hinati",
+              "25g feta, dinurog (maliit — accent lang ng lasa)",
+              "1 kutsarita red wine vinegar + 1 kutsarita olive oil + kurot na oregano"
+            ]
+          },
+          {
+            "group": "Tzatziki",
+            "items": [
+              "70g full-fat Greek yogurt",
+              "2 kutsara kinudkod na pipino, pinigang tuyong-tuyo",
+              "1 maliit na butil bawang, kinudkod",
+              "1 kutsarita katas ng lemon",
+              "1 kutsarita sariwang dill, tinadtad nang pino",
+              "1 kutsarita sariwang mint, tinadtad nang pino",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Crunch at Pantapos",
+            "items": [
+              "Isang dakot pita chips (½ maliit na pita, pinunit, tinoast nang tuyo hanggang malutong)",
+              "Dagdag na oregano, hiwa ng lemon",
+              "Patak ng olive oil lamang kung mukhang tuyo ang mangkok"
+            ]
+          }
+        ],
+        "steps": [
+          "I-marinate ang lamb kagabi. Haluin ang cubes sa lahat ng marinade, i-refrigerate na nakatakip.",
+          "Freekeh: hugasan, pakuluan nang dahan-dahan sa 150ml tubig + asin, 20 minuto na nakatakip. Pigain ang lemon, buhaghagin.",
+          "Tzatziki: kudkurin ang pipino, asnan, salain 10 minuto, pigain sa tuwalya. Ihalo sa yogurt kasama ang bawang, lemon, herbs, asin. Iwan 10 minuto para magsama ang lasa.",
+          "Greek salad: pagsamahin ang lahat ng hiniwang gulay, timplahan ng vinegar + oil + oregano. Huwag timplahan nang mahigit 5 minuto bago ihain.",
+          "Lamb: opsyonal ang skewers. Mainit na griller o cast-iron, napakainit. 2 minuto bawat gilid para sa medium-rare (4 gilid ng cube = 8 minuto lahat). Ipahinga 3 minuto.",
+          "Pita chips: punitin ang pita, i-toast nang tuyo sa kawali o oven hanggang malutong.",
+          "Buuin: lemon freekeh → cubes ng lamb → Greek salad na nakabunton sa isang gilid → sagana na tzatziki → kalamata → dinurog na feta → pita chips → oregano → lemon."
+        ]
+      },
+      "tier": "Loved"
+    },
+    {
+      "id": "win-bibimbap",
+      "collection": "Winners",
+      "category": "Beef",
+      "cuisine": "Korean",
+      "title": "Korean Beef",
+      "subtitle": "Bulgogi Bibimbap Bowl",
+      "serves": "1 Serving",
+      "macro": "≈688 kcal | 50g P | 24g F | 68g C | 8g fiber",
+      "description": "The OG assortment bowl. Korean mixed rice with five seasoned vegetable piles (namul), marinated lean beef, gochujang sauce, fried egg on top. Break the yolk, mix everything, every spoonful is a different combination. Lean beef sirloin or eye of round keeps the lipid panel honest. Rest day before Monday's gym.",
+      "ingredients": [
+        {
+          "group": "Bulgogi Beef — marinate Saturday night, 12–24 hrs",
+          "items": [
+            "200g lean beef sirloin or eye of round, sliced as thin as possible against the grain (freeze 30 min first for easier slicing)",
+            "1 tbsp low-sodium soy sauce",
+            "1 tsp toasted sesame oil",
+            "1 tsp brown sugar (NOT optional — small, the caramelization is the point)",
+            "1 tsp grated Asian pear or apple (tenderizes — sub: 1 tsp honey + 1 tsp grated onion)",
+            "2 garlic cloves, grated",
+            "1 tsp grated fresh ginger",
+            "1 spring onion, sliced thin (white parts)",
+            "Pinch black pepper",
+            "1 tsp olive oil for searing"
+          ]
+        },
+        {
+          "group": "Sesame Rice",
+          "items": [
+            "60g short-grain rice (dry, rinsed until water runs clear)",
+            "90ml water",
+            "Pinch salt",
+            "½ tsp toasted sesame oil (stir in after cooking)"
+          ]
+        },
+        {
+          "group": "Namul Trio (Sunday batch)",
+          "items": [
+            "Sigeumchi namul (spinach) — ≈50g portion",
+            "Carrot namul — ≈30g portion",
+            "Kongnamul (bean sprouts) — ≈40g portion"
+          ]
+        },
+        {
+          "group": "Quick Mushroom Side (fresh, day-of)",
+          "items": [
+            "60g shiitake or button mushrooms, sliced",
+            "½ tsp olive oil",
+            "½ tsp low-sodium soy sauce",
+            "Pinch black pepper"
+          ]
+        },
+        {
+          "group": "Toppings (per bowl)",
+          "items": [
+            "1 egg, fried sunny-side or over-easy (yolk runny)",
+            "20g kimchi (well-fermented, store-bought)",
+            "1 sheet gim (Korean toasted seaweed), shredded with scissors — OR 1 tsp furikake",
+            "1 spring onion, sliced thin (green parts)",
+            "½ tsp toasted sesame seeds",
+            "2 tbsp gochujang sauce (from Sunday batch)"
+          ]
+        },
+        {
+          "group": "Sigeumchi Namul (Spinach)",
+          "items": [
+            "100g fresh baby spinach",
+            "½ tsp toasted sesame oil",
+            "½ tsp low-sodium soy sauce",
+            "1 small garlic clove, grated",
+            "½ tsp toasted sesame seeds",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Kongnamul (Bean Sprouts)",
+          "items": [
+            "80g soybean or mung bean sprouts",
+            "½ tsp toasted sesame oil",
+            "1 small garlic clove, grated",
+            "1 spring onion, sliced thin (green parts)",
+            "Pinch salt",
+            "¼ tsp toasted sesame seeds"
+          ]
+        },
+        {
+          "group": "Carrot Namul",
+          "items": [
+            "60g carrot, julienned (matchsticks)",
+            "½ tsp toasted sesame oil",
+            "Pinch salt",
+            "¼ tsp toasted sesame seeds"
+          ]
+        },
+        {
+          "group": "Gochujang Sauce (yields ~6 servings)",
+          "items": [
+            "3 tbsp gochujang (CJ Haechandle or similar fermented chili paste — NOT gochugaru flakes)",
+            "1 tbsp toasted sesame oil",
+            "1 tbsp rice vinegar",
+            "1 tsp honey (or brown sugar)",
+            "1 garlic clove, grated",
+            "1 tsp toasted sesame seeds",
+            "1–2 tbsp water (thin to drizzle)"
+          ]
+        }
+      ],
+      "steps": [
+        "Marinade (Saturday night): whisk soy, sesame oil, brown sugar, grated pear, garlic, ginger, spring onion whites, black pepper in a bowl. Add sliced beef, massage in. Cover, refrigerate 12–24 hrs.",
+        "Rice: bring rice + water + salt to a boil, cover, lowest heat, 12 min. Off heat, sit 5 min. Fluff, stir in ½ tsp sesame oil.",
+        "Mushrooms (3 min): heat olive oil in a pan, add mushrooms in single layer, sear 90 sec without stirring until browned. Toss, 60 sec more, add soy + pepper, off heat. Set aside.",
+        "Beef (3–4 min, super hot pan): heat olive oil in a heavy pan on high. Add marinated beef in single layer (work in 2 batches if needed — overcrowding steams instead of sears). Don't move it for 60 sec, let it caramelize. Toss, 60 more sec, done. Pull off heat immediately.",
+        "Fried egg (2 min): crack into a non-stick pan with a film of oil, medium heat. Cover for 90 sec — crispy white edges, runny yolk.",
+        "Plate: rice as base. Around the perimeter, small piles: spinach namul, carrot namul, bean sprout namul, mushrooms, kimchi. Pile beef in the center. Slide fried egg on top of beef. Drizzle 2 tbsp gochujang sauce across the bowl. Scatter sesame, scallion greens, gim. Break the yolk and mix everything together when you eat.",
+        "Make-ahead — Korean Namul Trio (Spinach, Bean Sprout, Carrot): Bring a medium pot of salted water to a boil. Spinach: drop in for 30 sec, lift out with a slotted spoon into a bowl of ice water. Squeeze dry hard (most of the volume is water). Toss with sesame oil, soy, garlic, sesame seeds, pinch salt. Jar. Bean sprouts: drop in the same pot for 2 min, lift out, ice bath, drain. Toss with sesame oil, garlic, spring onion green, salt, sesame seeds. Jar. Carrot: in a small dry pan, heat over medium, no oil. Add julienned carrot, toss 90 sec until just softened but still crisp. Off heat. Toss with sesame oil, salt, sesame seeds. Jar. All three hold 3 days refrigerated.",
+        "Make-ahead — Gochujang Sauce: Gochujang sauce: whisk all ingredients in a small bowl, starting with 1 tbsp water and adding more until pourable. Jar. Holds 5 days. Sunomono: combine all ingredients in a jar, shake. Refrigerate. Drains liquid as it sits — that's fine, lift the cucumber out with a slotted spoon when serving."
+      ],
+      "tl": {
+        "description": "Ang OG assortment bowl. Korean mixed rice na may limang tinimplahang bunton ng gulay (namul), ni-marinate na lean beef, gochujang sauce, piniritong itlog sa ibabaw. Basagin ang pula, haluin lahat, iba ang kombinasyon ng bawat kutsara. Lean beef sirloin o eye of round para panatilihing tapat ang lipid panel. Rest day bago ang gym ng Lunes.",
+        "ingredients": [
+          {
+            "group": "Bulgogi Beef — i-marinate Sabado gabi, 12–24 oras",
+            "items": [
+              "200g lean beef sirloin o eye of round, hiniwang kasing-nipis kaya laban sa grain (i-freeze 30 minuto muna para mas madaling hiwain)",
+              "1 kutsara low-sodium soy sauce",
+              "1 kutsarita toasted sesame oil",
+              "1 kutsarita brown sugar (HINDI opsyonal — maliit, ang caramelization ang punto)",
+              "1 kutsarita kinudkod na Asian pear o mansanas (pampalambot — kapalit: 1 kutsarita pulot + 1 kutsarita kinudkod na sibuyas)",
+              "2 butil bawang, kinudkod",
+              "1 kutsarita kinudkod na sariwang luya",
+              "1 spring onion, hiniwang manipis (puting bahagi)",
+              "Kurot na paminta",
+              "1 kutsarita olive oil para sa pag-sear"
+            ]
+          },
+          {
+            "group": "Sesame Rice",
+            "items": [
+              "60g short-grain rice (hilaw, hinugasan hanggang luminaw ang tubig)",
+              "90ml tubig",
+              "Kurot na asin",
+              "½ kutsarita toasted sesame oil (ihalo pagkaluto)"
+            ]
+          },
+          {
+            "group": "Namul Trio (Linggong batch)",
+            "items": [
+              "Sigeumchi namul (spinach) — ≈50g porsyon",
+              "Carrot namul — ≈30g porsyon",
+              "Kongnamul (bean sprouts) — ≈40g porsyon"
+            ]
+          },
+          {
+            "group": "Mabilisang Mushroom Side (sariwa, sa mismong araw)",
+            "items": [
+              "60g shiitake o button mushrooms, hiniwa",
+              "½ kutsarita olive oil",
+              "½ kutsarita low-sodium soy sauce",
+              "Kurot na paminta"
+            ]
+          },
+          {
+            "group": "Toppings (bawat mangkok)",
+            "items": [
+              "1 itlog, piniritong sunny-side o over-easy (malabnaw ang pula)",
+              "20g kimchi (mahusay na fermented, bili sa tindahan)",
+              "1 sheet gim (Korean toasted seaweed), ginupitan ng gunting — O 1 kutsarita furikake",
+              "1 spring onion, hiniwang manipis (berdeng bahagi)",
+              "½ kutsarita toasted sesame seeds",
+              "2 kutsara gochujang sauce (galing Linggong batch)"
+            ]
+          },
+          {
+            "group": "Sigeumchi Namul (Spinach)",
+            "items": [
+              "100g sariwang baby spinach",
+              "½ kutsarita toasted sesame oil",
+              "½ kutsarita low-sodium soy sauce",
+              "1 maliit na butil bawang, kinudkod",
+              "½ kutsarita toasted sesame seeds",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Kongnamul (Bean Sprouts)",
+            "items": [
+              "80g soybean o mung bean sprouts",
+              "½ kutsarita toasted sesame oil",
+              "1 maliit na butil bawang, kinudkod",
+              "1 spring onion, hiniwang manipis (berdeng bahagi)",
+              "Kurot na asin",
+              "¼ kutsarita toasted sesame seeds"
+            ]
+          },
+          {
+            "group": "Carrot Namul",
+            "items": [
+              "60g karot, ginawang julienne (matchsticks)",
+              "½ kutsarita toasted sesame oil",
+              "Kurot na asin",
+              "¼ kutsarita toasted sesame seeds"
+            ]
+          },
+          {
+            "group": "Gochujang Sauce (yields ~6 servings)",
+            "items": [
+              "3 kutsara gochujang (CJ Haechandle o katulad na fermented chili paste — HINDI gochugaru flakes)",
+              "1 kutsara toasted sesame oil",
+              "1 kutsara suka (rice vinegar)",
+              "1 kutsarita pulot (o brown sugar)",
+              "1 butil bawang, kinudkod",
+              "1 kutsarita toasted sesame seeds",
+              "1–2 kutsara tubig (para lumabnaw at ma-drizzle)"
+            ]
+          }
+        ],
+        "steps": [
+          "Marinade (Sabado gabi): haluin ang toyo, sesame oil, brown sugar, kinudkod na pear, bawang, luya, puting spring onion, paminta sa mangkok. Ilagay ang hiniwang beef, masahin. Takpan, i-refrigerate 12–24 oras.",
+          "Kanin: pakuluan ang bigas + tubig + asin, takpan, pinakamababang apoy, 12 minuto. Alis sa apoy, iwan 5 minuto. Buhaghagin, ihalo ang ½ kutsarita sesame oil.",
+          "Mushrooms (3 minuto): painitin ang olive oil sa kawali, ilagay ang mushrooms sa isang layer, i-sear 90 segundo nang hindi hinahalo hanggang mag-brown. Haluin, 60 segundo pa, ilagay ang toyo + paminta, alis sa apoy. Itabi.",
+          "Beef (3–4 minuto, napakainit na kawali): painitin ang olive oil sa mabigat na kawali sa mataas na apoy. Ilagay ang ni-marinate na beef sa isang layer (gawin sa 2 batch kung kailangan — ang sobrang siksik ay nagsi-singaw hindi nagse-sear). Huwag galawin ng 60 segundo, hayaang mag-caramelize. Haluin, 60 segundo pa, tapos na. Hanguin agad sa apoy.",
+          "Piniritong itlog (2 minuto): basagin sa non-stick na kawali na may kaunting mantika, katamtamang apoy. Takpan ng 90 segundo — malutong na puting gilid, malabnaw na pula.",
+          "Ihain: kanin bilang base. Sa paligid, maliliit na bunton: spinach namul, carrot namul, bean sprout namul, mushrooms, kimchi. Ibunton ang beef sa gitna. Ipatong ang piniritong itlog sa beef. Patakan ng 2 kutsara gochujang sauce sa mangkok. Ikalat ang sesame, berdeng spring onion, gim. Basagin ang pula at haluin lahat kapag kakain na.",
+          "Gawin nang maaga — Korean Namul Trio (Spinach, Bean Sprout, Carrot): Pakuluan ang katamtamang kaldero ng inasnang tubig. Spinach: ilagay 30 segundo, hanguin gamit ang slotted spoon sa mangkok ng tubig na may yelo. Pigain nang husto (karamihan ng volume ay tubig). Haluin sa sesame oil, toyo, bawang, sesame seeds, kurot na asin. Ilagay sa garapon. Bean sprouts: ilagay sa parehong kaldero 2 minuto, hanguin, ice bath, salain. Haluin sa sesame oil, bawang, berdeng spring onion, asin, sesame seeds. Ilagay sa garapon. Carrot: sa maliit na tuyong kawali, painitin sa katamtaman, walang mantika. Ilagay ang julienned na karot, haluin 90 segundo hanggang lumambot lang pero malutong pa. Alis sa apoy. Haluin sa sesame oil, asin, sesame seeds. Ilagay sa garapon. Lahat ng tatlo ay tumatagal 3 araw sa refrigerator.",
+          "Gawin nang maaga — Gochujang Sauce: Gochujang sauce: haluin ang lahat ng sangkap sa maliit na mangkok, magsimula sa 1 kutsara tubig at dagdagan hanggang maibubuhos. Ilagay sa garapon. Tumatagal 5 araw. Sunomono: pagsamahin ang lahat sa garapon, iling. I-refrigerate. Naglalabas ng tubig habang nakatago — ayos lang iyon, hanguin ang pipino gamit ang slotted spoon kapag naghahain."
+        ]
+      },
+      "tier": "Loved"
+    },
+    {
+      "id": "win-poke",
+      "collection": "Winners",
+      "category": "Fish",
+      "cuisine": "Hawaiian",
+      "title": "Hawaiian",
+      "subtitle": "Salmon Poke Bowl",
+      "serves": "1 Serving",
+      "macro": "≈688 kcal | 48g P | 32g F | 52g C | 7g fiber",
+      "description": "Super loved — the version you've actually had: salmon COOKED THROUGH (no raw fish), with edamame, avocado and the assortment over sushi rice. Your ONE fish this week (under the 2-fish cap) and the week's omega-3 hit — a direct lever on the HDL/LDL/TG trifecta. Cubed salmon marinated soy-sesame-scallion, then seared until just opaque. Cucumber appears here once, sunomono-pickled as a condiment.",
+      "ingredients": [
+        {
+          "group": "Salmon (cooked through)",
+          "items": [
+            "200g salmon fillet, skin removed, cubed into 2cm pieces",
+            "1 tbsp low-sodium soy sauce",
+            "1 tsp toasted sesame oil",
+            "1 tsp rice vinegar (or mirin)",
+            "1 tsp grated fresh ginger",
+            "1 garlic clove, grated",
+            "1 tsp toasted sesame seeds",
+            "1 spring onion, sliced thin (whites)",
+            "1 tbsp olive oil (for cooking the cubes)"
+          ]
+        },
+        {
+          "group": "Sushi-Style Rice",
+          "items": [
+            "60g short-grain rice (dry, rinsed until water runs clear)",
+            "90ml water",
+            "1 tsp rice vinegar",
+            "½ tsp sugar",
+            "Pinch salt"
+          ]
+        },
+        {
+          "group": "Sunomono Cucumber (from Sunday batch)",
+          "items": [
+            "1 portion from the sunomono jar, drained with a slotted spoon"
+          ]
+        },
+        {
+          "group": "Toppings (per bowl)",
+          "items": [
+            "60g shelled edamame (frozen, blanched 3 min in salted boiling water)",
+            "½ small avocado (≈60g), cubed, squeeze of lemon",
+            "1 tbsp pickled ginger (gari, drained)",
+            "1 sheet nori, cut into thin strips (or 1 tsp furikake)",
+            "1 spring onion, sliced thin (greens)",
+            "1 tsp toasted sesame seeds",
+            "1 tsp crispy fried shallot or crispy garlic",
+            "Optional: 1 tsp Kewpie mayo + ½ tsp harissa, whisked, drizzled (+30 kcal)"
+          ]
+        },
+        {
+          "group": "Sunomono Cucumber (make ahead)",
+          "items": [
+            "1 medium cucumber, ends trimmed, very finely diced (or shredded on a julienne peeler)",
+            "1 tbsp rice vinegar",
+            "1 tsp sugar",
+            "½ tsp salt",
+            "½ tsp toasted sesame oil",
+            "½ tsp toasted sesame seeds"
+          ]
+        }
+      ],
+      "steps": [
+        "Rice (15 min): bring rice + water + salt to a boil, cover, lowest heat, 12 min. Off heat, sit 5 min. While warm, fold in the rice vinegar + sugar (warmed 10 sec to dissolve). Fluff.",
+        "Salmon marinade (10 min before serving): whisk soy, sesame oil, rice vinegar, ginger, garlic, sesame seeds, spring onion whites. Add cubed salmon, toss gently. Marinate 5–10 min.",
+        "Cook the salmon (cooked through, ~4 min): heat 1 tbsp olive oil in a non-stick pan over medium-high. Lift cubes from marinade (reserve it), pat dry. Sear undisturbed 90 sec, turn, cook another 90 sec–2 min, rolling to colour the sides, until just opaque all the way through but still moist — don't dry it out. Off heat, drizzle the reserved marinade over and toss.",
+        "Edamame (3 min): blanch in boiling salted water 3 min, drain.",
+        "Plate: rice as base. Salmon cubes piled center, marinade drizzled. Around the edge in small piles: edamame, avocado, sunomono, pickled ginger. Scatter nori strips, scallion greens, sesame, crispy shallot. Optional Kewpie-harissa drizzle for richness.",
+        "Make-ahead — Sunomono Cucumber: Combine all ingredients in a jar, shake. Refrigerate. Drains liquid as it sits — that's fine. Lift the cucumber out with a slotted spoon when serving."
+      ],
+      "tl": {
+        "description": "Napakamahal — ang bersyong talagang nakain mo na: salmon na LUTONG-LUTO (walang hilaw na isda), may edamame, avocado at ang assortment sa ibabaw ng sushi rice. Ang IISANG isda mo ngayong linggo (sa ilalim ng 2-fish cap) at ang omega-3 hit ng linggo — deretsong lever sa HDL/LDL/TG. Cubed salmon na ni-marinate sa toyo-sesame-scallion, tapos ni-sear hanggang kasi-solid lang. Isang beses lang lumalabas ang pipino dito, sunomono-pickled bilang condiment.",
+        "ingredients": [
+          {
+            "group": "Salmon (lutong-luto)",
+            "items": [
+              "200g salmon fillet, tinanggalan ng balat, ginawang 2cm na cubes",
+              "1 kutsara low-sodium soy sauce",
+              "1 kutsarita toasted sesame oil",
+              "1 kutsarita suka (rice vinegar) (o mirin)",
+              "1 kutsarita kinudkod na sariwang luya",
+              "1 butil bawang, kinudkod",
+              "1 kutsarita toasted sesame seeds",
+              "1 spring onion, hiniwang manipis (puti)",
+              "1 kutsara olive oil (para sa pagluluto ng cubes)"
+            ]
+          },
+          {
+            "group": "Sushi-Style Rice",
+            "items": [
+              "60g short-grain rice (hilaw, hinugasan hanggang luminaw ang tubig)",
+              "90ml tubig",
+              "1 kutsarita suka (rice vinegar)",
+              "½ kutsarita asukal",
+              "Kurot na asin"
+            ]
+          },
+          {
+            "group": "Sunomono Cucumber (galing Linggong batch)",
+            "items": [
+              "1 porsyon mula sa sunomono jar, sinala gamit ang slotted spoon"
+            ]
+          },
+          {
+            "group": "Toppings (bawat mangkok)",
+            "items": [
+              "60g shelled edamame (frozen, blanched 3 minuto sa kumukulong inasnang tubig)",
+              "½ maliit na avocado (≈60g), ginawang cubes, piga ng lemon",
+              "1 kutsara pickled ginger (gari, sinala)",
+              "1 sheet nori, ginupit sa manipis na strips (o 1 kutsarita furikake)",
+              "1 spring onion, hiniwang manipis (berde)",
+              "1 kutsarita toasted sesame seeds",
+              "1 kutsarita crispy fried shallot o crispy garlic",
+              "Opsyonal: 1 kutsarita Kewpie mayo + ½ kutsarita harissa, hinalo, dinrizzle (+30 kcal)"
+            ]
+          },
+          {
+            "group": "Sunomono Cucumber (gawin nang maaga)",
+            "items": [
+              "1 katamtamang pipino, ginupitan ang dulo, hiniwang napakapino (o shredded sa julienne peeler)",
+              "1 kutsara suka (rice vinegar)",
+              "1 kutsarita asukal",
+              "½ kutsarita asin",
+              "½ kutsarita toasted sesame oil",
+              "½ kutsarita toasted sesame seeds"
+            ]
+          }
+        ],
+        "steps": [
+          "Kanin (15 minuto): pakuluan ang bigas + tubig + asin, takpan, pinakamababang apoy, 12 minuto. Alis sa apoy, iwan 5 minuto. Habang mainit, ihalo ang suka + asukal (pinainit 10 segundo para matunaw). Buhaghagin.",
+          "Marinade ng salmon (10 minuto bago ihain): haluin ang toyo, sesame oil, suka, luya, bawang, sesame seeds, puting spring onion. Ilagay ang cubed na salmon, haluin nang marahan. I-marinate 5–10 minuto.",
+          "Lutuin ang salmon (lutong-luto, ~4 minuto): painitin ang 1 kutsara olive oil sa non-stick na kawali sa katamtaman-mataas. Hanguin ang cubes mula sa marinade (itabi ito), patuyuin. I-sear nang hindi ginagalaw 90 segundo, baligtarin, lutuin pa 90 segundo–2 minuto, iginugulong para makulayan ang mga gilid, hanggang buong-buong luto na pero basa pa — huwag patuyuin. Alis sa apoy, patakan ng itinabing marinade at haluin.",
+          "Edamame (3 minuto): i-blanch sa kumukulong inasnang tubig 3 minuto, salain.",
+          "Ihain: kanin bilang base. Cubes ng salmon na nakabunton sa gitna, dinrizzle ng marinade. Sa paligid, maliliit na bunton: edamame, avocado, sunomono, pickled ginger. Ikalat ang nori strips, berdeng spring onion, sesame, crispy shallot. Opsyonal na Kewpie-harissa drizzle para sa yaman.",
+          "Gawin nang maaga — Sunomono Cucumber: Pagsamahin ang lahat ng sangkap sa garapon, iling. I-refrigerate. Naglalabas ng tubig habang nakatago — ayos lang iyon. Hanguin ang pipino gamit ang slotted spoon kapag naghahain."
+        ]
+      },
+      "tier": "Super loved"
+    },
+    {
+      "id": "win-teriyaki",
+      "collection": "Winners",
+      "category": "Fish",
+      "cuisine": "Japanese",
+      "title": "Salmon Teriyaki Bowl",
+      "subtitle": "",
+      "serves": "1 Serving",
+      "macro": "≈694 kcal | 50g P | 30g F | 56g C | 4g fiber",
+      "description": "Japanese. The most medically important meal of the week — ≈3.5g omega-3. Cubed salmon for maximum glaze absorption.",
+      "ingredients": [
+        {
+          "group": "Base",
+          "items": [
+            "50g jasmine rice (dry weight)",
+            "1 tsp rice wine vinegar",
+            "1 tsp toasted sesame seeds"
+          ]
+        },
+        {
+          "group": "Protein",
+          "items": [
+            "200g salmon fillet (skin removed), cut into 3–4cm cubes",
+            "Pat completely dry before cubing — this matters for the sear"
+          ]
+        },
+        {
+          "group": "Toppings",
+          "items": [
+            "150g mixed greens: baby spinach + shredded cabbage (or bok choy)",
+            "1 tsp sesame oil + 1 clove garlic sliced (for wilting greens)",
+            "30g edamame, shelled (optional)",
+            "2 tbsp pickled ginger (store-bought fine)",
+            "1 spring onion, sliced thin"
+          ]
+        },
+        {
+          "group": "Miso Teriyaki Glaze",
+          "items": [
+            "1 tbsp white miso paste",
+            "1 tbsp soy sauce",
+            "1 tsp mirin (or ½ tsp honey)",
+            "1 tsp sesame oil",
+            "Thumb-size fresh ginger, grated",
+            "Split in half — half for cooking, half for raw drizzle"
+          ]
+        },
+        {
+          "group": "Crunch & Finish",
+          "items": [
+            "1 tsp furikake (or extra sesame seeds + nori strips)",
+            "Spring onion greens",
+            "Lime wedge"
+          ]
+        }
+      ],
+      "steps": [
+        "Rice: cook per package. While warm, fold in rice wine vinegar and sesame seeds. Set aside.",
+        "Miso glaze: mix all sauce ingredients. Split in half — one for cooking, one for finishing.",
+        "Greens: hot pan, sesame oil, sliced garlic — 1 min. Add spinach/cabbage, toss 2 min. Season with a splash of soy. Set aside.",
+        "Salmon: pat very dry. Hot pan (not non-stick — you want a sear), medium-high. Cubes in pan, don’t touch for 90 seconds. Flip to second side, 90 seconds. Spoon cooking-half of glaze, toss gently, cook 30 seconds more. Caramelized outside, slightly translucent center.",
+        "Assemble: sesame rice base → wilted greens → salmon cubes → pickled ginger → edamame → drizzle remaining raw miso glaze → furikake → spring onion → lime squeeze."
+      ],
+      "tl": {
+        "description": "Japanese. Ang pinakamahalagang pagkain sa medikal ngayong linggo — ≈3.5g omega-3. Cubed salmon para sa maximum na pagsipsip ng glaze.",
+        "ingredients": [
+          {
+            "group": "Base",
+            "items": [
+              "50g bigas na jasmine (hilaw na timbang)",
+              "1 kutsarita suka (rice wine vinegar)",
+              "1 kutsarita toasted sesame seeds"
+            ]
+          },
+          {
+            "group": "Protina",
+            "items": [
+              "200g salmon fillet (tinanggalan ng balat), ginawang 3–4cm na cubes",
+              "Patuyuing lubos bago gawing cubes — mahalaga ito para sa sear"
+            ]
+          },
+          {
+            "group": "Toppings",
+            "items": [
+              "150g halong gulay: baby spinach + shredded na repolyo (o bok choy)",
+              "1 kutsarita sesame oil + 1 butil bawang na hiniwa (para sa pagpalanta ng gulay)",
+              "30g edamame, shelled (opsyonal)",
+              "2 kutsara pickled ginger (bili sa tindahan ayos lang)",
+              "1 spring onion, hiniwang manipis"
+            ]
+          },
+          {
+            "group": "Miso Teriyaki Glaze",
+            "items": [
+              "1 kutsara white miso paste",
+              "1 kutsara toyo",
+              "1 kutsarita mirin (o ½ kutsarita pulot)",
+              "1 kutsarita sesame oil",
+              "Kasing-laki ng hinlalaki na sariwang luya, kinudkod",
+              "Hatiin sa dalawa — kalahati para sa pagluluto, kalahati para sa hilaw na drizzle"
+            ]
+          },
+          {
+            "group": "Crunch at Pantapos",
+            "items": [
+              "1 kutsarita furikake (o dagdag na sesame seeds + nori strips)",
+              "Berdeng spring onion",
+              "Hiwa ng dayap"
+            ]
+          }
+        ],
+        "steps": [
+          "Kanin: lutuin ayon sa package. Habang mainit, ihalo ang suka at sesame seeds. Itabi.",
+          "Miso glaze: haluin ang lahat ng sangkap ng sarsa. Hatiin sa dalawa — isa para sa pagluluto, isa para sa pantapos.",
+          "Gulay: mainit na kawali, sesame oil, hiniwang bawang — 1 minuto. Ilagay ang spinach/repolyo, haluin 2 minuto. Timplahan ng patak ng toyo. Itabi.",
+          "Salmon: patuyuing husto. Mainit na kawali (hindi non-stick — gusto mo ng sear), katamtaman-mataas. Cubes sa kawali, huwag galawin ng 90 segundo. Baligtarin sa ikalawang gilid, 90 segundo. Sandukan ang pang-lutong kalahati ng glaze, haluin nang marahan, lutuin 30 segundo pa. Caramelized sa labas, bahagyang malinaw ang gitna.",
+          "Buuin: sesame rice base → lantang gulay → cubes ng salmon → pickled ginger → edamame → drizzle ang natirang hilaw na miso glaze → furikake → spring onion → piga ng dayap."
+        ]
+      },
+      "tier": "Super loved"
+    },
+    {
+      "id": "win-miso",
+      "collection": "Winners",
+      "category": "Fish",
+      "cuisine": "Japanese",
+      "title": "Miso-Glazed Salmon",
+      "subtitle": "with Broccolini & Sesame Cucumber Salad",
+      "serves": "1 Serving",
+      "macro": "≈786 kcal | 52g P | 42g F | 50g C | 4g fiber",
+      "description": "",
+      "ingredients": [
+        {
+          "group": "Salmon & Glaze",
+          "items": [
+            "200g salmon fillet, skin-on",
+            "1 tbsp white miso paste",
+            "1 tsp mirin (or ½ tsp honey)",
+            "1 tsp soy sauce",
+            "1 tsp sesame oil",
+            "Thumb-size piece fresh ginger, grated"
+          ]
+        },
+        {
+          "group": "Broccolini",
+          "items": [
+            "150g broccolini, trimmed",
+            "1 tsp sesame oil",
+            "1 tsp soy sauce",
+            "Pinch chili flakes (optional)"
+          ]
+        },
+        {
+          "group": "Sesame Cucumber Salad",
+          "items": [
+            "1 medium cucumber, thinly sliced",
+            "1 tsp rice wine vinegar",
+            "½ tsp sesame oil",
+            "1 tsp sesame seeds, toasted",
+            "Pinch sugar and salt",
+            "1 spring onion, sliced"
+          ]
+        },
+        {
+          "group": "Rice",
+          "items": [
+            "50g jasmine rice (dry weight)"
+          ]
+        }
+      ],
+      "steps": [
+        "Miso glaze: combine miso, mirin/honey, soy, sesame oil, grated ginger. Coat salmon flesh side. Marinate minimum 20 min.",
+        "Cucumber salad: toss cucumber with vinegar, sesame oil, sesame seeds, sugar, salt, spring onion. Set aside.",
+        "Cook rice. Set aside.",
+        "Broil salmon flesh-side up on lined tray, 4–6 min until glaze caramelizes and darkens. Or sear flesh-side down 2 min, flip, transfer to 200°C oven 6–8 min.",
+        "Broccolini: blanch in boiling salted water 2 min, drain. Toss with sesame oil and soy. Or char in a dry hot pan 3–4 min.",
+        "Plate: rice, broccolini alongside, salmon skin-side up. Cucumber salad on the side. Extra sesame seeds."
+      ],
+      "tl": {
+        "description": "",
+        "ingredients": [
+          {
+            "group": "Salmon at Glaze",
+            "items": [
+              "200g salmon fillet, may balat",
+              "1 kutsara white miso paste",
+              "1 kutsarita mirin (o ½ kutsarita pulot)",
+              "1 kutsarita toyo",
+              "1 kutsarita sesame oil",
+              "Kasing-laki ng hinlalaki na piraso ng sariwang luya, kinudkod"
+            ]
+          },
+          {
+            "group": "Broccolini",
+            "items": [
+              "150g broccolini, ginupitan",
+              "1 kutsarita sesame oil",
+              "1 kutsarita toyo",
+              "Kurot na chili flakes (opsyonal)"
+            ]
+          },
+          {
+            "group": "Sesame Cucumber Salad",
+            "items": [
+              "1 katamtamang pipino, hiniwang manipis",
+              "1 kutsarita suka (rice wine vinegar)",
+              "½ kutsarita sesame oil",
+              "1 kutsarita sesame seeds, toasted",
+              "Kurot na asukal at asin",
+              "1 spring onion, hiniwa"
+            ]
+          },
+          {
+            "group": "Rice",
+            "items": [
+              "50g bigas na jasmine (hilaw na timbang)"
+            ]
+          }
+        ],
+        "steps": [
+          "Miso glaze: pagsamahin ang miso, mirin/pulot, toyo, sesame oil, kinudkod na luya. Pahiran ang laman-bahagi ng salmon. I-marinate ng kahit 20 minuto.",
+          "Cucumber salad: haluin ang pipino sa suka, sesame oil, sesame seeds, asukal, asin, spring onion. Itabi.",
+          "Lutuin ang kanin. Itabi.",
+          "I-broil ang salmon na nakaharap paitaas ang laman sa tray na may papel, 4–6 minuto hanggang mag-caramelize at umitim ang glaze. O i-sear na nakababa ang laman 2 minuto, baligtarin, ilipat sa 200°C na oven 6–8 minuto.",
+          "Broccolini: i-blanch sa kumukulong inasnang tubig 2 minuto, salain. Haluin sa sesame oil at toyo. O i-char sa tuyong mainit na kawali 3–4 minuto.",
+          "Ihain: kanin, broccolini sa tabi, salmon na nakaharap paitaas ang balat. Cucumber salad sa tabi. Dagdag na sesame seeds."
+        ]
+      },
+      "tier": "Super loved"
+    },
+    {
+      "id": "win-chermoula",
+      "collection": "Winners",
+      "category": "Fish",
+      "cuisine": "Moroccan",
+      "title": "Chermoula Hammour",
+      "subtitle": "with Roasted Cauliflower & Herbed Freekeh",
+      "serves": "1 Serving",
+      "macro": "≈634 kcal | 42g P | 26g F | 58g C | 7g fiber",
+      "description": "",
+      "ingredients": [
+        {
+          "group": "Fish",
+          "items": [
+            "200g hammour fillet (or sea bass, grouper, cod)",
+            "Salt and black pepper"
+          ]
+        },
+        {
+          "group": "Chermoula",
+          "items": [
+            "30g flat-leaf parsley + cilantro (a packed handful), finely chopped",
+            "2 cloves garlic, minced",
+            "1 tsp ground cumin",
+            "½ tsp smoked paprika",
+            "Pinch cayenne",
+            "Juice of 1 lemon",
+            "1.5 tbsp olive oil",
+            "Salt"
+          ]
+        },
+        {
+          "group": "Cauliflower",
+          "items": [
+            "180g cauliflower florets",
+            "1 tsp olive oil",
+            "Salt"
+          ]
+        },
+        {
+          "group": "Freekeh",
+          "items": [
+            "60g cracked freekeh (dry weight)",
+            "1 tbsp fresh parsley, chopped",
+            "1 tbsp fresh mint, chopped",
+            "Small squeeze of lemon",
+            "Salt"
+          ]
+        }
+      ],
+      "steps": [
+        "Chermoula: mix chopped herbs, garlic, cumin, paprika, cayenne, lemon juice, olive oil, and salt into a thick paste.",
+        "Score fish fillet 2–3 times. Rub chermoula generously all over, including into the cuts. Marinate 15–20 min minimum.",
+        "Roast cauliflower: toss with olive oil and salt. 220°C, 20–25 min until golden-edged with slightly charred tips.",
+        "Cook freekeh: rinse, simmer in 3× water with a pinch of salt, 20 min. Drain. While warm, toss with parsley, mint, lemon, season.",
+        "Sear fish in a hot heavy pan with 1 tsp oil, 3–4 min per side — or broil 6–8 min. Flesh should flake cleanly, still moist inside.",
+        "Plate: freekeh base, cauliflower alongside, fish on top. Spoon any pan juices over the fish."
+      ],
+      "tl": {
+        "description": "",
+        "ingredients": [
+          {
+            "group": "Isda",
+            "items": [
+              "200g hammour fillet (o sea bass, grouper, cod)",
+              "Asin at paminta"
+            ]
+          },
+          {
+            "group": "Chermoula",
+            "items": [
+              "30g flat-leaf parsley + cilantro (isang siksik na dakot), tinadtad nang pino",
+              "2 butil bawang, tinadtad",
+              "1 kutsarita durog na cumin",
+              "½ kutsarita smoked paprika",
+              "Kurot na cayenne",
+              "Katas ng 1 lemon",
+              "1.5 kutsara olive oil",
+              "Asin"
+            ]
+          },
+          {
+            "group": "Cauliflower",
+            "items": [
+              "180g cauliflower florets",
+              "1 kutsarita olive oil",
+              "Asin"
+            ]
+          },
+          {
+            "group": "Freekeh",
+            "items": [
+              "60g cracked freekeh (hilaw na timbang)",
+              "1 kutsara sariwang parsley, tinadtad",
+              "1 kutsara sariwang mint, tinadtad",
+              "Kaunting piga ng lemon",
+              "Asin"
+            ]
+          }
+        ],
+        "steps": [
+          "Chermoula: haluin ang tinadtad na herbs, bawang, cumin, paprika, cayenne, katas ng lemon, olive oil, at asin para maging makapal na paste.",
+          "Hiwaan ang fillet ng isda 2–3 beses. Pahiran nang sagana ng chermoula sa lahat ng bahagi, pati sa loob ng mga hiwa. I-marinate ng kahit 15–20 minuto.",
+          "Ihawin sa oven ang cauliflower: haluin sa olive oil at asin. 220°C, 20–25 minuto hanggang golden ang gilid na may bahagyang sunog na dulo.",
+          "Lutuin ang freekeh: hugasan, pakuluan nang dahan-dahan sa 3× na tubig na may kurot na asin, 20 minuto. Salain. Habang mainit, haluin sa parsley, mint, lemon, timplahan.",
+          "I-sear ang isda sa mainit na mabigat na kawali na may 1 kutsarita mantika, 3–4 minuto bawat gilid — o i-broil 6–8 minuto. Dapat madaling ma-flake ang laman, basa pa sa loob.",
+          "Ihain: freekeh sa base, cauliflower sa tabi, isda sa ibabaw. Sandukan ang anumang katas ng kawali sa ibabaw ng isda."
+        ]
+      },
+      "tier": "Loved"
+    }
+  ]
+}
