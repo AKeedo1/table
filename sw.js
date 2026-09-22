@@ -1,9 +1,9 @@
 /* Table — service worker. Canonical pattern (2.1): ordered install, cache only OK
    responses, network-first raced against a 2.5s timeout, HTML fallback for navigations. */
-const CACHE = 'table-wayfinding-v1';
-const SHELL = ['./', './index.html', './styles.css?v=wayfinding-1', './wayfinding.css?v=wayfinding-1', './app.js', './catalog.js?v=wayfinding-1', './navigation.js?v=wayfinding-1', './table.js?v=wayfinding-1', './manifest.webmanifest',
+const CACHE = 'table-identity-v1';
+const SHELL = ['./', './index.html', './styles.css?v=identity-1', './wayfinding.css?v=identity-1', './app.js', './catalog.js?v=identity-1', './navigation.js?v=identity-1', './table.js?v=identity-1', './manifest.webmanifest?v=identity-1',
   './recipes.json',
-  './assets/icon-192.png', './assets/icon-512.png'];
+  './assets/icon-192.png', './assets/icon-512.png', './assets/table-wordmark-v1.png', './assets/table-icon-32-v1.png', './assets/table-icon-180-v1.png', './assets/table-icon-192-v1.png', './assets/table-icon-512-v1.png'];
 
 self.addEventListener('install', e=>{
   // ordered: precache the shell FIRST, then take over — don't skipWaiting before addAll (2.1)

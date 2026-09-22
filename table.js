@@ -26,8 +26,8 @@ const ICON_CHECK = '<svg viewBox="0 0 24 24" fill="none"><path d="M4 12l5 5L20 6
 const ICON_BACK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>';
 const ICON_COOK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a4 4 0 0 1 4 4c0 1.5-.8 2.5-1.5 3.2L14 21h-4l-.5-10.8C8.8 9.5 8 8.5 8 7a4 4 0 0 1 4-4z"/></svg>';
 
-/* monogram mark */
-const MARK = `<svg viewBox="0 0 40 40"><rect width="40" height="40" rx="12" fill="#cf6244"/><text x="20" y="28" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="21" font-weight="700" fill="#fdeee6">T</text></svg>`;
+/* Approved T-as-table wordmark. Dark mode changes lettering without altering its silhouette. */
+const BRAND_FILTER = `<svg class="brand-filter" aria-hidden="true" width="0" height="0"><defs><filter id="table-logo-dark" color-interpolation-filters="sRGB"><feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 .973 0 0 0 0 .953 0 0 0 0 .922 -5 0 0 0 2.3" result="cream"/><feComposite in="cream" in2="SourceAlpha" operator="in" result="letters"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="letters"/></feMerge></filter></defs></svg>`;
 
 /* ── state ──────────────────────────────────────────────────────── */
 let DATA = [];
@@ -159,8 +159,8 @@ function nav(fn){ if(document.startViewTransition) document.startViewTransition(
 /* ── header ─────────────────────────────────────────────────────── */
 function header(){
   return `<header class="hdr">
-    <div class="mark">${MARK}</div>
-    <div class="wordmark">Table<small>recipes</small></div>
+    ${BRAND_FILTER}
+    <a class="table-brand" href="#/recipes" aria-label="Table — recipes"><img class="brand-logo" src="assets/table-wordmark-v1.png" alt="Table" width="640" height="265" decoding="async"></a>
     ${themeBtn()}
     ${langPill()}
   </header>`;
