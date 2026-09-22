@@ -1,17 +1,17 @@
 /* Table — service worker. Canonical pattern (2.1): ordered install, cache only OK
    responses, network-first raced against a 2.5s timeout, HTML fallback for navigations. */
-const CACHE = 'table-v8';
-const SHELL = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest',
+const CACHE = 'table-wayfinding-v1';
+const SHELL = ['./', './index.html', './styles.css?v=wayfinding-1', './wayfinding.css?v=wayfinding-1', './app.js', './catalog.js?v=wayfinding-1', './navigation.js?v=wayfinding-1', './table.js?v=wayfinding-1', './manifest.webmanifest',
   './recipes.json',
   './assets/icon-192.png', './assets/icon-512.png'];
 
 self.addEventListener('install', e=>{
   // ordered: precache the shell FIRST, then take over — don't skipWaiting before addAll (2.1)
-  e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then(c=>Promise.all(SHELL.map(async path=>{ const url=new URL(path,self.location.href); if(path==='./'||path==='./index.html')url.searchParams.set('v',CACHE); const response=await fetch(url,{cache:'reload'}); if(!response.ok)throw new Error('Cannot cache '+path); await c.put(path,response); }))).then(()=>self.skipWaiting()));
 });
 self.addEventListener('activate', e=>{
   e.waitUntil(
-    caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())
+    caches.keys().then(ks=>Promise.all(ks.filter(k=>k.startsWith('table-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())
   );
 });
 self.addEventListener('fetch', e=>{
@@ -39,7 +39,11 @@ self.addEventListener('fetch', e=>{
   // same-origin shell: network-first raced against a 2.5s timeout; cache only OK (2.1)
   e.respondWith((async ()=>{
     const cached = await caches.match(e.request);
-    const net = fetch(e.request).then(r=>{ if(r&&r.ok){ const cp=r.clone(); caches.open(CACHE).then(c=>c.put(e.request, cp)).catch(()=>{}); } return r; });
+    // Installed apps must not reuse an older HTML response from the host's HTTP cache.
+    const navigationURL=new URL(e.request.url);
+    navigationURL.searchParams.set('table-build',CACHE);
+    const request=e.request.mode==='navigate'?fetch(navigationURL,{cache:'no-cache',credentials:'same-origin'}):fetch(e.request);
+    const net = request.then(r=>{ if(r&&r.ok){ const cp=r.clone(); caches.open(CACHE).then(c=>c.put(e.request, cp)).catch(()=>{}); } return r; });
     const timeout = new Promise(res=>setTimeout(()=>res('__t__'), 2500));
     const w = await Promise.race([net.catch(()=>'__e__'), timeout]);
     if(w && w!=='__t__' && w!=='__e__' && w.ok) return w;
