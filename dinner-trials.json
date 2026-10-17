@@ -1,5 +1,5 @@
 {
-  "version": "visual-dinners-1",
+  "version": "visual-dinners-2",
   "recipes": [
     {
       "id": "halal-cart-chicken",
@@ -9,8 +9,8 @@
       "title": "Halal-cart chicken & rice",
       "subtitle": "Garlic-herb white sauce · warm chickpeas & carrots",
       "serves": "1 Serving",
-      "macro": "≈710 kcal | 68g P | 69g C | 17g F | 11g fibre",
-      "description": "Golden spiced chicken, fluffy yellow rice and enough garlicky white sauce for every bite. A small fresh garnish, with warm lemony chickpeas and carrots alongside.",
+      "macro": "≈720 kcal | 69g P | 73g C | 18g F | 12g fibre",
+      "description": "Golden spiced chicken and yellow rice with a generous fresh mix of finely chopped lettuce and tomato, plus a loose garlic-herb white sauce. Warm lemony chickpeas and carrots alongside.",
       "ingredients": [
         {
           "group": "Chicken",
@@ -40,7 +40,7 @@
             "10 g lemon juice",
             "3 g garlic, crushed to a paste",
             "3 g parsley, very finely chopped",
-            "15 ml water, plus a splash only if needed",
+            "45–60 ml cold water (start with the lower amount)",
             "⅛ tsp chilli flakes, optional"
           ]
         },
@@ -56,25 +56,25 @@
           ]
         },
         {
-          "group": "Fresh garnish & shared seasoning",
+          "group": "Fresh lettuce & tomato, plus shared seasoning",
           "items": [
-            "80 g tomato, finely diced",
-            "20 g iceberg lettuce, finely shredded and shortened",
+            "140 g tomato, finely diced",
+            "60 g iceberg lettuce, very finely shredded, then cross-chopped short",
             "1 g salt TOTAL, divided across chicken, rice, sauce and side (about a scant ¼ tsp fine salt; weigh if possible)"
           ]
         }
       ],
       "steps": [
-        "Wash and dry the vegetables. Cut the tomato into thin slices, stack a few, cut into narrow lengths, then cross-cut into small dice as pictured. Roll the lettuce leaves loosely, slice finely, then cut across the shreds so they are short. Use only the weighed lettuce. Mince the garlic; crush the sauce portion into a paste. Peel the carrot, cut lengthways into slim batons, then cross-cut into small cubes. Keep vegetables and raw chicken on separate boards.",
+        "Wash and dry the vegetables. Cut the tomato into thin slices, stack a few, cut into narrow lengths, then cross-cut into small dice as pictured. Roll the lettuce leaves loosely, slice into very fine shreds, then cross-chop into short, delicate pieces as pictured. Weigh the full fresh portion before plating. Mince the garlic; crush the sauce portion into a paste. Peel the carrot, cut lengthways into slim batons, then cross-cut into small cubes. Keep vegetables and raw chicken on separate boards.",
         "Heat the oven to 210°C conventional / 190°C fan. Toss the carrot with its measured olive oil, smoked paprika and part of the reserved salt. Spread on a small lined tray. Roast for 20–25 minutes, turning halfway. Add the cooked, drained chickpeas for the final 5 minutes. Finish with the side's lemon juice and parsley; keep warm.",
         "Rinse and drain the rice. Put it in a small, snug-lidded saucepan with the measured water, turmeric and a little of the reserved salt. Bring to a gentle boil, cover, then cook on the lowest heat for 10–12 minutes. Take off the heat and rest, covered, for 10 minutes. Fluff with a fork. If your rice packet specifies a different water ratio, follow that ratio.",
-        "Stir the Greek yogurt with the sauce's garlic paste, finely chopped parsley, lemon juice and water. Add a little of the reserved salt and optional chilli flakes. Stir until smooth, then refrigerate while the chicken cooks. Add another small splash of water only if it will not pour.",
+        "Whisk the Greek yogurt with the sauce's garlic paste, finely chopped parsley, lemon juice and cold water. Add a little of the reserved salt and optional chilli flakes. Lift a spoon: the sauce should run off in a thin, continuous stream and settle flat in the bowl. If it still mounds or falls in dollops, whisk in extra cold water a little at a time, without exceeding the upper water amount listed. Refrigerate while the chicken cooks; stir and check the flow again before serving.",
         "Pat the chicken dry. Cut into bite-sized chunks, then toss with the chicken's olive oil, lemon juice, garlic, cumin, coriander, oregano, black pepper and remaining reserved salt. Heat a non-stick skillet over medium-high heat. Add the chicken in one uncrowded layer. Leave for 2–3 minutes to colour, then turn and cook for about 5–7 minutes more. Lower the heat if the spices darken quickly. Check several of the thickest pieces with a food thermometer: they must reach 74°C. Rest for 3 minutes.",
         "Taste the rice and carrot for tenderness. Stir the sauce again. If any cooked chicken pieces feel too large for a comfortable spoonful, chop them smaller on a clean board. Keep the lettuce and tomato fresh and cold until serving.",
-        "Spoon the cooked rice onto the plate and add the chicken. Add the weighed tomato and small amount of lettuce at the edge. Drizzle about two-fifths of the white sauce over the chicken; serve the rest in a small bowl. Serve the warm chickpea-carrot side in its own bowl. Bring all three dishes to the table together."
+        "Put the finely chopped lettuce and diced tomato across roughly half the main plate. Spoon the rice onto the other half and add the chicken over it; keep the fresh vegetables visible and easy to scoop with each bite. Drizzle about two-fifths of the loose white sauce over the chicken and a little over the fresh vegetables; serve the rest in a small bowl. Serve the warm chickpea-carrot side in its own bowl. Bring all three dishes to the table together."
       ],
       "tl": {
-        "description": "Golden na manok na may spices, buhaghag na dilaw na kanin at masaganang puting sarsa na may bawang. Kaunting sariwang garnish, at hiwalay na mainit na chickpeas at carrot na may lemon.",
+        "description": "Golden na manok at dilaw na kanin, may masaganang sariwang kamatis at pinong letsugas, at malabnaw na garlic-herb white sauce. Hiwalay ang mainit na chickpeas at carrot na may lemon.",
         "ingredients": [
           {
             "group": "Manok",
@@ -104,7 +104,7 @@
               "10 g lemon juice",
               "3 g bawang, dinurog na paste",
               "3 g parsley, pinong tinadtad",
-              "15 ml tubig, dagdagan lang nang kaunti kung kailangan",
+              "45–60 ml malamig na tubig (magsimula sa mas mababang dami)",
               "⅛ tsp chilli flakes, opsyonal"
             ]
           },
@@ -120,70 +120,102 @@
             ]
           },
           {
-            "group": "Sariwang garnish at asin para sa buong recipe",
+            "group": "Sariwang letsugas at kamatis, at asin para sa buong recipe",
             "items": [
-              "80 g kamatis, pinong diced",
-              "20 g iceberg lettuce, pinong hiniwa at pinaikli",
+              "140 g kamatis, pinong diced",
+              "60 g iceberg lettuce, napakapinong hiniwa at pinaikli pa nang pahalang",
               "1 g asin SA BUONG RECIPE, hatiin sa manok, kanin, sarsa at side (halos kulang na ¼ tsp pinong asin; timbangin kung maaari)"
             ]
           }
         ],
         "steps": [
-          "Hugasan at patuyuin ang gulay. Hiwain nang manipis ang kamatis, patungin ang ilang hiwa, hiwain nang pahaba at saka pahalang para maging maliliit na dice gaya sa larawan. Irolyo nang maluwag ang letsugas, hiwain nang pino at paikliin ang mga hibla. Gamitin lamang ang tinimbang na letsugas. Tadtarin ang bawang; durugin pa ang para sa sarsa hanggang maging paste. Balatan ang carrot, hiwain nang pahaba at saka gawing maliliit na cube. Ihiwalay ang sangkalan ng gulay sa hilaw na manok.",
+          "Hugasan at patuyuin ang gulay. Hiwain nang manipis ang kamatis, patungin ang ilang hiwa, hiwain nang pahaba at saka pahalang para maging maliliit na dice gaya sa larawan. Irolyo nang maluwag ang letsugas, hiwain nang napakapino at tadtarin pa nang pahalang para maikli at manipis gaya sa larawan. Timbangin ang buong sariwang portion bago ihain. Tadtarin ang bawang; durugin pa ang para sa sarsa hanggang maging paste. Balatan ang carrot, hiwain nang pahaba at saka gawing maliliit na cube. Ihiwalay ang sangkalan ng gulay sa hilaw na manok.",
           "Painitin ang oven sa 210°C conventional / 190°C fan. Ihalo sa carrot ang nakalaang olive oil, smoked paprika at bahagi ng asin. Ikalat sa maliit na tray na may baking paper. I-roast nang 20–25 minuto at baligtarin sa kalagitnaan. Idagdag ang lutong chickpeas sa huling 5 minuto. Ihalo ang nakalaang lemon juice at parsley at panatilihing mainit.",
           "Banlawan at patuluin ang bigas. Ilagay sa maliit na kaserolang may mahigpit na takip kasama ang nakalaang tubig, turmeric at kaunting asin. Pakuluan nang mahina, takpan, at lutuin sa pinakamahinang apoy nang 10–12 minuto. Alisin sa apoy at hayaang nakatakip nang 10 minuto. Buhaghagin gamit ang tinidor. Kung iba ang water ratio sa pakete ng bigas, iyon ang sundin.",
-          "Paghaluin ang Greek yogurt, bawang na paste, pinong parsley, lemon juice at tubig na nakalaan sa sarsa. Dagdagan ng kaunting asin at opsyonal na chilli flakes. Haluin hanggang makinis at ilagay muna sa refrigerator habang niluluto ang manok. Dagdagan lang ng kaunting tubig kung hindi maibuhos.",
+          "Haluin nang mabuti ang Greek yogurt, bawang na paste, pinong parsley, lemon juice at malamig na tubig na nakalaan sa sarsa. Dagdagan ng kaunting asin at opsyonal na chilli flakes. Itaas ang kutsara: dapat tuloy-tuloy at manipis ang agos ng sarsa, at pantay ang ibabaw sa mangkok. Kung buo-buo pa itong bumabagsak, unti-unting dagdagan ng malamig na tubig nang hindi lumalagpas sa pinakamataas na dami ng tubig na nakalista. Ilagay sa refrigerator habang niluluto ang manok; haluin at tingnan muli ang lapot bago ihain.",
           "Patuyuin ang manok. Hiwain sa mga tipak na kasya sa isang subo at ihalo ang nakalaang olive oil, lemon juice, bawang, cumin, coriander, oregano, black pepper at natitirang asin. Painitin ang non-stick na kawali sa medium-high. Ilagay ang manok sa isang layer na hindi siksikan. Huwag galawin nang 2–3 minuto, saka baligtarin at lutuin pa nang mga 5–7 minuto. Hinaan ang apoy kung mabilis umitim ang spices. Sukatin ang ilang pinakamakapal na piraso gamit ang food thermometer: dapat umabot sa 74°C. Ipahinga nang 3 minuto.",
           "Tikman kung malambot na ang kanin at carrot. Haluin muli ang sarsa. Kung may piraso ng lutong manok na masyadong malaki para sa kutsara, paliitin sa malinis na sangkalan. Panatilihing malamig at sariwa ang letsugas at kamatis hanggang ihain.",
-          "Ilagay ang kanin sa plato at ipatong ang manok. Ilagay sa gilid ang tinimbang na kamatis at kaunting letsugas. Ibuhos ang mga dalawang-kalima ng sarsa sa manok at ilagay ang natira sa maliit na mangkok. Ihain ang mainit na chickpea-carrot side sa hiwalay na mangkok. Dalhin nang sabay ang tatlong lalagyan sa mesa."
+          "Ilagay ang pinong letsugas at diced na kamatis sa halos kalahati ng plato. Sa kabilang kalahati, ilagay ang kanin at ipatong ang manok; hayaang kita at madaling maisabay sa bawat subo ang sariwang gulay. Ibuhos ang mga dalawang-kalima ng malabnaw na sarsa sa manok at kaunti sa gulay; ihain ang natira sa maliit na mangkok. Ihain ang mainit na chickpea-carrot side sa hiwalay na mangkok. Dalhin nang sabay ang tatlong lalagyan sa mesa."
         ]
       },
       "visual": {
-        "subtitle": "Golden chicken. Yellow rice. Plenty of white sauce.",
+        "subtitle": "Golden chicken. Plenty of freshness. Pourable white sauce.",
         "hero": {
-          "src": "assets/dinners/halal-cart-plate.webp",
-          "alt": "Chicken over yellow rice with white herb sauce, a small lettuce and tomato garnish, and separate carrot-chickpea and sauce bowls.",
-          "caption": "Plating guide · keep the side and extra sauce separate. Use the measured recipe, not the picture, for portions."
+          "src": "assets/dinners/halal-cart-plate-v2.webp",
+          "alt": "Chopped chicken and yellow rice beside a generous portion of fine lettuce and diced tomato, with pourable white sauce and a separate chickpea-carrot side.",
+          "caption": "Plating guide · fresh lettuce and tomato across half the plate; loose white sauce, with extra alongside. Follow recipe weights for portions."
         },
         "nutrients": [
           {
-            "value": "≈710",
+            "value": "≈720",
             "label": "kcal"
           },
           {
-            "value": "68g",
+            "value": "69g",
             "label": "protein"
           },
           {
-            "value": "69g",
+            "value": "73g",
             "label": "carbs"
           },
           {
-            "value": "11g",
+            "value": "12g",
             "label": "fibre"
           }
         ],
         "steps": [
           {
             "title": "Prepare the small cuts",
-            "cue": "Tomato pieces sit comfortably together on a spoon. Lettuce is a small garnish, not a bed.",
+            "cue": "Short, delicate lettuce pieces and finely diced tomato: easy to get freshness in every spoonful.",
             "photo": {
-              "src": "assets/dinners/halal-cart-prep.webp",
-              "alt": "Finely diced tomato, short fine lettuce shreds and minced garlic beside a tablespoon.",
-              "caption": "Cut guide · use the tablespoon for scale. Keep the lettuce shreds short; crush the sauce garlic even finer into a paste."
-            }
+              "src": "assets/dinners/halal-cart-prep-v2.webp",
+              "alt": "Very finely shredded, cross-chopped lettuce and finely diced tomato beside a tablespoon for scale, with a small pile of garlic.",
+              "caption": "Cut guide · very fine, short lettuce pieces. Use the spoon for scale; crush the sauce garlic into a paste."
+            },
+            "bullets": [
+              "Wash and dry the vegetables.",
+              "Cut the tomato into thin slices, stack a few, cut into narrow lengths, then cross-cut into small dice as pictured.",
+              "Roll the lettuce leaves loosely, slice into very fine shreds, then cross-chop into short, delicate pieces as pictured.",
+              "Weigh the full fresh portion before plating.",
+              "Mince the garlic; crush the sauce portion into a paste.",
+              "Peel the carrot, cut lengthways into slim batons, then cross-cut into small cubes.",
+              "Keep vegetables and raw chicken on separate boards."
+            ]
           },
           {
             "title": "Start the warm side",
-            "cue": "Carrots should be tender with browned edges; chickpeas warm and soft, not dried hard."
+            "cue": "Carrots should be tender with browned edges; chickpeas warm and soft, not dried hard.",
+            "bullets": [
+              "Heat the oven to 210°C conventional / 190°C fan.",
+              "Toss the carrot with its measured olive oil, smoked paprika and part of the reserved salt.",
+              "Spread on a small lined tray.",
+              "Roast for 20–25 minutes, turning halfway.",
+              "Add the cooked, drained chickpeas for the final 5 minutes.",
+              "Finish with the side's lemon juice and parsley; keep warm."
+            ]
           },
           {
             "title": "Cook the yellow rice",
-            "cue": "Separate, tender grains. If still firm, add a splash of boiling water and steam a little longer."
+            "cue": "Separate, tender grains. If still firm, add a splash of boiling water and steam a little longer.",
+            "bullets": [
+              "Rinse and drain the rice.",
+              "Put it in a small, snug-lidded saucepan with the measured water, turmeric and a little of the reserved salt.",
+              "Bring to a gentle boil, cover, then cook on the lowest heat for 10–12 minutes.",
+              "Take off the heat and rest, covered, for 10 minutes.",
+              "Fluff with a fork.",
+              "If your rice packet specifies a different water ratio, follow that ratio."
+            ]
           },
           {
             "title": "Make plenty of white sauce",
-            "cue": "It should fall from a spoon in a thick ribbon, not sit in a stiff mound. All of this sauce belongs to one serving."
+            "cue": "A thin, continuous stream from the spoon and a smooth, level surface in the bowl. No stiff dollops.",
+            "bullets": [
+              "Whisk the Greek yogurt with the sauce's garlic paste, finely chopped parsley, lemon juice and cold water.",
+              "Add a little of the reserved salt and optional chilli flakes.",
+              "Lift a spoon: the sauce should run off in a thin, continuous stream and settle flat in the bowl.",
+              "If it still mounds or falls in dollops, whisk in extra cold water a little at a time, without exceeding the upper water amount listed.",
+              "Refrigerate while the chicken cooks; stir and check the flow again before serving."
+            ]
           },
           {
             "title": "Brown the chicken",
@@ -192,20 +224,43 @@
               "src": "assets/dinners/halal-cart-chicken.webp",
               "alt": "Bite-sized seasoned chicken pieces with golden brown edges in a skillet.",
               "caption": "Browning guide · golden edges, not blackened spices. A thermometer must read 74°C in the thickest pieces."
-            }
+            },
+            "bullets": [
+              "Pat the chicken dry.",
+              "Cut into bite-sized chunks, then toss with the chicken's olive oil, lemon juice, garlic, cumin, coriander, oregano, black pepper and remaining reserved salt.",
+              "Heat a non-stick skillet over medium-high heat.",
+              "Add the chicken in one uncrowded layer.",
+              "Leave for 2–3 minutes to colour, then turn and cook for about 5–7 minutes more.",
+              "Lower the heat if the spices darken quickly.",
+              "Check several of the thickest pieces with a food thermometer: they must reach 74°C.",
+              "Rest for 3 minutes."
+            ]
           },
           {
             "title": "Check the texture",
-            "cue": "A spoonful can contain chicken, rice and sauce together without a large chunk taking over."
+            "cue": "A spoonful can contain chicken, rice and sauce together without a large chunk taking over.",
+            "bullets": [
+              "Taste the rice and carrot for tenderness.",
+              "Stir the sauce again.",
+              "If any cooked chicken pieces feel too large for a comfortable spoonful, chop them smaller on a clean board.",
+              "Keep the lettuce and tomato fresh and cold until serving."
+            ]
           },
           {
             "title": "Put it on the table",
-            "cue": "The extra sauce and warm side are part of the dinner, not optional extras in the nutrition total.",
+            "cue": "Fresh vegetables take up about half the plate. Sauce coats lightly and flows between the chicken and rice.",
             "photo": {
-              "src": "assets/dinners/halal-cart-plate.webp",
-              "alt": "Chicken over yellow rice with white herb sauce, a small lettuce and tomato garnish, and separate carrot-chickpea and sauce bowls.",
-              "caption": "Plating guide · keep the side and extra sauce separate. Use the measured recipe, not the picture, for portions."
-            }
+              "src": "assets/dinners/halal-cart-plate-v2.webp",
+              "alt": "Chopped chicken and yellow rice beside a generous portion of fine lettuce and diced tomato, with pourable white sauce and a separate chickpea-carrot side.",
+              "caption": "Plating guide · fresh lettuce and tomato across half the plate; loose white sauce, with extra alongside. Follow recipe weights for portions."
+            },
+            "bullets": [
+              "Put the finely chopped lettuce and diced tomato across roughly half the main plate.",
+              "Spoon the rice onto the other half and add the chicken over it; keep the fresh vegetables visible and easy to scoop with each bite.",
+              "Drizzle about two-fifths of the loose white sauce over the chicken and a little over the fresh vegetables; serve the rest in a small bowl.",
+              "Serve the warm chickpea-carrot side in its own bowl.",
+              "Bring all three dishes to the table together."
+            ]
           }
         ],
         "components": [
@@ -215,11 +270,11 @@
           },
           {
             "title": "All the white sauce",
-            "body": "120 g of 2% Greek yogurt becomes roughly 150 g of garlic-herb sauce. Drizzle generously and serve the rest alongside."
+            "body": "120 g of 2% Greek yogurt, loosened with 45–60 ml water, makes roughly 180–195 g of pourable garlic-herb sauce. Drizzle some and serve the rest alongside."
           },
           {
-            "title": "A little fresh crunch",
-            "body": "80 g tomato and just 20 g lettuce. Small dice and short, fine shreds, with a cut photo to follow."
+            "title": "A proper fresh portion",
+            "body": "140 g tomato and 60 g lettuce: finely diced tomato and very fine, short lettuce shreds. Give the fresh vegetables roughly half the plate."
           },
           {
             "title": "Warm chickpeas & carrots",
@@ -227,7 +282,7 @@
           }
         ],
         "adjustment": "The chickpea side supplies much of this meal’s fibre. If the portion feels too much, flag it in Review so we can adjust gradually. Changing the side also changes the nutrition total.",
-        "basis": "Rounded estimates use generic USDA-style composition, raw chicken and rice weights, cooked chickpea weight and plain 2% Greek yogurt. About 17 g fat per dinner. Brands and cooking yields vary; this is not a lab analysis. Rice and chickpeas both count towards carbohydrate. Contains milk. This dinner has not yet been taste-tested.",
+        "basis": "Rounded estimates use generic USDA-style composition, raw chicken and rice weights, cooked chickpea weight and plain 2% Greek yogurt. About 18 g fat per dinner. Brands and cooking yields vary; this is not a lab analysis. Rice and chickpeas both count towards carbohydrate. Contains milk. This dinner has not yet been taste-tested.",
         "nutritionCalculation": {
           "units": "Generic estimates per 100 g; kcal, protein, carbohydrate, fat, fibre",
           "rows": [
@@ -288,7 +343,7 @@
             ],
             [
               "Tomato",
-              80,
+              140,
               [
                 18,
                 0.88,
@@ -299,7 +354,7 @@
             ],
             [
               "Iceberg",
-              20,
+              60,
               [
                 14,
                 0.9,
@@ -365,59 +420,91 @@
             ]
           ],
           "totals": [
-            705.0699999999999,
-            67.7831,
-            68.9911,
-            17.486500000000003,
-            10.880999999999997
+            721.47,
+            68.6711,
+            72.51310000000001,
+            17.6625,
+            12.081
           ]
         },
         "tl": {
-          "subtitle": "Golden na manok. Dilaw na kanin. Masaganang puting sarsa.",
+          "subtitle": "Golden na manok. Masaganang sariwang gulay. Madaling ibuhos na puting sarsa.",
           "hero": {
-            "src": "assets/dinners/halal-cart-plate.webp",
-            "alt": "Chicken over yellow rice with white herb sauce, a small lettuce and tomato garnish, and separate carrot-chickpea and sauce bowls.",
-            "caption": "Gabay sa paghahain · hiwalay ang side dish at dagdag na sarsa. Sundin ang nakasulat na dami, hindi ang larawan."
+            "src": "assets/dinners/halal-cart-plate-v2.webp",
+            "alt": "Chopped chicken and yellow rice beside a generous portion of fine lettuce and diced tomato, with pourable white sauce and a separate chickpea-carrot side.",
+            "caption": "Gabay sa paghahain · sariwang letsugas at kamatis sa kalahati ng plato; malabnaw na sarsa at dagdag sa tabi. Sundin ang timbang sa recipe."
           },
           "nutrients": [
             {
-              "value": "≈710",
+              "value": "≈720",
               "label": "kcal"
             },
             {
-              "value": "68g",
+              "value": "69g",
               "label": "protein"
             },
             {
-              "value": "69g",
+              "value": "73g",
               "label": "carbs"
             },
             {
-              "value": "11g",
+              "value": "12g",
               "label": "fibre"
             }
           ],
           "steps": [
             {
               "title": "Ihanda ang maliliit na hiwa",
-              "cue": "Maraming piraso ng kamatis ang kasya sa kutsara. Kaunting letsugas lang bilang garnish.",
+              "cue": "Maiikli at pinong letsugas at kamatis para may sariwang gulay sa bawat kutsara.",
               "photo": {
-                "src": "assets/dinners/halal-cart-prep.webp",
-                "alt": "Finely diced tomato, short fine lettuce shreds and minced garlic beside a tablespoon.",
-                "caption": "Gabay sa hiwa · kutsara ang batayan sa laki. Paikliin ang letsugas at durugin pa ang bawang para sa sarsa."
-              }
+                "src": "assets/dinners/halal-cart-prep-v2.webp",
+                "alt": "Very finely shredded, cross-chopped lettuce and finely diced tomato beside a tablespoon for scale, with a small pile of garlic.",
+                "caption": "Gabay sa hiwa · napakapino at maiikling letsugas. Kutsara ang batayan sa laki; durugin ang bawang para sa sarsa."
+              },
+              "bullets": [
+                "Hugasan at patuyuin ang gulay.",
+                "Hiwain nang manipis ang kamatis, patungin ang ilang hiwa, hiwain nang pahaba at saka pahalang para maging maliliit na dice gaya sa larawan.",
+                "Irolyo nang maluwag ang letsugas, hiwain nang napakapino at tadtarin pa nang pahalang para maikli at manipis gaya sa larawan.",
+                "Timbangin ang buong sariwang portion bago ihain.",
+                "Tadtarin ang bawang; durugin pa ang para sa sarsa hanggang maging paste.",
+                "Balatan ang carrot, hiwain nang pahaba at saka gawing maliliit na cube.",
+                "Ihiwalay ang sangkalan ng gulay sa hilaw na manok."
+              ]
             },
             {
               "title": "Simulan ang mainit na side dish",
-              "cue": "Malambot ang carrot at may browned edges. Mainit at malambot ang chickpeas, hindi tuyot."
+              "cue": "Malambot ang carrot at may browned edges. Mainit at malambot ang chickpeas, hindi tuyot.",
+              "bullets": [
+                "Painitin ang oven sa 210°C conventional / 190°C fan.",
+                "Ihalo sa carrot ang nakalaang olive oil, smoked paprika at bahagi ng asin.",
+                "Ikalat sa maliit na tray na may baking paper.",
+                "I-roast nang 20–25 minuto at baligtarin sa kalagitnaan.",
+                "Idagdag ang lutong chickpeas sa huling 5 minuto.",
+                "Ihalo ang nakalaang lemon juice at parsley at panatilihing mainit."
+              ]
             },
             {
               "title": "Lutuin ang dilaw na kanin",
-              "cue": "Malambot at buhaghag ang kanin. Kung matigas pa, dagdagan ng kaunting kumukulong tubig at pasingawan pa."
+              "cue": "Malambot at buhaghag ang kanin. Kung matigas pa, dagdagan ng kaunting kumukulong tubig at pasingawan pa.",
+              "bullets": [
+                "Banlawan at patuluin ang bigas.",
+                "Ilagay sa maliit na kaserolang may mahigpit na takip kasama ang nakalaang tubig, turmeric at kaunting asin.",
+                "Pakuluan nang mahina, takpan, at lutuin sa pinakamahinang apoy nang 10–12 minuto.",
+                "Alisin sa apoy at hayaang nakatakip nang 10 minuto.",
+                "Buhaghagin gamit ang tinidor.",
+                "Kung iba ang water ratio sa pakete ng bigas, iyon ang sundin."
+              ]
             },
             {
               "title": "Gawin ang masaganang puting sarsa",
-              "cue": "Dumadaloy mula sa kutsara na parang makapal na ribbon, hindi namumuo. Lahat ng sarsang ito ay para sa isang serving."
+              "cue": "Manipis at tuloy-tuloy ang agos mula sa kutsara, at pantay ang ibabaw sa mangkok. Walang makakapal na buo.",
+              "bullets": [
+                "Haluin nang mabuti ang Greek yogurt, bawang na paste, pinong parsley, lemon juice at malamig na tubig na nakalaan sa sarsa.",
+                "Dagdagan ng kaunting asin at opsyonal na chilli flakes.",
+                "Itaas ang kutsara: dapat tuloy-tuloy at manipis ang agos ng sarsa, at pantay ang ibabaw sa mangkok.",
+                "Kung buo-buo pa itong bumabagsak, unti-unting dagdagan ng malamig na tubig nang hindi lumalagpas sa pinakamataas na dami ng tubig na nakalista.",
+                "Ilagay sa refrigerator habang niluluto ang manok; haluin at tingnan muli ang lapot bago ihain."
+              ]
             },
             {
               "title": "I-brown ang manok",
@@ -426,20 +513,43 @@
                 "src": "assets/dinners/halal-cart-chicken.webp",
                 "alt": "Bite-sized seasoned chicken pieces with golden brown edges in a skillet.",
                 "caption": "Gabay sa browning · golden, hindi sunog. Dapat umabot sa 74°C ang pinakamakapal na piraso."
-              }
+              },
+              "bullets": [
+                "Patuyuin ang manok.",
+                "Hiwain sa mga tipak na kasya sa isang subo at ihalo ang nakalaang olive oil, lemon juice, bawang, cumin, coriander, oregano, black pepper at natitirang asin.",
+                "Painitin ang non-stick na kawali sa medium-high.",
+                "Ilagay ang manok sa isang layer na hindi siksikan.",
+                "Huwag galawin nang 2–3 minuto, saka baligtarin at lutuin pa nang mga 5–7 minuto.",
+                "Hinaan ang apoy kung mabilis umitim ang spices.",
+                "Sukatin ang ilang pinakamakapal na piraso gamit ang food thermometer: dapat umabot sa 74°C.",
+                "Ipahinga nang 3 minuto."
+              ]
             },
             {
               "title": "Tingnan ang texture",
-              "cue": "Kasya sa isang kutsara ang manok, kanin at sarsa nang walang sobrang laking tipak."
+              "cue": "Kasya sa isang kutsara ang manok, kanin at sarsa nang walang sobrang laking tipak.",
+              "bullets": [
+                "Tikman kung malambot na ang kanin at carrot.",
+                "Haluin muli ang sarsa.",
+                "Kung may piraso ng lutong manok na masyadong malaki para sa kutsara, paliitin sa malinis na sangkalan.",
+                "Panatilihing malamig at sariwa ang letsugas at kamatis hanggang ihain."
+              ]
             },
             {
               "title": "Ihain sa mesa",
-              "cue": "Kasama ang dagdag na sarsa at side dish sa nutrisyon ng buong hapunan.",
+              "cue": "Halos kalahati ng plato ang sariwang gulay. Manipis na bumabalot at dumadaloy ang sarsa sa manok at kanin.",
               "photo": {
-                "src": "assets/dinners/halal-cart-plate.webp",
-                "alt": "Chicken over yellow rice with white herb sauce, a small lettuce and tomato garnish, and separate carrot-chickpea and sauce bowls.",
-                "caption": "Gabay sa paghahain · hiwalay ang side at dagdag na sarsa. Sundin ang timbang sa recipe."
-              }
+                "src": "assets/dinners/halal-cart-plate-v2.webp",
+                "alt": "Chopped chicken and yellow rice beside a generous portion of fine lettuce and diced tomato, with pourable white sauce and a separate chickpea-carrot side.",
+                "caption": "Gabay sa paghahain · sariwang letsugas at kamatis sa kalahati ng plato; malabnaw na sarsa at dagdag sa tabi. Sundin ang timbang sa recipe."
+              },
+              "bullets": [
+                "Ilagay ang pinong letsugas at diced na kamatis sa halos kalahati ng plato.",
+                "Sa kabilang kalahati, ilagay ang kanin at ipatong ang manok; hayaang kita at madaling maisabay sa bawat subo ang sariwang gulay.",
+                "Ibuhos ang mga dalawang-kalima ng malabnaw na sarsa sa manok at kaunti sa gulay; ihain ang natira sa maliit na mangkok.",
+                "Ihain ang mainit na chickpea-carrot side sa hiwalay na mangkok.",
+                "Dalhin nang sabay ang tatlong lalagyan sa mesa."
+              ]
             }
           ],
           "components": [
@@ -449,11 +559,11 @@
             },
             {
               "title": "Lahat ng puting sarsa",
-              "body": "Ang 120 g na 2% Greek yogurt ay nagiging mga 150 g na garlic-herb sauce. Ibuhos ang bahagi at ihain ang natira sa tabi."
+              "body": "Ang 120 g na 2% Greek yogurt, na may 45–60 ml tubig, ay nagiging mga 180–195 g na madaling ibuhos na garlic-herb sauce. Ibuhos ang bahagi at ihain ang natira sa tabi."
             },
             {
-              "title": "Kaunting sariwang gulay",
-              "body": "80 g kamatis at 20 g letsugas lamang. Maliit na dice at maiikling pinong hibla; sundin ang larawan."
+              "title": "Masaganang sariwang gulay",
+              "body": "140 g kamatis at 60 g letsugas: maliliit na dice at napakapino at maiikling hibla. Ilagay ang sariwang gulay sa halos kalahati ng plato."
             },
             {
               "title": "Mainit na chickpeas at carrot",
@@ -461,7 +571,7 @@
             }
           ],
           "adjustment": "Malaking bahagi ng fibre ay mula sa chickpeas. Kung sobra para sa tiyan mo, sabihin para unti-unting ma-adjust; huwag basta alisin at gamitin pa rin ang parehong nutrition total.",
-          "basis": "Tantiyang nutrisyon batay sa generic USDA-style data, hilaw na timbang ng manok at bigas, lutong chickpeas at plain 2% Greek yogurt. Mga 17 g fat bawat hapunan. Nag-iiba ayon sa brand at pagluluto. Kasama sa carbohydrate ang bigas at chickpeas. May gatas. Hindi pa nasubukang lutuin at tikman."
+          "basis": "Tantiyang nutrisyon batay sa generic USDA-style data, hilaw na timbang ng manok at bigas, lutong chickpeas at plain 2% Greek yogurt. Mga 18 g fat bawat hapunan. Nag-iiba ayon sa brand at pagluluto. Kasama sa carbohydrate ang bigas at chickpeas. May gatas. Hindi pa nasubukang lutuin at tikman."
         }
       }
     }

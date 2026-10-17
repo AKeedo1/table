@@ -10,3 +10,5 @@ The first visual dinner is `#/r/halal-cart-chicken`. It is a trial for review, n
 - The service-worker shell includes the new data, code and images. Bump the HTML query versions and cache name together for later releases.
 
 Validation: `node --test tests/*.test.cjs`; browser inspection of mobile/desktop views, photo enlargement, review persistence, ingredient scaling, translated cooking instructions and legacy recipes. Visual review applies the existing Table identity and Zain's criteria; no separate independent reviewer is claimed.
+
+Revision 2: fresh portion increased to140g tomato/60g finely cross-chopped lettuce. Sauce uses45–60ml water with120g Greek yogurt. Estimated totals recalculated. Both photo guides edited together. Instructions use structured action bullets in EN/TL and Cook Mode. Ingredients moved to a native, initially collapsed details element in The dinner; serving scaling and saved ingredient keys retained.
