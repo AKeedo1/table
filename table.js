@@ -172,10 +172,62 @@ function langPill(cls=''){
     <button data-lang="tl" class="${store.lang==='tl'?'on':''}">TL</button>
   </div>`;
 }
+let changingLanguage=false;
+function changeLanguage(lang,render=route,scope=app){
+  if(store.lang===lang)return;
+  const inCook=scope.classList.contains('cook');
+  const scroller=inCook?scope.querySelector('.cscroll'):null;
+  const y=scroller?scroller.scrollTop:window.scrollY;
+  const panel=scope.querySelector('[data-panel-button][aria-pressed="true"]')?.dataset.panelButton;
+  const expanded=Array.from(scope.querySelectorAll('details')).map(el=>el.open);
+  const header=scope.querySelector(inCook?'.ctop':'.hdr');
+  const top=header?.getBoundingClientRect().bottom||0;
+  // Anchor to the nearest visible reading item: translated text can wrap differently.
+  const selector='[data-k], .step-bullets li, .visual-step h3, .meal-components h3, .recipe-tabs, .dinner-ingredients > summary, .recipe-basis > summary, .meal-review label, .meal-review h2, .card, .gname, .cstep';
+  let anchor=null;
+  scope.querySelectorAll(selector).forEach((el,index)=>{
+    const rect=el.getBoundingClientRect();
+    if(!el.getClientRects().length||rect.bottom<=top||rect.top>=window.innerHeight)return;
+    const distance=Math.abs(rect.top-top);
+    if(!anchor||distance<anchor.distance)anchor={index,offset:rect.top,distance};
+  });
+  if(y===0)anchor=null;
+  // Preserve a just-typed note even before the older feedback debounce fires.
+  const id=location.hash.match(/^#\/(?:r|cook)\/(.+)$/)?.[1];
+  const note=scope.querySelector('.note');
+  if(id&&note){store.fb[id]=store.fb[id]||{};store.fb[id].note=note.value;}
+  const hash=location.hash;
+  // Native scroll anchoring otherwise applies a second adjustment after our restore.
+  const anchorStyle=document.documentElement.style.overflowAnchor;
+  document.documentElement.style.overflowAnchor='none';
+  store.lang=lang;save();applyLang();
+  changingLanguage=true;
+  try{render();}finally{changingLanguage=false;}
+  const next=inCook?document.querySelector('.cook'):app;
+  if(!next)return;
+  if(panel){
+    next.querySelectorAll('[data-panel]').forEach(el=>el.hidden=el.dataset.panel!==panel);
+    next.querySelectorAll('[data-panel-button]').forEach(el=>el.setAttribute('aria-pressed',el.dataset.panelButton===panel));
+  }
+  next.querySelectorAll('details').forEach((el,index)=>el.open=!!expanded[index]);
+  const nextScroller=inCook?next.querySelector('.cscroll'):null;
+  const restore=()=>{
+    if(location.hash!==hash||store.lang!==lang||!next.isConnected)return;
+    const target=anchor?next.querySelectorAll(selector)[anchor.index]:null;
+    const current=nextScroller?nextScroller.scrollTop:window.scrollY;
+    const desired=target?current+target.getBoundingClientRect().top-anchor.offset:y;
+    if(nextScroller)nextScroller.scrollTop=desired;else window.scrollTo({top:desired,behavior:'instant'});
+    onScroll();
+  };
+  restore();
+  next.querySelector(`[data-lang="${lang}"]`)?.focus({preventScroll:true});
+  // Run after the catalog's own deferred scroll restoration, without a visible reset.
+  requestAnimationFrame(()=>{restore();requestAnimationFrame(()=>{restore();document.documentElement.style.overflowAnchor=anchorStyle;});});
+}
 function bindLang(scope){
   scope.querySelectorAll('.lang button').forEach(b=>b.onclick=()=>{
     if(store.lang===b.dataset.lang) return;
-    store.lang=b.dataset.lang; save(); applyLang(); nav(route);
+    changeLanguage(b.dataset.lang,route,scope);
   });
 }
 
@@ -218,7 +270,7 @@ function content(r){
 function renderDetail(r){
   if(r.visual){renderVisualDetail(r);return;}
   window.scrollTo(0,0);
-  wantWake=true; acquireWake(); scale=1;                          // 3.1 / 3.8 fresh open
+  wantWake=true; acquireWake(); if(!changingLanguage)scale=1;      // fresh open, retain servings on translation
   const c = content(r);
   const meta = r.macro.split('|').map(s=>s.trim()).filter(Boolean);
   const anyChecks = Object.keys(checksFor(r.id)).length>0;
@@ -353,7 +405,7 @@ function renderCook(r){
   cook.querySelectorAll('[data-scale]').forEach(b=>b.onclick=(e)=>{ e.stopPropagation(); scale=+b.dataset.scale; cook.remove(); renderCook(r); });   // 3.8
   // re-render in place on language change without leaving cook mode
   cook.querySelectorAll('.lang button').forEach(b=>b.onclick=()=>{
-    if(store.lang===b.dataset.lang)return; store.lang=b.dataset.lang; save(); applyLang(); cook.remove(); renderCook(r);
+    changeLanguage(b.dataset.lang,()=>{cook.remove();renderCook(r);},cook);
   });
 }
 
