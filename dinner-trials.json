@@ -1,5 +1,5 @@
 {
-  "version": "all-dinners-1",
+  "version": "vegetable-texture-1",
   "recipes": [
     {
       "id": "halal-cart-chicken",
@@ -1486,7 +1486,7 @@
       "subtitle": "Golden vegetables · pan juices · lemon-yogurt sauce",
       "serves": "1 Serving",
       "macro": "≈670 kcal | 61g P | 68g C | 18g F | 13g fibre",
-      "description": "Juicy garlic-paprika chicken, crisp-edged potatoes and roasted vegetables. Pan juices keep it moist; a lemon-garlic yogurt sauce comes alongside.",
+      "description": "Juicy garlic-paprika chicken with crisp-edged potatoes, caramelised carrots and broccoli with browned, crisp tips. Vegetables roast on their own hot tray; pan juices go over the chicken, with lemon-yogurt sauce alongside.",
       "approved": false,
       "ingredients": [
         {
@@ -1496,8 +1496,8 @@
             "230 g potato, small chunks, skin on",
             "150 g carrot, thin half-moons",
             "120 g broccoli, small florets",
-            "6 g olive oil for vegetables",
-            "4 g olive oil for chicken",
+            "8 g olive oil for vegetables",
+            "2 g olive oil for chicken",
             "3 g garlic, minced",
             "½ tsp sweet paprika",
             "¼ tsp dried thyme",
@@ -1517,15 +1517,15 @@
         }
       ],
       "steps": [
-        "Heat oven to 210°C / 190°C fan. Wash vegetables. Cut potatoes small; slice carrots into thin half-moons. Cut broccoli into small florets. Mince garlic.",
-        "Toss potatoes and carrots with two-thirds of the vegetable oil and some salt. Spread on a roomy lined tray. Roast for 15 minutes. Toss broccoli with the remaining vegetable oil; set aside.",
-        "On a separate board, gently flatten the thick end of the breast to even thickness. Rub with chicken oil, garlic, paprika, thyme, pepper and some salt.",
-        "Turn potatoes and carrots. Add chicken and broccoli without crowding. Roast another 18–22 minutes; check the chicken reaches 74°C. Rest chicken on a clean plate for 5 minutes. Keep roasting any firm potatoes.",
-        "Whisk yogurt, lemon, sauce garlic, remaining salt and the lower water amount. Add the extra water as needed for a loose drizzle. Transfer tray juices and stock to a small pan. Simmer 2–3 minutes.",
-        "Cut rested chicken into chunky pieces. Pour over all the warm pan juices. Serve with potatoes, vegetables and the yogurt sauce alongside."
+        "Heat oven to 220°C / 200°C fan with a roomy metal vegetable tray inside. Wash and thoroughly dry vegetables. Cut potatoes small, carrots into thin half-moons and broccoli into small florets. Mince garlic.",
+        "Mix paprika, thyme and pepper; reserve half for chicken. Toss potatoes with half the vegetable oil, some spice mix and salt. Spread on the hot tray, cut sides down. Roast 15 minutes. Toss carrots and broccoli with remaining vegetable oil, vegetable spices and some salt.",
+        "On a separate board, gently flatten the thick end of the breast. Rub with chicken oil, garlic, reserved spices and some salt. Put chicken in its own small roasting dish.",
+        "Turn potatoes. Add carrots and broccoli to the vegetable tray with space between pieces. Roast vegetables and the separate chicken dish for 18–22 minutes. Remove chicken at 74°C; rest 5 minutes on a clean plate. Turn vegetables once; pull out browned, tender pieces. Give pale pieces 3–5 minutes more.",
+        "Whisk yogurt, lemon, sauce garlic, remaining salt and the lower water amount. Add extra water as needed for a loose drizzle. Simmer chicken juices with the stock in a small pan for 2–3 minutes.",
+        "Cut rested chicken into chunks; pour its pan juices over it. Keep vegetables out of the juices to preserve their crisp edges. Serve yogurt sauce alongside for dipping."
       ],
       "tl": {
-        "description": "Juicy na garlic-paprika chicken, browned na patatas at roasted vegetables. May pan juices at lemon-garlic yogurt sauce sa tabi.",
+        "description": "Juicy na garlic-paprika chicken, crispy na gilid ng patatas, caramelised na carrot at broccoli na browned at crispy ang dulo. Hiwalay ang mainit na tray ng gulay; sa manok ang pan juices, may lemon-yogurt sauce sa tabi.",
         "ingredients": [
           {
             "group": "Tray",
@@ -1534,8 +1534,8 @@
               "230 g patatas, maliliit na chunks, may balat",
               "150 g carrot, maninipis na half-moon",
               "120 g broccoli, maliliit na florets",
-              "6 g olive oil para sa gulay",
-              "4 g olive oil para sa manok",
+              "8 g olive oil para sa gulay",
+              "2 g olive oil para sa manok",
               "3 g bawang, tinadtad",
               "½ tsp sweet paprika",
               "¼ tsp dried thyme",
@@ -1555,21 +1555,21 @@
           }
         ],
         "steps": [
-          "Painitin ang oven sa 210°C / 190°C fan. Hugasan ang gulay. Hiwain nang maliit ang patatas; hiwain ang carrots sa maninipis na half-moon. Hiwain ang broccoli sa maliliit na florets. Tadtarin ang bawang.",
-          "Ihalo ang patatas at carrot sa dalawang-katlo ng mantika para sa gulay at kaunting asin. Ikalat sa maluwag na tray na may liner. I-roast nang 15 minuto. Ihalo ang broccoli sa natitirang mantika para sa gulay; itabi.",
-          "Sa hiwalay na sangkalan, marahang pantayin ang kapal ng chicken breast. Ipahid ang mantika para sa manok, bawang, paprika, thyme, pepper at kaunting asin.",
-          "Baligtarin ang patatas at carrot. Idagdag ang manok at broccoli; huwag pagsiksikin. I-roast pa nang 18–22 minuto; tiyaking 74°C ang manok. Ipahinga ang manok sa malinis na plato nang 5 minuto. Ipagpatuloy ang pag-roast kung matigas pa ang patatas.",
-          "Haluin ang yogurt, lemon, bawang para sa sarsa, natitirang asin at mas kaunting dami ng tubig. Dagdagan ng tubig kung kailangan para madaling ibuhos. Ilipat ang pan juices at stock sa maliit na kaserola. Pakuluin nang marahan nang 2–3 minuto.",
-          "Hiwain ang ipinahingang manok sa chunks. Ibuhos ang lahat ng mainit na pan juices. Ihain kasama ang patatas, gulay at yogurt sauce sa tabi."
+          "Painitin ang oven sa 220°C / 200°C fan, kasama ang maluwag na metal tray para sa gulay. Hugasan at patuyuing mabuti ang gulay. Hiwain nang maliit ang patatas, manipis na half-moon ang carrot at maliliit na florets ang broccoli. Tadtarin ang bawang.",
+          "Paghaluin ang paprika, thyme at pepper; itabi ang kalahati para sa manok. Ihalo ang patatas sa kalahati ng mantika para sa gulay, kaunting spice mix at asin. Ikalat sa mainit na tray, nakadapa ang hiwang bahagi. I-roast nang 15 minuto. Ihalo ang carrot at broccoli sa natitirang mantika at spices para sa gulay, at kaunting asin.",
+          "Sa hiwalay na sangkalan, marahang pantayin ang makapal na bahagi ng chicken breast. Ipahid ang mantika para sa manok, bawang, itinabing spices at kaunting asin. Ilagay ang manok sa sarili nitong maliit na roasting dish.",
+          "Baligtarin ang patatas. Idagdag ang carrot at broccoli sa tray ng gulay, may pagitan ang mga piraso. I-roast ang gulay at hiwalay na dish ng manok nang 18–22 minuto. Alisin ang manok sa 74°C; ipahinga nang 5 minuto sa malinis na plato. Baligtarin ang gulay nang isang beses; alisin ang browned at malambot na piraso. Iwan pa nang 3–5 minuto ang maputla.",
+          "Haluin ang yogurt, lemon, bawang para sa sarsa, natitirang asin at mas kaunting dami ng tubig. Dagdagan ng tubig kung kailangan para madaling ibuhos. Pakuluin nang marahan ang juices ng manok at stock sa maliit na kaserola nang 2–3 minuto.",
+          "Hiwain sa chunks ang ipinahingang manok; ibuhos dito ang pan juices. Ihiwalay ang gulay sa pan juices para manatiling crispy ang mga gilid. Ihain sa tabi ang yogurt sauce para sa pagsawsaw."
         ]
       },
       "visual": {
         "subtitle": "Golden vegetables · pan juices · lemon-yogurt sauce",
         "time": "45–50",
         "hero": {
-          "src": "assets/dinners/roast-plate-v3.webp",
-          "alt": "Golden potatoes, carrots and broccoli; pourable yogurt sauce alongside.",
-          "caption": "Golden potatoes, carrots and broccoli; pourable yogurt sauce alongside."
+          "src": "assets/dinners/roast-plate-v4.webp",
+          "alt": "Crisp potatoes, caramelised carrots and browned broccoli; sauce alongside.",
+          "caption": "Crisp potatoes, caramelised carrots and browned broccoli; sauce alongside."
         },
         "nutrients": [
           {
@@ -1593,9 +1593,10 @@
           {
             "title": "Prep",
             "bullets": [
-              "Heat oven to 210°C / 190°C fan. Wash vegetables.",
-              "Cut potatoes small; slice carrots into thin half-moons.",
-              "Cut broccoli into small florets. Mince garlic."
+              "Heat oven to 220°C / 200°C fan with a roomy metal vegetable tray inside.",
+              "Wash and thoroughly dry vegetables.",
+              "Cut potatoes small, carrots into thin half-moons and broccoli into small florets.",
+              "Mince garlic."
             ],
             "cue": "",
             "photo": {
@@ -1607,54 +1608,58 @@
           {
             "title": "Give potatoes a head start",
             "bullets": [
-              "Toss potatoes and carrots with two-thirds of the vegetable oil and some salt.",
-              "Spread on a roomy lined tray. Roast for 15 minutes.",
-              "Toss broccoli with the remaining vegetable oil; set aside."
+              "Mix paprika, thyme and pepper; reserve half for chicken.",
+              "Toss potatoes with half the vegetable oil, some spice mix and salt.",
+              "Spread on the hot tray, cut sides down. Roast 15 minutes.",
+              "Toss carrots and broccoli with remaining vegetable oil, vegetable spices and some salt."
             ],
             "cue": ""
           },
           {
             "title": "Season the chicken",
             "bullets": [
-              "On a separate board, gently flatten the thick end of the breast to even thickness.",
-              "Rub with chicken oil, garlic, paprika, thyme, pepper and some salt."
+              "On a separate board, gently flatten the thick end of the breast.",
+              "Rub with chicken oil, garlic, reserved spices and some salt.",
+              "Put chicken in its own small roasting dish."
             ],
             "cue": ""
           },
           {
-            "title": "Roast together",
+            "title": "Roast on separate trays",
             "bullets": [
-              "Turn potatoes and carrots. Add chicken and broccoli without crowding.",
-              "Roast another 18–22 minutes; check the chicken reaches 74°C.",
-              "Rest chicken on a clean plate for 5 minutes. Keep roasting any firm potatoes."
+              "Turn potatoes. Add carrots and broccoli to the vegetable tray with space between pieces.",
+              "Roast vegetables and the separate chicken dish for 18–22 minutes.",
+              "Remove chicken at 74°C; rest 5 minutes on a clean plate.",
+              "Turn vegetables once; pull out browned, tender pieces. Give pale pieces 3–5 minutes more."
             ],
-            "cue": "",
+            "cue": "Golden-brown faces, crisp broccoli tips; tender centres with some bite.",
             "photo": {
-              "src": "assets/dinners/roast-cook-v2.webp",
-              "alt": "Browned edges, tender vegetables and juicy chicken.",
-              "caption": "Browned edges, tender vegetables and juicy chicken."
+              "src": "assets/dinners/roast-cook-v3.webp",
+              "alt": "Vegetables on a dry, uncrowded tray; chicken roasts separately.",
+              "caption": "Vegetables on a dry, uncrowded tray; chicken roasts separately."
             }
           },
           {
             "title": "Make both sauces",
             "bullets": [
               "Whisk yogurt, lemon, sauce garlic, remaining salt and the lower water amount.",
-              "Add the extra water as needed for a loose drizzle.",
-              "Transfer tray juices and stock to a small pan. Simmer 2–3 minutes."
+              "Add extra water as needed for a loose drizzle.",
+              "Simmer chicken juices with the stock in a small pan for 2–3 minutes."
             ],
             "cue": ""
           },
           {
             "title": "Serve",
             "bullets": [
-              "Cut rested chicken into chunky pieces. Pour over all the warm pan juices.",
-              "Serve with potatoes, vegetables and the yogurt sauce alongside."
+              "Cut rested chicken into chunks; pour its pan juices over it.",
+              "Keep vegetables out of the juices to preserve their crisp edges.",
+              "Serve yogurt sauce alongside for dipping."
             ],
             "cue": "",
             "photo": {
-              "src": "assets/dinners/roast-plate-v3.webp",
-              "alt": "Pan juices over chicken; yogurt sauce alongside.",
-              "caption": "Pan juices over chicken; yogurt sauce alongside."
+              "src": "assets/dinners/roast-plate-v4.webp",
+              "alt": "Crisp potatoes, caramelised carrots and browned broccoli; sauce alongside.",
+              "caption": "Crisp potatoes, caramelised carrots and browned broccoli; sauce alongside."
             }
           }
         ],
@@ -1665,7 +1670,7 @@
           },
           {
             "title": "Vegetables & sauce",
-            "body": "Golden potatoes, carrots and broccoli; pourable yogurt sauce alongside."
+            "body": "Crisp potatoes, caramelised carrots and browned broccoli; sauce alongside."
           }
         ],
         "adjustment": "",
@@ -1795,9 +1800,9 @@
         "tl": {
           "subtitle": "Golden na gulay · pan juices · lemon-yogurt sauce",
           "hero": {
-            "src": "assets/dinners/roast-plate-v3.webp",
-            "alt": "Golden na patatas, carrot at broccoli; malabnaw na yogurt sauce sa tabi.",
-            "caption": "Golden na patatas, carrot at broccoli; malabnaw na yogurt sauce sa tabi."
+            "src": "assets/dinners/roast-plate-v4.webp",
+            "alt": "Crispy na patatas, caramelised na carrot at browned na broccoli; sarsa sa tabi.",
+            "caption": "Crispy na patatas, caramelised na carrot at browned na broccoli; sarsa sa tabi."
           },
           "nutrients": [
             {
@@ -1821,9 +1826,10 @@
             {
               "title": "Ihanda",
               "bullets": [
-                "Painitin ang oven sa 210°C / 190°C fan. Hugasan ang gulay.",
-                "Hiwain nang maliit ang patatas; hiwain ang carrots sa maninipis na half-moon.",
-                "Hiwain ang broccoli sa maliliit na florets. Tadtarin ang bawang."
+                "Painitin ang oven sa 220°C / 200°C fan, kasama ang maluwag na metal tray para sa gulay.",
+                "Hugasan at patuyuing mabuti ang gulay.",
+                "Hiwain nang maliit ang patatas, manipis na half-moon ang carrot at maliliit na florets ang broccoli.",
+                "Tadtarin ang bawang."
               ],
               "cue": "",
               "photo": {
@@ -1835,32 +1841,35 @@
             {
               "title": "Unahin ang patatas",
               "bullets": [
-                "Ihalo ang patatas at carrot sa dalawang-katlo ng mantika para sa gulay at kaunting asin.",
-                "Ikalat sa maluwag na tray na may liner. I-roast nang 15 minuto.",
-                "Ihalo ang broccoli sa natitirang mantika para sa gulay; itabi."
+                "Paghaluin ang paprika, thyme at pepper; itabi ang kalahati para sa manok.",
+                "Ihalo ang patatas sa kalahati ng mantika para sa gulay, kaunting spice mix at asin.",
+                "Ikalat sa mainit na tray, nakadapa ang hiwang bahagi. I-roast nang 15 minuto.",
+                "Ihalo ang carrot at broccoli sa natitirang mantika at spices para sa gulay, at kaunting asin."
               ],
               "cue": ""
             },
             {
               "title": "Timplahan ang manok",
               "bullets": [
-                "Sa hiwalay na sangkalan, marahang pantayin ang kapal ng chicken breast.",
-                "Ipahid ang mantika para sa manok, bawang, paprika, thyme, pepper at kaunting asin."
+                "Sa hiwalay na sangkalan, marahang pantayin ang makapal na bahagi ng chicken breast.",
+                "Ipahid ang mantika para sa manok, bawang, itinabing spices at kaunting asin.",
+                "Ilagay ang manok sa sarili nitong maliit na roasting dish."
               ],
               "cue": ""
             },
             {
-              "title": "Sabay i-roast",
+              "title": "I-roast sa magkahiwalay na tray",
               "bullets": [
-                "Baligtarin ang patatas at carrot. Idagdag ang manok at broccoli; huwag pagsiksikin.",
-                "I-roast pa nang 18–22 minuto; tiyaking 74°C ang manok.",
-                "Ipahinga ang manok sa malinis na plato nang 5 minuto. Ipagpatuloy ang pag-roast kung matigas pa ang patatas."
+                "Baligtarin ang patatas. Idagdag ang carrot at broccoli sa tray ng gulay, may pagitan ang mga piraso.",
+                "I-roast ang gulay at hiwalay na dish ng manok nang 18–22 minuto.",
+                "Alisin ang manok sa 74°C; ipahinga nang 5 minuto sa malinis na plato.",
+                "Baligtarin ang gulay nang isang beses; alisin ang browned at malambot na piraso. Iwan pa nang 3–5 minuto ang maputla."
               ],
-              "cue": "",
+              "cue": "Golden-brown na ibabaw, crispy na dulo ng broccoli; malambot na gitna na may kaunting bite.",
               "photo": {
-                "src": "assets/dinners/roast-cook-v2.webp",
-                "alt": "Browned na gilid, malambot na gulay at juicy na manok.",
-                "caption": "Browned na gilid, malambot na gulay at juicy na manok."
+                "src": "assets/dinners/roast-cook-v3.webp",
+                "alt": "Gulay sa tuyo at maluwag na tray; hiwalay ang manok.",
+                "caption": "Gulay sa tuyo at maluwag na tray; hiwalay ang manok."
               }
             },
             {
@@ -1868,21 +1877,22 @@
               "bullets": [
                 "Haluin ang yogurt, lemon, bawang para sa sarsa, natitirang asin at mas kaunting dami ng tubig.",
                 "Dagdagan ng tubig kung kailangan para madaling ibuhos.",
-                "Ilipat ang pan juices at stock sa maliit na kaserola. Pakuluin nang marahan nang 2–3 minuto."
+                "Pakuluin nang marahan ang juices ng manok at stock sa maliit na kaserola nang 2–3 minuto."
               ],
               "cue": ""
             },
             {
               "title": "Ihain",
               "bullets": [
-                "Hiwain ang ipinahingang manok sa chunks. Ibuhos ang lahat ng mainit na pan juices.",
-                "Ihain kasama ang patatas, gulay at yogurt sauce sa tabi."
+                "Hiwain sa chunks ang ipinahingang manok; ibuhos dito ang pan juices.",
+                "Ihiwalay ang gulay sa pan juices para manatiling crispy ang mga gilid.",
+                "Ihain sa tabi ang yogurt sauce para sa pagsawsaw."
               ],
               "cue": "",
               "photo": {
-                "src": "assets/dinners/roast-plate-v3.webp",
-                "alt": "Pan juices sa manok; yogurt sauce sa tabi.",
-                "caption": "Pan juices sa manok; yogurt sauce sa tabi."
+                "src": "assets/dinners/roast-plate-v4.webp",
+                "alt": "Crispy na patatas, caramelised na carrot at browned na broccoli; sarsa sa tabi.",
+                "caption": "Crispy na patatas, caramelised na carrot at browned na broccoli; sarsa sa tabi."
               }
             }
           ],
@@ -1893,7 +1903,7 @@
             },
             {
               "title": "Gulay at sarsa",
-              "body": "Golden na patatas, carrot at broccoli; malabnaw na yogurt sauce sa tabi."
+              "body": "Crispy na patatas, caramelised na carrot at browned na broccoli; sarsa sa tabi."
             }
           ],
           "adjustment": "",
@@ -1944,7 +1954,7 @@
         "Wash vegetables. Finely dice tomato; cut courgette into small half-moons. Grate cheese. Peel garlic. Pick basil leaves. Cut chicken into bite-sized chunks on a separate board.",
         "Toast almonds in a dry pan over medium-low for 3–4 minutes; cool. Finely blend almonds, basil, garlic, half the cheese, lemon, pesto oil and a little salt. Add a splash of water if needed to blend. Set aside.",
         "Boil pasta in unsalted water until just tender, following packet timing. Reserve the listed pasta water before draining.",
-        "Season chicken with pepper and some salt. Heat pan oil over medium-high. Sear chicken for 2–3 minutes; turn and cook another 5–7 minutes, to 74°C. Lift out. Cook courgette in the same pan for 4–5 minutes. Add spinach and remaining salt; wilt for 1 minute.",
+        "Season chicken with pepper and some salt. Heat pan oil over medium-high. Sear chicken for 2–3 minutes; turn and cook another 5–7 minutes, to 74°C. Lift chicken out. Pat courgette dry; sear in one layer for 4–5 minutes, turning once. Add spinach and remaining salt; wilt for 1 minute.",
         "Turn heat off. Add pasta, chicken and all the pesto. Toss with the lower amount of pasta water. Add more as needed. Keep the sauce loose and glossy; do not boil the pesto.",
         "Spoon into a warm bowl. Top with all the fresh tomato and remaining cheese. Serve immediately, while the sauce is glossy."
       ],
@@ -1981,7 +1991,7 @@
           "Hugasan ang gulay. Pinong i-dice ang kamatis; hiwain ang courgette sa maliliit na half-moon. Gadgarin ang keso. Balatan ang bawang. Pitasin ang dahon ng basil. Hiwain ang manok sa maliliit na chunks sa hiwalay na sangkalan.",
           "I-toast ang almonds sa tuyong kawali sa katamtaman hanggang mahinang apoy nang 3–4 minuto; palamigin. Pinong i-blend ang almonds, basil, bawang, kalahati ng keso, lemon, mantika para sa pesto at kaunting asin. Dagdagan ng kaunting tubig kung kailangan sa pag-blend. Itabi.",
           "Pakuluan ang pasta sa tubig na walang asin hanggang lumambot, ayon sa oras sa pakete. Itabi ang nakalistang dami ng tubig ng pasta bago salain.",
-          "Timplahan ang manok ng pepper at kaunting asin. Painitin ang mantika sa katamtaman hanggang malakas na apoy. I-sear ang manok nang 2–3 minuto; baligtarin at lutuin pa nang 5–7 minuto, hanggang 74°C. Iahon. Lutuin ang courgette sa parehong kawali nang 4–5 minuto. Idagdag ang spinach at natitirang asin; palantahin nang 1 minuto.",
+          "Timplahan ang manok ng pepper at kaunting asin. Painitin ang mantika sa katamtaman hanggang malakas na apoy. I-sear ang manok nang 2–3 minuto; baligtarin at lutuin pa nang 5–7 minuto, hanggang 74°C. Iahon ang manok. Patuyuin ang courgette; i-sear nang hindi nagsasapawan sa loob ng 4–5 minuto, baligtarin nang isang beses. Idagdag ang spinach at natitirang asin; palantahin nang 1 minuto.",
           "Patayin ang apoy. Idagdag ang pasta, manok at lahat ng pesto. Ihalo ang mas kaunting dami ng tubig ng pasta. Dagdagan kung kailangan. Panatilihing malabnaw at glossy ang sarsa; huwag pakuluan ang pesto.",
           "Ilagay sa mainit na mangkok. Ilagay sa ibabaw ang lahat ng sariwang kamatis at natitirang keso. Ihain agad habang glossy pa ang sarsa."
         ]
@@ -2049,10 +2059,10 @@
             "bullets": [
               "Season chicken with pepper and some salt. Heat pan oil over medium-high.",
               "Sear chicken for 2–3 minutes; turn and cook another 5–7 minutes, to 74°C.",
-              "Lift out. Cook courgette in the same pan for 4–5 minutes.",
+              "Lift chicken out. Pat courgette dry; sear in one layer for 4–5 minutes, turning once.",
               "Add spinach and remaining salt; wilt for 1 minute."
             ],
-            "cue": ""
+            "cue": "Browned courgette edges, with a little bite."
           },
           {
             "title": "Make it glossy",
@@ -2300,10 +2310,10 @@
               "bullets": [
                 "Timplahan ang manok ng pepper at kaunting asin. Painitin ang mantika sa katamtaman hanggang malakas na apoy.",
                 "I-sear ang manok nang 2–3 minuto; baligtarin at lutuin pa nang 5–7 minuto, hanggang 74°C.",
-                "Iahon. Lutuin ang courgette sa parehong kawali nang 4–5 minuto.",
+                "Iahon ang manok. Patuyuin ang courgette; i-sear nang hindi nagsasapawan sa loob ng 4–5 minuto, baligtarin nang isang beses.",
                 "Idagdag ang spinach at natitirang asin; palantahin nang 1 minuto."
               ],
-              "cue": ""
+              "cue": "Browned na gilid ng courgette, may kaunting bite."
             },
             {
               "title": "Gawing glossy",

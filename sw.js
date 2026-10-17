@@ -1,9 +1,9 @@
 /* Table — service worker. Canonical pattern (2.1): ordered install, cache only OK
    responses, network-first raced against a 2.5s timeout, HTML fallback for navigations. */
-const CACHE = 'table-all-dinners-v1';
-const SHELL = ['./', './index.html', './styles.css?v=all-dinners-1', './wayfinding.css?v=all-dinners-1', './app.js', './catalog.js?v=all-dinners-1', './navigation.js?v=all-dinners-1', './table.js?v=all-dinners-1', './manifest.webmanifest?v=all-dinners-1',
-  './recipes.json', './dinner-trials.json', './visual-recipes.js?v=all-dinners-1', './visual-recipes.css?v=all-dinners-1', './assets/dinners/halal-cart-plate-v2.webp', './assets/dinners/halal-cart-prep-v2.webp', './assets/dinners/halal-cart-chicken.webp',
-  './assets/dinners/curry-prep-v2.webp', './assets/dinners/curry-cook.webp', './assets/dinners/curry-plate.webp', './assets/dinners/kofta-prep.webp', './assets/dinners/kofta-cook-v2.webp', './assets/dinners/kofta-plate-v2.webp', './assets/dinners/roast-prep.webp', './assets/dinners/roast-cook-v2.webp', './assets/dinners/roast-plate-v3.webp', './assets/dinners/pesto-prep.webp', './assets/dinners/pesto-cook.webp', './assets/dinners/pesto-plate.webp', './assets/dinners/ajiaco-prep-v2.webp', './assets/dinners/ajiaco-cook.webp', './assets/dinners/ajiaco-plate-v2.webp',
+const CACHE = 'table-vegetable-texture-v1';
+const SHELL = ['./', './index.html', './styles.css?v=vegetable-texture-1', './wayfinding.css?v=vegetable-texture-1', './app.js', './catalog.js?v=vegetable-texture-1', './navigation.js?v=vegetable-texture-1', './table.js?v=vegetable-texture-1', './manifest.webmanifest?v=vegetable-texture-1',
+  './recipes.json', './dinner-trials.json', './visual-recipes.js?v=vegetable-texture-1', './visual-recipes.css?v=vegetable-texture-1', './assets/dinners/halal-cart-plate-v2.webp', './assets/dinners/halal-cart-prep-v2.webp', './assets/dinners/halal-cart-chicken.webp',
+  './assets/dinners/curry-prep-v2.webp', './assets/dinners/curry-cook.webp', './assets/dinners/curry-plate.webp', './assets/dinners/kofta-prep.webp', './assets/dinners/kofta-cook-v2.webp', './assets/dinners/kofta-plate-v2.webp', './assets/dinners/roast-prep.webp', './assets/dinners/roast-cook-v3.webp', './assets/dinners/roast-plate-v4.webp', './assets/dinners/pesto-prep.webp', './assets/dinners/pesto-cook.webp', './assets/dinners/pesto-plate.webp', './assets/dinners/ajiaco-prep-v2.webp', './assets/dinners/ajiaco-cook.webp', './assets/dinners/ajiaco-plate-v2.webp',
   './assets/icon-192.png', './assets/icon-512.png', './assets/table-wordmark-v1.png', './assets/table-icon-32-v1.png', './assets/table-icon-180-v1.png', './assets/table-icon-192-v1.png', './assets/table-icon-512-v1.png'];
 
 self.addEventListener('install', e=>{

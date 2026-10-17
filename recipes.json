@@ -496,10 +496,10 @@
       ],
       "steps": [
         "Smashed cucumber: smash, tear, salt 10 min, squeeze, dress, chill. Toss the chicken with soy, cornflour and salt, leave 15–20 min. Cook the rice.",
-        "Blanch the broccoli and long beans in boiling water 2 min, drain (keeps them vivid and quick in the wok).",
-        "Very hot wok with the oil: flash-fry the chicken cubes in one layer until seared and just cooked, 3–4 min. Lift out.",
-        "Same wok: garlic and ginger 30 sec, add the cracked black pepper 15 sec until fragrant. Add the blanched greens, toss 1 min.",
-        "Return the chicken, add the sauce, toss hard 1–2 min until glossy and coating. Off the heat, throw in the spring onion.",
+        "Wash and thoroughly dry broccoli and beans. Cut broccoli into small florets and beans into short lengths.",
+        "Heat half the wok oil. Sear chicken in one layer for 3–4 minutes; lift out to finish later in the sauce.",
+        "Add remaining wok oil. Sear broccoli and beans uncovered for 5–7 minutes, turning occasionally, until browned and tender with bite. Add garlic and ginger for 30 seconds, then black pepper for 15 seconds.",
+        "Return chicken and add sauce. Toss for 1–2 minutes until glossy; check chicken reaches 74°C. Finish with spring onion.",
         "Serve over the rice with the cold smashed cucumber alongside."
       ],
       "tl": {
@@ -545,10 +545,10 @@
         ],
         "steps": [
           "Smashed cucumber: durugin, punitin, asnan 10 minuto, pigain, timplahan, palamigin. Haluin ang manok sa toyo, cornflour at asin, iwan 15–20 minuto. Lutuin ang kanin.",
-          "Blanch ang broccoli at sitaw sa kumukulong tubig ng 2 minuto, salain (para manatiling matingkad at mabilis sa wok).",
-          "Napakainit na wok na may mantika: flash-fry ang manok na cubes sa isang layer hanggang ma-sear at kasisiluto lang, 3–4 minuto. Hanguin.",
-          "Parehong wok: bawang at luya 30 segundo, ilagay ang durog na paminta 15 segundo hanggang bumango. Ilagay ang blanched na gulay, haluin 1 minuto.",
-          "Ibalik ang manok, ilagay ang sarsa, haluin nang husto 1–2 minuto hanggang makintab at bumalot. Alis sa apoy, ihagis ang spring onion.",
+          "Hugasan at patuyuing mabuti ang broccoli at beans. Gawing maliliit na florets ang broccoli at maiikling hiwa ang beans.",
+          "Painitin ang kalahati ng mantika para sa wok. I-sear ang manok sa isang layer nang 3–4 minuto; iahon at tapusin mamaya sa sarsa.",
+          "Idagdag ang natitirang mantika. I-sear ang broccoli at beans nang walang takip sa loob ng 5–7 minuto, paminsang baligtarin, hanggang browned at malambot na may bite. Idagdag ang bawang at luya nang 30 segundo, saka paminta nang 15 segundo.",
+          "Ibalik ang manok at idagdag ang sarsa. Haluin nang 1–2 minuto hanggang glossy; tiyaking 74°C ang manok. Tapusin sa spring onion.",
           "Ihain sa ibabaw ng kanin kasama ang malamig na smashed cucumber sa tabi."
         ]
       }
@@ -1405,7 +1405,7 @@
         "Beef (3–4 min, super hot pan): heat olive oil in a heavy pan on high. Add marinated beef in single layer (work in 2 batches if needed — overcrowding steams instead of sears). Don't move it for 60 sec, let it caramelize. Toss, 60 more sec, done. Pull off heat immediately.",
         "Fried egg (2 min): crack into a non-stick pan with a film of oil, medium heat. Cover for 90 sec — crispy white edges, runny yolk.",
         "Plate: rice as base. Around the perimeter, small piles: spinach namul, carrot namul, bean sprout namul, mushrooms, kimchi. Pile beef in the center. Slide fried egg on top of beef. Drizzle 2 tbsp gochujang sauce across the bowl. Scatter sesame, scallion greens, gim. Break the yolk and mix everything together when you eat.",
-        "Make-ahead — Korean Namul Trio (Spinach, Bean Sprout, Carrot): Bring a medium pot of salted water to a boil. Spinach: drop in for 30 sec, lift out with a slotted spoon into a bowl of ice water. Squeeze dry hard (most of the volume is water). Toss with sesame oil, soy, garlic, sesame seeds, pinch salt. Jar. Bean sprouts: drop in the same pot for 2 min, lift out, ice bath, drain. Toss with sesame oil, garlic, spring onion green, salt, sesame seeds. Jar. Carrot: in a small dry pan, heat over medium, no oil. Add julienned carrot, toss 90 sec until just softened but still crisp. Off heat. Toss with sesame oil, salt, sesame seeds. Jar. All three hold 3 days refrigerated.",
+        "Vegetable trio: wash and dry well. Cook each separately in a hot non-stick pan using its listed sesame oil. Spinach: sauté 1–2 minutes until wilted; let excess moisture evaporate, then add its soy, garlic, sesame and salt. Sprouts: stir-fry 4–6 minutes until thoroughly cooked and piping hot throughout; add their garlic, spring onion, salt and sesame. Carrot: sear 2–3 minutes for browned edges and a little bite; add its salt and sesame. Serve fresh, or cool promptly and refrigerate in separate shallow containers for up to 3 days.",
         "Make-ahead — Gochujang Sauce: Gochujang sauce: whisk all ingredients in a small bowl, starting with 1 tbsp water and adding more until pourable. Jar. Holds 5 days. Sunomono: combine all ingredients in a jar, shake. Refrigerate. Drains liquid as it sits — that's fine, lift the cucumber out with a slotted spoon when serving."
       ],
       "tl": {
@@ -1514,7 +1514,7 @@
           "Beef (3–4 minuto, napakainit na kawali): painitin ang olive oil sa mabigat na kawali sa mataas na apoy. Ilagay ang ni-marinate na beef sa isang layer (gawin sa 2 batch kung kailangan — ang sobrang siksik ay nagsi-singaw hindi nagse-sear). Huwag galawin ng 60 segundo, hayaang mag-caramelize. Haluin, 60 segundo pa, tapos na. Hanguin agad sa apoy.",
           "Piniritong itlog (2 minuto): basagin sa non-stick na kawali na may kaunting mantika, katamtamang apoy. Takpan ng 90 segundo — malutong na puting gilid, malabnaw na pula.",
           "Ihain: kanin bilang base. Sa paligid, maliliit na bunton: spinach namul, carrot namul, bean sprout namul, mushrooms, kimchi. Ibunton ang beef sa gitna. Ipatong ang piniritong itlog sa beef. Patakan ng 2 kutsara gochujang sauce sa mangkok. Ikalat ang sesame, berdeng spring onion, gim. Basagin ang pula at haluin lahat kapag kakain na.",
-          "Gawin nang maaga — Korean Namul Trio (Spinach, Bean Sprout, Carrot): Pakuluan ang katamtamang kaldero ng inasnang tubig. Spinach: ilagay 30 segundo, hanguin gamit ang slotted spoon sa mangkok ng tubig na may yelo. Pigain nang husto (karamihan ng volume ay tubig). Haluin sa sesame oil, toyo, bawang, sesame seeds, kurot na asin. Ilagay sa garapon. Bean sprouts: ilagay sa parehong kaldero 2 minuto, hanguin, ice bath, salain. Haluin sa sesame oil, bawang, berdeng spring onion, asin, sesame seeds. Ilagay sa garapon. Carrot: sa maliit na tuyong kawali, painitin sa katamtaman, walang mantika. Ilagay ang julienned na karot, haluin 90 segundo hanggang lumambot lang pero malutong pa. Alis sa apoy. Haluin sa sesame oil, asin, sesame seeds. Ilagay sa garapon. Lahat ng tatlo ay tumatagal 3 araw sa refrigerator.",
+          "Tatlong gulay: hugasan at patuyuing mabuti. Lutuin nang magkakahiwalay sa mainit na non-stick pan, gamit ang nakalistang sesame oil ng bawat isa. Spinach: igisa nang 1–2 minuto hanggang malanta; patuyuin ang sobrang likido, saka idagdag ang toyo, bawang, sesame at asin nito. Sprouts: i-stir-fry nang 4–6 minuto hanggang lubusang luto at mainit sa buong loob; idagdag ang bawang, spring onion, asin at sesame nito. Carrot: i-sear nang 2–3 minuto para browned ang gilid at may bite; idagdag ang asin at sesame nito. Ihain agad, o palamigin kaagad at ilagay sa magkakahiwalay na mababaw na lalagyan sa refrigerator nang hanggang 3 araw.",
           "Gawin nang maaga — Gochujang Sauce: Gochujang sauce: haluin ang lahat ng sangkap sa maliit na mangkok, magsimula sa 1 kutsara tubig at dagdagan hanggang maibubuhos. Ilagay sa garapon. Tumatagal 5 araw. Sunomono: pagsamahin ang lahat sa garapon, iling. I-refrigerate. Naglalabas ng tubig habang nakatago — ayos lang iyon, hanguin ang pipino gamit ang slotted spoon kapag naghahain."
         ]
       },
@@ -1838,7 +1838,7 @@
         "Cucumber salad: toss cucumber with vinegar, sesame oil, sesame seeds, sugar, salt, spring onion. Set aside.",
         "Cook rice. Set aside.",
         "Broil salmon flesh-side up on lined tray, 4–6 min until glaze caramelizes and darkens. Or sear flesh-side down 2 min, flip, transfer to 200°C oven 6–8 min.",
-        "Broccolini: blanch in boiling salted water 2 min, drain. Toss with sesame oil and soy. Or char in a dry hot pan 3–4 min.",
+        "Broccolini: wash, dry well and split thick stems lengthways. Sear in its sesame oil over medium-high heat for 5–7 minutes, turning occasionally, until browned and tender with bite. Add soy and chilli off the heat.",
         "Plate: rice, broccolini alongside, salmon skin-side up. Cucumber salad on the side. Extra sesame seeds."
       ],
       "tl": {
@@ -1887,7 +1887,7 @@
           "Cucumber salad: haluin ang pipino sa suka, sesame oil, sesame seeds, asukal, asin, spring onion. Itabi.",
           "Lutuin ang kanin. Itabi.",
           "I-broil ang salmon na nakaharap paitaas ang laman sa tray na may papel, 4–6 minuto hanggang mag-caramelize at umitim ang glaze. O i-sear na nakababa ang laman 2 minuto, baligtarin, ilipat sa 200°C na oven 6–8 minuto.",
-          "Broccolini: i-blanch sa kumukulong inasnang tubig 2 minuto, salain. Haluin sa sesame oil at toyo. O i-char sa tuyong mainit na kawali 3–4 minuto.",
+          "Broccolini: hugasan, patuyuing mabuti at hatiin nang pahaba ang makakapal na tangkay. I-sear sa sesame oil nito sa katamtaman hanggang malakas na apoy nang 5–7 minuto, paminsang baligtarin, hanggang browned at malambot na may bite. Idagdag ang toyo at chilli matapos patayin ang apoy.",
           "Ihain: kanin, broccolini sa tabi, salmon na nakaharap paitaas ang balat. Cucumber salad sa tabi. Dagdag na sesame seeds."
         ]
       },
