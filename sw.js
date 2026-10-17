@@ -1,8 +1,8 @@
 /* Table — service worker. Canonical pattern (2.1): ordered install, cache only OK
    responses, network-first raced against a 2.5s timeout, HTML fallback for navigations. */
-const CACHE = 'table-identity-v1';
-const SHELL = ['./', './index.html', './styles.css?v=identity-1', './wayfinding.css?v=identity-1', './app.js', './catalog.js?v=identity-1', './navigation.js?v=identity-1', './table.js?v=identity-1', './manifest.webmanifest?v=identity-1',
-  './recipes.json',
+const CACHE = 'table-visual-dinners-v1';
+const SHELL = ['./', './index.html', './styles.css?v=visual-dinners-1', './wayfinding.css?v=visual-dinners-1', './app.js', './catalog.js?v=visual-dinners-1', './navigation.js?v=visual-dinners-1', './table.js?v=visual-dinners-1', './manifest.webmanifest?v=visual-dinners-1',
+  './recipes.json', './dinner-trials.json', './visual-recipes.js?v=visual-dinners-1', './visual-recipes.css?v=visual-dinners-1', './assets/dinners/halal-cart-plate.webp', './assets/dinners/halal-cart-prep.webp', './assets/dinners/halal-cart-chicken.webp',
   './assets/icon-192.png', './assets/icon-512.png', './assets/table-wordmark-v1.png', './assets/table-icon-32-v1.png', './assets/table-icon-180-v1.png', './assets/table-icon-192-v1.png', './assets/table-icon-512-v1.png'];
 
 self.addEventListener('install', e=>{
@@ -26,13 +26,13 @@ self.addEventListener('fetch', e=>{
   // 1.8 — recipes.json ships with a ?v= cache-buster (to beat GH Pages' 10-min HTTP cache).
   // Cache it under the CLEAN url and match ignoring the query, else offline never finds it
   // (and one dead cache entry leaks per launch).
-  if(url.origin===self.location.origin && url.pathname.endsWith('/recipes.json')){
+  if(url.origin===self.location.origin && (url.pathname.endsWith('/recipes.json') || url.pathname.endsWith('/dinner-trials.json'))){
     const clean = url.origin + url.pathname;
     e.respondWith(
       fetch(e.request).then(r=>{
         if(r.ok){ const cp=r.clone(); caches.open(CACHE).then(c=>c.put(clean, cp)); }
         return r;
-      }).catch(()=>caches.match(clean).then(r=>r||caches.match('./recipes.json',{ignoreSearch:true})))
+      }).catch(()=>caches.match(clean).then(r=>r||caches.match('./recipes.json', './dinner-trials.json', './visual-recipes.js?v=visual-dinners-1', './visual-recipes.css?v=visual-dinners-1', './assets/dinners/halal-cart-plate.webp', './assets/dinners/halal-cart-prep.webp', './assets/dinners/halal-cart-chicken.webp',{ignoreSearch:true})))
     );
     return;
   }

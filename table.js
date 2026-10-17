@@ -111,10 +111,10 @@ function toast(msg){ try{ const el=document.createElement('div'); el.className='
 
 /* ── boot ───────────────────────────────────────────────────────── */
 function loadData(){
-  return fetch('recipes.json?v=' + Date.now(), {cache:'no-store'})
-    .then(r=>r.json()).then(j=>{
-      DATA = j.recipes; COLLECTIONS = j.collections || COLLECTIONS;
-      const sig = DATA.length + ':' + COLLECTIONS.join(',');       // 3.5 — detect a fresh drop
+  return Promise.all(['recipes.json','dinner-trials.json'].map(path=>fetch(path+'?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(path);return r.json();})))
+    .then(([j,trials])=>{
+      DATA = [...trials.recipes,...j.recipes]; COLLECTIONS = ['Dinner trials',...(j.collections || COLLECTIONS)];
+      const sig = JSON.stringify(DATA); // Changes to instructions must refresh too, not just recipe count.
       const changed = store.dataSig && store.dataSig !== sig;
       store.dataSig = sig; save();
       return changed;
@@ -144,6 +144,7 @@ function onScroll(){
 
 /* ── router ─────────────────────────────────────────────────────── */
 function route(){
+  app.inert=false;
   document.querySelectorAll('.cook').forEach(el=>el.remove());   // 3.3 — kill any stranded cook overlay first
   document.body.classList.remove('cook-open');                  // Batch 5 — release body-scroll lock
   const h = location.hash.replace(/^#/,'');
@@ -215,6 +216,7 @@ function content(r){
 
 /* ── DETAIL ─────────────────────────────────────────────────────── */
 function renderDetail(r){
+  if(r.visual){renderVisualDetail(r);return;}
   window.scrollTo(0,0);
   wantWake=true; acquireWake(); scale=1;                          // 3.1 / 3.8 fresh open
   const c = content(r);
@@ -319,6 +321,7 @@ function bindFeedback(r){
 
 /* ── COOK MODE ──────────────────────────────────────────────────── */
 function renderCook(r){
+  if(r.visual){renderVisualCook(r);return;}
   wantWake=true; acquireWake();                                  // 3.1
   const c = content(r);
   const groups = normalizeIngs(c.ings);
