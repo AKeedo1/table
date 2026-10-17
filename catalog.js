@@ -20,7 +20,7 @@
     const s=normalize(text);
     if(/\b(sauce|oil|vinegar|stock|paste|powder|salt|sugar|rice|honey|cornstarch)\b/.test(s)) return 'pantry';
     if(/\b(chicken|beef|lamb|salmon|fish|hammour|bass|grouper|cod|egg|eggs|tofu|sirloin|shrimp|prawn|prawns)\b/.test(s)) return 'protein';
-    if(/onion|garlic|ginger|tomato|cucumber|spinach|cabbage|carrot|eggplant|broccoli|bean|sprout|lemon|lime|parsley|cilantro|coriander|mint|dill|basil|chili|scallion|avocado|cauliflower|zucchini|pomegranate|lettuce|mushroom|potato|pear|apple|shallot|leaves|herb|lemongrass/.test(s)) return 'produce';
+    if(/onion|garlic|ginger|tomato|cucumber|spinach|cabbage|carrot|eggplant|broccoli|bean|sprout|lemon|lime|parsley|cilantro|coriander|mint|dill|basil|chili|scallion|avocado|cauliflower|zucchini|courgette|celery|sweetcorn|pomegranate|lettuce|mushroom|potato|pear|apple|shallot|leaves|herb|lemongrass/.test(s)) return 'produce';
     return 'pantry';
   }
   function shopping(recipes, ids, lang='en'){

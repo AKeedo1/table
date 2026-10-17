@@ -1,5 +1,5 @@
 {
-  "version": "concise-steps-1",
+  "version": "all-dinners-1",
   "recipes": [
     {
       "id": "halal-cart-chicken",
@@ -552,7 +552,2275 @@
           ],
           "adjustment": "Malaking bahagi ng fibre ay mula sa chickpeas. Kung sobra para sa tiyan mo, sabihin para unti-unting ma-adjust; huwag basta alisin at gamitin pa rin ang parehong nutrition total.",
           "basis": "Tantiyang nutrisyon batay sa generic USDA-style data, hilaw na timbang ng manok at bigas, lutong chickpeas at plain 2% Greek yogurt. Mga 18 g fat bawat hapunan. Nag-iiba ayon sa brand at pagluluto. Kasama sa carbohydrate ang bigas at chickpeas. May gatas. Hindi pa nasubukang lutuin at tikman."
+        },
+        "time": "35–40",
+        "number": "01"
+      },
+      "approved": true
+    },
+    {
+      "id": "curry-chicken",
+      "collection": "Dinner trials",
+      "category": "Chicken",
+      "cuisine": "Indian",
+      "title": "Saucy chicken curry & rice",
+      "subtitle": "Tomato-ginger gravy · green beans in the curry",
+      "serves": "1 Serving",
+      "macro": "≈640 kcal | 60g P | 65g C | 16g F | 10g fibre",
+      "description": "Chicken in a generous onion-tomato gravy, fragrant with ginger and warm spices. Short-cut green beans cook in the sauce; rice comes alongside.",
+      "approved": false,
+      "ingredients": [
+        {
+          "group": "Chicken & vegetables",
+          "items": [
+            "200 g halal chicken breast, raw, skinless",
+            "150 g green beans, trimmed and cut short",
+            "150 g tomato, finely diced",
+            "80 g onion, finely diced",
+            "8 g ginger, finely minced",
+            "6 g garlic, finely minced"
+          ]
+        },
+        {
+          "group": "Gravy & seasoning",
+          "items": [
+            "8 g olive oil",
+            "60 g plain 2% Greek yogurt",
+            "200 ml water, plus a splash if needed",
+            "1 tsp ground coriander",
+            "½ tsp ground cumin",
+            "½ tsp garam masala",
+            "¼ tsp turmeric",
+            "¼ tsp mild chilli powder",
+            "10 g lemon juice",
+            "5 g coriander leaves, chopped",
+            "1 g salt TOTAL, divided across curry and rice"
+          ]
+        },
+        {
+          "group": "Rice",
+          "items": [
+            "40 g basmati rice, dry weight",
+            "90 ml water, or packet ratio"
+          ]
         }
+      ],
+      "steps": [
+        "Wash the vegetables. Finely dice onion and tomato. Trim and cut green beans short. Mince ginger and garlic. Cut chicken into bite-sized chunks on a separate board.",
+        "Rinse rice. Add its water and a little of the salt. Bring to a boil; cover and simmer on low for 10–12 minutes. Rest covered, off the heat, for 10 minutes. Follow packet ratios if different.",
+        "Heat oil over medium. Soften onion for 7–8 minutes. Add ginger and garlic; stir for 1 minute. Add cumin, coriander, turmeric and chilli; stir for 30 seconds. Add tomato and remaining salt. Cook 6–8 minutes until soft.",
+        "Add chicken, beans and the gravy water. Stir. Partly cover; simmer gently for 12–15 minutes. Check chicken reaches 74°C and beans are tender. Add a splash of water if needed: gravy should pour easily.",
+        "Turn heat off. Whisk a spoonful of warm gravy into the yogurt. Stir yogurt into the curry with garam masala and lemon. Do not boil. Add coriander. Serve all the curry and sauce with rice alongside."
+      ],
+      "tl": {
+        "description": "Manok sa masaganang onion-tomato gravy na may luya at mababangong spices. Kasama sa sarsa ang maiikling hiwa ng green beans; nasa tabi ang kanin.",
+        "ingredients": [
+          {
+            "group": "Manok at gulay",
+            "items": [
+              "200 g halal chicken breast, hilaw at walang balat",
+              "150 g green beans, tinanggalan ng dulo at hiniwa nang maikli",
+              "150 g kamatis, pinong diced",
+              "80 g sibuyas, pinong diced",
+              "8 g luya, pinong tinadtad",
+              "6 g bawang, pinong tinadtad"
+            ]
+          },
+          {
+            "group": "Gravy at pampalasa",
+            "items": [
+              "8 g olive oil",
+              "60 g plain 2% Greek yogurt",
+              "200 ml tubig, dagdagan nang kaunti kung kailangan",
+              "1 tsp ground coriander",
+              "½ tsp ground cumin",
+              "½ tsp garam masala",
+              "¼ tsp turmeric",
+              "¼ tsp mild chilli powder",
+              "10 g lemon juice",
+              "5 g dahon ng coriander, tinadtad",
+              "1 g asin SA KABUUAN, paghatiin sa curry at kanin"
+            ]
+          },
+          {
+            "group": "Kanin",
+            "items": [
+              "40 g basmati rice, timbang bago lutuin",
+              "90 ml tubig, o ratio sa pakete"
+            ]
+          }
+        ],
+        "steps": [
+          "Hugasan ang gulay. Pinong i-dice ang sibuyas at kamatis. Putulin ang dulo at hiwain nang maikli ang green beans. Tadtarin ang luya at bawang. Hiwain ang manok sa maliliit na chunks sa hiwalay na sangkalan.",
+          "Hugasan ang bigas. Idagdag ang tubig nito at kaunting asin. Pakuluan; takpan at lutuin sa mahinang apoy nang 10–12 minuto. Ipahinga nang may takip, walang apoy, nang 10 minuto. Sundin ang ratio sa pakete kung iba.",
+          "Painitin ang mantika sa katamtamang apoy. Palambutin ang sibuyas nang 7–8 minuto. Idagdag ang luya at bawang; haluin nang 1 minuto. Idagdag ang cumin, coriander, turmeric at chilli; haluin nang 30 segundo. Idagdag ang kamatis at natitirang asin. Lutuin nang 6–8 minuto hanggang lumambot.",
+          "Idagdag ang manok, green beans at tubig para sa gravy. Haluin. Bahagyang takpan; pakuluin nang marahan nang 12–15 minuto. Tiyaking 74°C ang manok at malambot ang green beans. Dagdagan ng kaunting tubig kung kailangan: dapat madaling ibuhos ang gravy.",
+          "Patayin ang apoy. Haluin ang isang kutsarang mainit na gravy sa yogurt. Ihalo ang yogurt sa curry kasama ang garam masala at lemon. Huwag pakuluan. Idagdag ang coriander. Ihain ang buong curry at sarsa, katabi ang kanin."
+        ]
+      },
+      "visual": {
+        "subtitle": "Tomato-ginger gravy · green beans in the curry",
+        "time": "40–45",
+        "hero": {
+          "src": "assets/dinners/curry-plate.webp",
+          "alt": "Keep the rice separate; spoon over as much curry as you like.",
+          "caption": "Keep the rice separate; spoon over as much curry as you like."
+        },
+        "nutrients": [
+          {
+            "value": "≈640",
+            "label": "kcal"
+          },
+          {
+            "value": "60g",
+            "label": "protein"
+          },
+          {
+            "value": "65g",
+            "label": "carbs"
+          },
+          {
+            "value": "10g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep",
+            "bullets": [
+              "Wash the vegetables. Finely dice onion and tomato.",
+              "Trim and cut green beans short. Mince ginger and garlic.",
+              "Cut chicken into bite-sized chunks on a separate board."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/curry-prep-v2.webp",
+              "alt": "Fine onion and tomato; short green beans.",
+              "caption": "Fine onion and tomato; short green beans."
+            }
+          },
+          {
+            "title": "Start the rice",
+            "bullets": [
+              "Rinse rice. Add its water and a little of the salt.",
+              "Bring to a boil; cover and simmer on low for 10–12 minutes.",
+              "Rest covered, off the heat, for 10 minutes. Follow packet ratios if different."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Build the gravy",
+            "bullets": [
+              "Heat oil over medium. Soften onion for 7–8 minutes.",
+              "Add ginger and garlic; stir for 1 minute.",
+              "Add cumin, coriander, turmeric and chilli; stir for 30 seconds.",
+              "Add tomato and remaining salt. Cook 6–8 minutes until soft."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Simmer the curry",
+            "bullets": [
+              "Add chicken, beans and the gravy water. Stir.",
+              "Partly cover; simmer gently for 12–15 minutes.",
+              "Check chicken reaches 74°C and beans are tender.",
+              "Add a splash of water if needed: gravy should pour easily."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/curry-cook.webp",
+              "alt": "Loose gravy, with beans inside.",
+              "caption": "Loose gravy, with beans inside."
+            }
+          },
+          {
+            "title": "Finish & serve",
+            "bullets": [
+              "Turn heat off. Whisk a spoonful of warm gravy into the yogurt.",
+              "Stir yogurt into the curry with garam masala and lemon. Do not boil.",
+              "Add coriander. Serve all the curry and sauce with rice alongside."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/curry-plate.webp",
+              "alt": "Plenty of gravy; rice alongside.",
+              "caption": "Plenty of gravy; rice alongside."
+            }
+          }
+        ],
+        "components": [
+          {
+            "title": "Saucy curry",
+            "body": "Tender chicken and green beans in loose tomato-ginger gravy."
+          },
+          {
+            "title": "Rice alongside",
+            "body": "Keep the rice separate; spoon over as much curry as you like."
+          }
+        ],
+        "adjustment": "",
+        "basis": "Rounded estimates for the whole dinner, including every sauce and side. Generic food-composition values; meat, vegetables, rice and pasta weighed raw unless stated. Brands, stock and cooking yields vary. About 16 g fat. Contains milk. Not yet kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per 100 g; kcal, protein, carbohydrate, fat, fibre",
+          "rows": [
+            [
+              "Chicken breast raw",
+              200,
+              [
+                120,
+                22.5,
+                0,
+                2.62,
+                0
+              ]
+            ],
+            [
+              "Green beans",
+              150,
+              [
+                31,
+                1.83,
+                6.97,
+                0.22,
+                2.7
+              ]
+            ],
+            [
+              "Tomato",
+              150,
+              [
+                18,
+                0.88,
+                3.89,
+                0.2,
+                1.2
+              ]
+            ],
+            [
+              "Onion",
+              80,
+              [
+                40,
+                1.1,
+                9.34,
+                0.1,
+                1.7
+              ]
+            ],
+            [
+              "Ginger",
+              8,
+              [
+                80,
+                1.82,
+                17.77,
+                0.75,
+                2
+              ]
+            ],
+            [
+              "Garlic",
+              6,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "Olive oil",
+              8,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "Plain Greek yogurt 2%",
+              60,
+              [
+                73,
+                9.95,
+                3.94,
+                1.92,
+                0
+              ]
+            ],
+            [
+              "Dry white rice",
+              40,
+              [
+                365,
+                7.13,
+                80,
+                0.66,
+                1.3
+              ]
+            ],
+            [
+              "Lemon juice",
+              10,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ],
+            [
+              "Coriander leaves",
+              5,
+              [
+                23,
+                2.13,
+                3.67,
+                0.52,
+                2.8
+              ]
+            ],
+            [
+              "Mixed spices estimate",
+              5,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ]
+          ],
+          "totals": [
+            639.71,
+            60.0357,
+            64.9047,
+            16.106,
+            9.686
+          ]
+        },
+        "tl": {
+          "subtitle": "Masaganang tomato-ginger gravy · green beans sa curry",
+          "hero": {
+            "src": "assets/dinners/curry-plate.webp",
+            "alt": "Hiwalay ang kanin; sandukan ng curry ayon sa gusto.",
+            "caption": "Hiwalay ang kanin; sandukan ng curry ayon sa gusto."
+          },
+          "nutrients": [
+            {
+              "value": "≈640",
+              "label": "kcal"
+            },
+            {
+              "value": "60g",
+              "label": "protein"
+            },
+            {
+              "value": "65g",
+              "label": "carbs"
+            },
+            {
+              "value": "10g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda",
+              "bullets": [
+                "Hugasan ang gulay. Pinong i-dice ang sibuyas at kamatis.",
+                "Putulin ang dulo at hiwain nang maikli ang green beans. Tadtarin ang luya at bawang.",
+                "Hiwain ang manok sa maliliit na chunks sa hiwalay na sangkalan."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/curry-prep-v2.webp",
+                "alt": "Pinong sibuyas at kamatis; maiikling green beans.",
+                "caption": "Pinong sibuyas at kamatis; maiikling green beans."
+              }
+            },
+            {
+              "title": "Isalang ang kanin",
+              "bullets": [
+                "Hugasan ang bigas. Idagdag ang tubig nito at kaunting asin.",
+                "Pakuluan; takpan at lutuin sa mahinang apoy nang 10–12 minuto.",
+                "Ipahinga nang may takip, walang apoy, nang 10 minuto. Sundin ang ratio sa pakete kung iba."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Gawin ang gravy",
+              "bullets": [
+                "Painitin ang mantika sa katamtamang apoy. Palambutin ang sibuyas nang 7–8 minuto.",
+                "Idagdag ang luya at bawang; haluin nang 1 minuto.",
+                "Idagdag ang cumin, coriander, turmeric at chilli; haluin nang 30 segundo.",
+                "Idagdag ang kamatis at natitirang asin. Lutuin nang 6–8 minuto hanggang lumambot."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Pakuluin nang marahan",
+              "bullets": [
+                "Idagdag ang manok, green beans at tubig para sa gravy. Haluin.",
+                "Bahagyang takpan; pakuluin nang marahan nang 12–15 minuto.",
+                "Tiyaking 74°C ang manok at malambot ang green beans.",
+                "Dagdagan ng kaunting tubig kung kailangan: dapat madaling ibuhos ang gravy."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/curry-cook.webp",
+                "alt": "Malabnaw na gravy, kasama ang green beans.",
+                "caption": "Malabnaw na gravy, kasama ang green beans."
+              }
+            },
+            {
+              "title": "Tapusin at ihain",
+              "bullets": [
+                "Patayin ang apoy. Haluin ang isang kutsarang mainit na gravy sa yogurt.",
+                "Ihalo ang yogurt sa curry kasama ang garam masala at lemon. Huwag pakuluan.",
+                "Idagdag ang coriander. Ihain ang buong curry at sarsa, katabi ang kanin."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/curry-plate.webp",
+                "alt": "Masaganang gravy; kanin sa tabi.",
+                "caption": "Masaganang gravy; kanin sa tabi."
+              }
+            }
+          ],
+          "components": [
+            {
+              "title": "Curry na masarsa",
+              "body": "Malambot na manok at green beans sa malabnaw na tomato-ginger gravy."
+            },
+            {
+              "title": "Kanin sa tabi",
+              "body": "Hiwalay ang kanin; sandukan ng curry ayon sa gusto."
+            }
+          ],
+          "adjustment": "",
+          "basis": "Tantiyang nutrisyon sa buong hapunan, kasama ang lahat ng sarsa at side. Generic food data; hilaw ang timbang ng karne, gulay, bigas at pasta maliban kung may ibang nakasulat. Nag-iiba ayon sa brand at pagluluto. Mga 16 g fat. May gatas. Hindi pa nasubukang lutuin at tikman."
+        },
+        "number": "02"
+      }
+    },
+    {
+      "id": "kofta-tomato",
+      "collection": "Dinner trials",
+      "category": "Beef",
+      "cuisine": "Middle Eastern",
+      "title": "Tender kofta & potatoes",
+      "subtitle": "Tomato-onion sauce · fresh chopped salad",
+      "serves": "1 Serving",
+      "macro": "≈660 kcal | 50g P | 74g C | 19g F | 13g fibre",
+      "description": "Soft, gently mixed beef kofta with golden potatoes and plenty of tomato-onion sauce. A fresh chopped salad on the side.",
+      "approved": false,
+      "ingredients": [
+        {
+          "group": "Kofta",
+          "items": [
+            "180 g halal lean beef mince, 5% fat, raw",
+            "30 g grated onion, weighed after gently squeezing",
+            "10 g fine rolled oats",
+            "20 ml water",
+            "5 g parsley, finely chopped",
+            "3 g garlic, minced",
+            "½ tsp ground cumin",
+            "½ tsp ground coriander",
+            "⅛ tsp black pepper"
+          ]
+        },
+        {
+          "group": "Potatoes & sauce",
+          "items": [
+            "250 g potato, small chunks, skin on",
+            "150 g tomato, finely diced",
+            "50 g onion, finely diced",
+            "3 g garlic, minced",
+            "4 g olive oil for potatoes",
+            "4 g olive oil for the pan",
+            "150 ml water",
+            "½ tsp sweet paprika",
+            "1 g salt TOTAL, divided across kofta, potatoes and sauce"
+          ]
+        },
+        {
+          "group": "Fresh salad",
+          "items": [
+            "100 g tomato, finely diced",
+            "60 g iceberg lettuce, finely shredded and cut short",
+            "10 g lemon juice"
+          ]
+        }
+      ],
+      "steps": [
+        "Heat oven to 210°C / 190°C fan. Wash vegetables. Cut potatoes small. Finely dice tomatoes and sauce onion. Finely shred and shorten lettuce. Mince garlic and parsley. Soak oats in their water for 5 minutes. Grate and gently squeeze kofta onion.",
+        "Toss potatoes with their oil, paprika and some salt. Spread on a lined tray. Roast 30–35 minutes, turning halfway. Cook until golden and tender.",
+        "Combine beef, soaked oats, squeezed onion, parsley, garlic and spices. Add a little of the salt. Fold just until combined; do not knead. Shape into five loose, short ovals per serving. Do not squeeze tight.",
+        "Heat pan oil over medium-high. Brown kofta for 2 minutes per side; lift out. Lower heat. Soften sauce onion for 5 minutes; add garlic for 30 seconds. Add sauce tomato and remaining salt. Cook 5 minutes, then add water.",
+        "Return kofta to sauce. Cover and simmer gently for 8–10 minutes. Check the centre of the kofta reaches 71°C. Loosen sauce with a splash of water if needed.",
+        "Dress salad tomato and lettuce with lemon. Serve kofta with all the sauce, potatoes alongside and salad in its own bowl."
+      ],
+      "tl": {
+        "description": "Malambot na beef kofta, marahang hinalo, may golden na patatas at maraming tomato-onion sauce. May sariwang chopped salad sa tabi.",
+        "ingredients": [
+          {
+            "group": "Kofta",
+            "items": [
+              "180 g halal lean beef mince, 5% fat, hilaw",
+              "30 g gadgad na sibuyas, timbang matapos pigain nang marahan",
+              "10 g pinong rolled oats",
+              "20 ml tubig",
+              "5 g parsley, pinong tinadtad",
+              "3 g bawang, tinadtad",
+              "½ tsp ground cumin",
+              "½ tsp ground coriander",
+              "⅛ tsp black pepper"
+            ]
+          },
+          {
+            "group": "Patatas at sarsa",
+            "items": [
+              "250 g patatas, maliliit na chunks, may balat",
+              "150 g kamatis, pinong diced",
+              "50 g sibuyas, pinong diced",
+              "3 g bawang, tinadtad",
+              "4 g olive oil para sa patatas",
+              "4 g olive oil para sa kawali",
+              "150 ml tubig",
+              "½ tsp sweet paprika",
+              "1 g asin SA KABUUAN, paghatiin sa kofta, patatas at sarsa"
+            ]
+          },
+          {
+            "group": "Sariwang salad",
+            "items": [
+              "100 g kamatis, pinong diced",
+              "60 g iceberg lettuce, pinong shredded at pinaikli",
+              "10 g lemon juice"
+            ]
+          }
+        ],
+        "steps": [
+          "Painitin ang oven sa 210°C / 190°C fan. Hugasan ang gulay. Hiwain nang maliit ang patatas. Pinong i-dice ang kamatis at sibuyas para sa sarsa. Pinong i-shred at paikliin ang lettuce. Tadtarin ang bawang at parsley. Ibabad ang oats sa tubig nito nang 5 minuto. Gadgarin at marahang pigain ang sibuyas para sa kofta.",
+          "Ihalo ang patatas sa mantika nito, paprika at kaunting asin. Ikalat sa tray na may liner. I-roast nang 30–35 minuto; baligtarin sa kalagitnaan. Lutuin hanggang golden at malambot.",
+          "Pagsamahin ang beef, binabad na oats, pinigang sibuyas, parsley, bawang at spices. Lagyan ng kaunting asin. Marahang ihalo hanggang magsama; huwag masahin. Hubugin sa limang maikling oval bawat serving. Huwag siksikin.",
+          "Painitin ang mantika sa katamtaman hanggang malakas na apoy. I-brown ang kofta nang 2 minuto bawat panig; iahon. Hinaan ang apoy. Palambutin ang sibuyas nang 5 minuto; idagdag ang bawang nang 30 segundo. Idagdag ang kamatis para sa sarsa at natitirang asin. Lutuin nang 5 minuto, saka idagdag ang tubig.",
+          "Ibalik ang kofta sa sarsa. Takpan at pakuluin nang marahan nang 8–10 minuto. Tiyaking 71°C ang gitna ng kofta. Dagdagan ng kaunting tubig kung kailangan para lumabnaw ang sarsa.",
+          "Lagyan ng lemon ang kamatis at lettuce para sa salad. Ihain ang kofta kasama ang buong sarsa, katabi ang patatas at hiwalay na mangkok ng salad."
+        ]
+      },
+      "visual": {
+        "subtitle": "Tomato-onion sauce · fresh chopped salad",
+        "time": "45–50",
+        "hero": {
+          "src": "assets/dinners/kofta-plate-v2.webp",
+          "alt": "Serve the chopped salad separately; keep all the sauce with the kofta.",
+          "caption": "Serve the chopped salad separately; keep all the sauce with the kofta."
+        },
+        "nutrients": [
+          {
+            "value": "≈660",
+            "label": "kcal"
+          },
+          {
+            "value": "50g",
+            "label": "protein"
+          },
+          {
+            "value": "74g",
+            "label": "carbs"
+          },
+          {
+            "value": "13g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep & soften the oats",
+            "bullets": [
+              "Heat oven to 210°C / 190°C fan. Wash vegetables.",
+              "Cut potatoes small. Finely dice tomatoes and sauce onion.",
+              "Finely shred and shorten lettuce. Mince garlic and parsley.",
+              "Soak oats in their water for 5 minutes. Grate and gently squeeze kofta onion."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Roast the potatoes",
+            "bullets": [
+              "Toss potatoes with their oil, paprika and some salt.",
+              "Spread on a lined tray. Roast 30–35 minutes, turning halfway.",
+              "Cook until golden and tender."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Shape gently",
+            "bullets": [
+              "Combine beef, soaked oats, squeezed onion, parsley, garlic and spices.",
+              "Add a little of the salt. Fold just until combined; do not knead.",
+              "Shape into five loose, short ovals per serving. Do not squeeze tight."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/kofta-prep.webp",
+              "alt": "Loose, lightly shaped kofta.",
+              "caption": "Loose, lightly shaped kofta."
+            }
+          },
+          {
+            "title": "Brown & make the sauce",
+            "bullets": [
+              "Heat pan oil over medium-high. Brown kofta for 2 minutes per side; lift out.",
+              "Lower heat. Soften sauce onion for 5 minutes; add garlic for 30 seconds.",
+              "Add sauce tomato and remaining salt. Cook 5 minutes, then add water."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Finish gently",
+            "bullets": [
+              "Return kofta to sauce. Cover and simmer gently for 8–10 minutes.",
+              "Check the centre of the kofta reaches 71°C.",
+              "Loosen sauce with a splash of water if needed."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/kofta-cook-v2.webp",
+              "alt": "Sauce surrounds the kofta; keep it spoonable.",
+              "caption": "Sauce surrounds the kofta; keep it spoonable."
+            }
+          },
+          {
+            "title": "Serve",
+            "bullets": [
+              "Dress salad tomato and lettuce with lemon.",
+              "Serve kofta with all the sauce, potatoes alongside and salad in its own bowl."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/kofta-plate-v2.webp",
+              "alt": "Kofta, golden potatoes and a separate fresh salad.",
+              "caption": "Kofta, golden potatoes and a separate fresh salad."
+            }
+          }
+        ],
+        "components": [
+          {
+            "title": "Tender kofta",
+            "body": "Gently mixed, then finished in tomato sauce."
+          },
+          {
+            "title": "Golden potatoes",
+            "body": "Small pieces with browned edges."
+          },
+          {
+            "title": "Freshness alongside",
+            "body": "Serve the chopped salad separately; keep all the sauce with the kofta."
+          }
+        ],
+        "adjustment": "",
+        "basis": "Rounded estimates for the whole dinner, including every sauce and side. Generic food-composition values; meat, vegetables, rice and pasta weighed raw unless stated. Brands, stock and cooking yields vary. About 19 g fat. Contains oats; check the pack for wheat cross-contact. Not yet kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per 100 g; kcal, protein, carbohydrate, fat, fibre",
+          "rows": [
+            [
+              "Beef mince raw 5% fat",
+              180,
+              [
+                137,
+                21.4,
+                0,
+                5,
+                0
+              ]
+            ],
+            [
+              "Onion",
+              80,
+              [
+                40,
+                1.1,
+                9.34,
+                0.1,
+                1.7
+              ]
+            ],
+            [
+              "Oats",
+              10,
+              [
+                379,
+                13.15,
+                67.7,
+                6.52,
+                10.1
+              ]
+            ],
+            [
+              "Parsley",
+              5,
+              [
+                36,
+                2.97,
+                6.33,
+                0.79,
+                3.3
+              ]
+            ],
+            [
+              "Garlic",
+              6,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "Potato",
+              250,
+              [
+                77,
+                2.05,
+                17.49,
+                0.09,
+                2.1
+              ]
+            ],
+            [
+              "Tomato",
+              250,
+              [
+                18,
+                0.88,
+                3.89,
+                0.2,
+                1.2
+              ]
+            ],
+            [
+              "Olive oil",
+              8,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "Iceberg",
+              60,
+              [
+                14,
+                0.9,
+                2.97,
+                0.14,
+                1.2
+              ]
+            ],
+            [
+              "Lemon juice",
+              10,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ],
+            [
+              "Mixed spices estimate",
+              4,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ]
+          ],
+          "totals": [
+            658.06,
+            49.625099999999996,
+            74.4641,
+            19.1145,
+            12.861
+          ]
+        },
+        "tl": {
+          "subtitle": "Tomato-onion sauce · sariwang chopped salad",
+          "hero": {
+            "src": "assets/dinners/kofta-plate-v2.webp",
+            "alt": "Ihiwalay ang chopped salad; kasama ng kofta ang buong sarsa.",
+            "caption": "Ihiwalay ang chopped salad; kasama ng kofta ang buong sarsa."
+          },
+          "nutrients": [
+            {
+              "value": "≈660",
+              "label": "kcal"
+            },
+            {
+              "value": "50g",
+              "label": "protein"
+            },
+            {
+              "value": "74g",
+              "label": "carbs"
+            },
+            {
+              "value": "13g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda at palambutin ang oats",
+              "bullets": [
+                "Painitin ang oven sa 210°C / 190°C fan. Hugasan ang gulay.",
+                "Hiwain nang maliit ang patatas. Pinong i-dice ang kamatis at sibuyas para sa sarsa.",
+                "Pinong i-shred at paikliin ang lettuce. Tadtarin ang bawang at parsley.",
+                "Ibabad ang oats sa tubig nito nang 5 minuto. Gadgarin at marahang pigain ang sibuyas para sa kofta."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "I-roast ang patatas",
+              "bullets": [
+                "Ihalo ang patatas sa mantika nito, paprika at kaunting asin.",
+                "Ikalat sa tray na may liner. I-roast nang 30–35 minuto; baligtarin sa kalagitnaan.",
+                "Lutuin hanggang golden at malambot."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Marahang hubugin",
+              "bullets": [
+                "Pagsamahin ang beef, binabad na oats, pinigang sibuyas, parsley, bawang at spices.",
+                "Lagyan ng kaunting asin. Marahang ihalo hanggang magsama; huwag masahin.",
+                "Hubugin sa limang maikling oval bawat serving. Huwag siksikin."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/kofta-prep.webp",
+                "alt": "Maluwag at marahang hinubog na kofta.",
+                "caption": "Maluwag at marahang hinubog na kofta."
+              }
+            },
+            {
+              "title": "I-brown at gawin ang sarsa",
+              "bullets": [
+                "Painitin ang mantika sa katamtaman hanggang malakas na apoy. I-brown ang kofta nang 2 minuto bawat panig; iahon.",
+                "Hinaan ang apoy. Palambutin ang sibuyas nang 5 minuto; idagdag ang bawang nang 30 segundo.",
+                "Idagdag ang kamatis para sa sarsa at natitirang asin. Lutuin nang 5 minuto, saka idagdag ang tubig."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Lutuin nang marahan",
+              "bullets": [
+                "Ibalik ang kofta sa sarsa. Takpan at pakuluin nang marahan nang 8–10 minuto.",
+                "Tiyaking 71°C ang gitna ng kofta.",
+                "Dagdagan ng kaunting tubig kung kailangan para lumabnaw ang sarsa."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/kofta-cook-v2.webp",
+                "alt": "Sarsa sa paligid ng kofta; dapat madaling sandukin.",
+                "caption": "Sarsa sa paligid ng kofta; dapat madaling sandukin."
+              }
+            },
+            {
+              "title": "Ihain",
+              "bullets": [
+                "Lagyan ng lemon ang kamatis at lettuce para sa salad.",
+                "Ihain ang kofta kasama ang buong sarsa, katabi ang patatas at hiwalay na mangkok ng salad."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/kofta-plate-v2.webp",
+                "alt": "Kofta, golden na patatas at hiwalay na sariwang salad.",
+                "caption": "Kofta, golden na patatas at hiwalay na sariwang salad."
+              }
+            }
+          ],
+          "components": [
+            {
+              "title": "Malambot na kofta",
+              "body": "Marahang hinalo, saka niluto sa tomato sauce."
+            },
+            {
+              "title": "Golden na patatas",
+              "body": "Maliliit na piraso na browned ang gilid."
+            },
+            {
+              "title": "Sariwang side",
+              "body": "Ihiwalay ang chopped salad; kasama ng kofta ang buong sarsa."
+            }
+          ],
+          "adjustment": "",
+          "basis": "Tantiyang nutrisyon sa buong hapunan, kasama ang lahat ng sarsa at side. Generic food data; hilaw ang timbang ng karne, gulay, bigas at pasta maliban kung may ibang nakasulat. Nag-iiba ayon sa brand at pagluluto. Mga 19 g fat. May oats; tingnan ang pakete para sa wheat cross-contact. Hindi pa nasubukang lutuin at tikman."
+        },
+        "number": "03"
+      }
+    },
+    {
+      "id": "roast-chicken",
+      "collection": "Dinner trials",
+      "category": "Chicken",
+      "cuisine": "Comfort food",
+      "title": "Garlic roast chicken & potatoes",
+      "subtitle": "Golden vegetables · pan juices · lemon-yogurt sauce",
+      "serves": "1 Serving",
+      "macro": "≈670 kcal | 61g P | 68g C | 18g F | 13g fibre",
+      "description": "Juicy garlic-paprika chicken, crisp-edged potatoes and roasted vegetables. Pan juices keep it moist; a lemon-garlic yogurt sauce comes alongside.",
+      "approved": false,
+      "ingredients": [
+        {
+          "group": "Tray",
+          "items": [
+            "200 g halal chicken breast, raw, skinless",
+            "230 g potato, small chunks, skin on",
+            "150 g carrot, thin half-moons",
+            "120 g broccoli, small florets",
+            "6 g olive oil for vegetables",
+            "4 g olive oil for chicken",
+            "3 g garlic, minced",
+            "½ tsp sweet paprika",
+            "¼ tsp dried thyme",
+            "⅛ tsp black pepper",
+            "60 ml low-sodium halal chicken stock, no alcohol",
+            "1 g salt TOTAL, divided across chicken, vegetables and sauce"
+          ]
+        },
+        {
+          "group": "Lemon-yogurt sauce",
+          "items": [
+            "60 g plain 2% Greek yogurt",
+            "10 g lemon juice",
+            "2 g garlic, crushed to a paste",
+            "20–30 ml cold water"
+          ]
+        }
+      ],
+      "steps": [
+        "Heat oven to 210°C / 190°C fan. Wash vegetables. Cut potatoes small; slice carrots into thin half-moons. Cut broccoli into small florets. Mince garlic.",
+        "Toss potatoes and carrots with two-thirds of the vegetable oil and some salt. Spread on a roomy lined tray. Roast for 15 minutes. Toss broccoli with the remaining vegetable oil; set aside.",
+        "On a separate board, gently flatten the thick end of the breast to even thickness. Rub with chicken oil, garlic, paprika, thyme, pepper and some salt.",
+        "Turn potatoes and carrots. Add chicken and broccoli without crowding. Roast another 18–22 minutes; check the chicken reaches 74°C. Rest chicken on a clean plate for 5 minutes. Keep roasting any firm potatoes.",
+        "Whisk yogurt, lemon, sauce garlic, remaining salt and the lower water amount. Add the extra water as needed for a loose drizzle. Transfer tray juices and stock to a small pan. Simmer 2–3 minutes.",
+        "Cut rested chicken into chunky pieces. Pour over all the warm pan juices. Serve with potatoes, vegetables and the yogurt sauce alongside."
+      ],
+      "tl": {
+        "description": "Juicy na garlic-paprika chicken, browned na patatas at roasted vegetables. May pan juices at lemon-garlic yogurt sauce sa tabi.",
+        "ingredients": [
+          {
+            "group": "Tray",
+            "items": [
+              "200 g halal chicken breast, hilaw at walang balat",
+              "230 g patatas, maliliit na chunks, may balat",
+              "150 g carrot, maninipis na half-moon",
+              "120 g broccoli, maliliit na florets",
+              "6 g olive oil para sa gulay",
+              "4 g olive oil para sa manok",
+              "3 g bawang, tinadtad",
+              "½ tsp sweet paprika",
+              "¼ tsp dried thyme",
+              "⅛ tsp black pepper",
+              "60 ml low-sodium halal chicken stock, walang alcohol",
+              "1 g asin SA KABUUAN, paghatiin sa manok, gulay at sarsa"
+            ]
+          },
+          {
+            "group": "Lemon-yogurt sauce",
+            "items": [
+              "60 g plain 2% Greek yogurt",
+              "10 g lemon juice",
+              "2 g bawang, dinurog na paste",
+              "20–30 ml malamig na tubig"
+            ]
+          }
+        ],
+        "steps": [
+          "Painitin ang oven sa 210°C / 190°C fan. Hugasan ang gulay. Hiwain nang maliit ang patatas; hiwain ang carrots sa maninipis na half-moon. Hiwain ang broccoli sa maliliit na florets. Tadtarin ang bawang.",
+          "Ihalo ang patatas at carrot sa dalawang-katlo ng mantika para sa gulay at kaunting asin. Ikalat sa maluwag na tray na may liner. I-roast nang 15 minuto. Ihalo ang broccoli sa natitirang mantika para sa gulay; itabi.",
+          "Sa hiwalay na sangkalan, marahang pantayin ang kapal ng chicken breast. Ipahid ang mantika para sa manok, bawang, paprika, thyme, pepper at kaunting asin.",
+          "Baligtarin ang patatas at carrot. Idagdag ang manok at broccoli; huwag pagsiksikin. I-roast pa nang 18–22 minuto; tiyaking 74°C ang manok. Ipahinga ang manok sa malinis na plato nang 5 minuto. Ipagpatuloy ang pag-roast kung matigas pa ang patatas.",
+          "Haluin ang yogurt, lemon, bawang para sa sarsa, natitirang asin at mas kaunting dami ng tubig. Dagdagan ng tubig kung kailangan para madaling ibuhos. Ilipat ang pan juices at stock sa maliit na kaserola. Pakuluin nang marahan nang 2–3 minuto.",
+          "Hiwain ang ipinahingang manok sa chunks. Ibuhos ang lahat ng mainit na pan juices. Ihain kasama ang patatas, gulay at yogurt sauce sa tabi."
+        ]
+      },
+      "visual": {
+        "subtitle": "Golden vegetables · pan juices · lemon-yogurt sauce",
+        "time": "45–50",
+        "hero": {
+          "src": "assets/dinners/roast-plate-v3.webp",
+          "alt": "Golden potatoes, carrots and broccoli; pourable yogurt sauce alongside.",
+          "caption": "Golden potatoes, carrots and broccoli; pourable yogurt sauce alongside."
+        },
+        "nutrients": [
+          {
+            "value": "≈670",
+            "label": "kcal"
+          },
+          {
+            "value": "61g",
+            "label": "protein"
+          },
+          {
+            "value": "68g",
+            "label": "carbs"
+          },
+          {
+            "value": "13g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep",
+            "bullets": [
+              "Heat oven to 210°C / 190°C fan. Wash vegetables.",
+              "Cut potatoes small; slice carrots into thin half-moons.",
+              "Cut broccoli into small florets. Mince garlic."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/roast-prep.webp",
+              "alt": "Small potatoes, thin carrot slices, small florets.",
+              "caption": "Small potatoes, thin carrot slices, small florets."
+            }
+          },
+          {
+            "title": "Give potatoes a head start",
+            "bullets": [
+              "Toss potatoes and carrots with two-thirds of the vegetable oil and some salt.",
+              "Spread on a roomy lined tray. Roast for 15 minutes.",
+              "Toss broccoli with the remaining vegetable oil; set aside."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Season the chicken",
+            "bullets": [
+              "On a separate board, gently flatten the thick end of the breast to even thickness.",
+              "Rub with chicken oil, garlic, paprika, thyme, pepper and some salt."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Roast together",
+            "bullets": [
+              "Turn potatoes and carrots. Add chicken and broccoli without crowding.",
+              "Roast another 18–22 minutes; check the chicken reaches 74°C.",
+              "Rest chicken on a clean plate for 5 minutes. Keep roasting any firm potatoes."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/roast-cook-v2.webp",
+              "alt": "Browned edges, tender vegetables and juicy chicken.",
+              "caption": "Browned edges, tender vegetables and juicy chicken."
+            }
+          },
+          {
+            "title": "Make both sauces",
+            "bullets": [
+              "Whisk yogurt, lemon, sauce garlic, remaining salt and the lower water amount.",
+              "Add the extra water as needed for a loose drizzle.",
+              "Transfer tray juices and stock to a small pan. Simmer 2–3 minutes."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Serve",
+            "bullets": [
+              "Cut rested chicken into chunky pieces. Pour over all the warm pan juices.",
+              "Serve with potatoes, vegetables and the yogurt sauce alongside."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/roast-plate-v3.webp",
+              "alt": "Pan juices over chicken; yogurt sauce alongside.",
+              "caption": "Pan juices over chicken; yogurt sauce alongside."
+            }
+          }
+        ],
+        "components": [
+          {
+            "title": "Roast chicken",
+            "body": "Garlic and paprika, with all the warm pan juices."
+          },
+          {
+            "title": "Vegetables & sauce",
+            "body": "Golden potatoes, carrots and broccoli; pourable yogurt sauce alongside."
+          }
+        ],
+        "adjustment": "",
+        "basis": "Rounded estimates for the whole dinner, including every sauce and side. Generic food-composition values; meat, vegetables, rice and pasta weighed raw unless stated. Brands, stock and cooking yields vary. About 18 g fat. Contains milk; check stock allergens. Not yet kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per 100 g; kcal, protein, carbohydrate, fat, fibre",
+          "rows": [
+            [
+              "Chicken breast raw",
+              200,
+              [
+                120,
+                22.5,
+                0,
+                2.62,
+                0
+              ]
+            ],
+            [
+              "Potato",
+              230,
+              [
+                77,
+                2.05,
+                17.49,
+                0.09,
+                2.1
+              ]
+            ],
+            [
+              "Carrot",
+              150,
+              [
+                41,
+                0.93,
+                9.58,
+                0.24,
+                2.8
+              ]
+            ],
+            [
+              "Broccoli",
+              120,
+              [
+                34,
+                2.82,
+                6.64,
+                0.37,
+                2.6
+              ]
+            ],
+            [
+              "Olive oil",
+              10,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "Garlic",
+              5,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "Chicken stock estimate",
+              60,
+              [
+                5,
+                0.5,
+                0.3,
+                0.2,
+                0
+              ]
+            ],
+            [
+              "Plain Greek yogurt 2%",
+              60,
+              [
+                73,
+                9.95,
+                3.94,
+                1.92,
+                0
+              ]
+            ],
+            [
+              "Lemon juice",
+              10,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ],
+            [
+              "Mixed spices estimate",
+              2,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ]
+          ],
+          "totals": [
+            670.25,
+            61.357,
+            68.452,
+            17.812,
+            12.885
+          ]
+        },
+        "tl": {
+          "subtitle": "Golden na gulay · pan juices · lemon-yogurt sauce",
+          "hero": {
+            "src": "assets/dinners/roast-plate-v3.webp",
+            "alt": "Golden na patatas, carrot at broccoli; malabnaw na yogurt sauce sa tabi.",
+            "caption": "Golden na patatas, carrot at broccoli; malabnaw na yogurt sauce sa tabi."
+          },
+          "nutrients": [
+            {
+              "value": "≈670",
+              "label": "kcal"
+            },
+            {
+              "value": "61g",
+              "label": "protein"
+            },
+            {
+              "value": "68g",
+              "label": "carbs"
+            },
+            {
+              "value": "13g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda",
+              "bullets": [
+                "Painitin ang oven sa 210°C / 190°C fan. Hugasan ang gulay.",
+                "Hiwain nang maliit ang patatas; hiwain ang carrots sa maninipis na half-moon.",
+                "Hiwain ang broccoli sa maliliit na florets. Tadtarin ang bawang."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/roast-prep.webp",
+                "alt": "Maliliit na patatas, manipis na carrot at maliliit na florets.",
+                "caption": "Maliliit na patatas, manipis na carrot at maliliit na florets."
+              }
+            },
+            {
+              "title": "Unahin ang patatas",
+              "bullets": [
+                "Ihalo ang patatas at carrot sa dalawang-katlo ng mantika para sa gulay at kaunting asin.",
+                "Ikalat sa maluwag na tray na may liner. I-roast nang 15 minuto.",
+                "Ihalo ang broccoli sa natitirang mantika para sa gulay; itabi."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Timplahan ang manok",
+              "bullets": [
+                "Sa hiwalay na sangkalan, marahang pantayin ang kapal ng chicken breast.",
+                "Ipahid ang mantika para sa manok, bawang, paprika, thyme, pepper at kaunting asin."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Sabay i-roast",
+              "bullets": [
+                "Baligtarin ang patatas at carrot. Idagdag ang manok at broccoli; huwag pagsiksikin.",
+                "I-roast pa nang 18–22 minuto; tiyaking 74°C ang manok.",
+                "Ipahinga ang manok sa malinis na plato nang 5 minuto. Ipagpatuloy ang pag-roast kung matigas pa ang patatas."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/roast-cook-v2.webp",
+                "alt": "Browned na gilid, malambot na gulay at juicy na manok.",
+                "caption": "Browned na gilid, malambot na gulay at juicy na manok."
+              }
+            },
+            {
+              "title": "Gawin ang mga sarsa",
+              "bullets": [
+                "Haluin ang yogurt, lemon, bawang para sa sarsa, natitirang asin at mas kaunting dami ng tubig.",
+                "Dagdagan ng tubig kung kailangan para madaling ibuhos.",
+                "Ilipat ang pan juices at stock sa maliit na kaserola. Pakuluin nang marahan nang 2–3 minuto."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Ihain",
+              "bullets": [
+                "Hiwain ang ipinahingang manok sa chunks. Ibuhos ang lahat ng mainit na pan juices.",
+                "Ihain kasama ang patatas, gulay at yogurt sauce sa tabi."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/roast-plate-v3.webp",
+                "alt": "Pan juices sa manok; yogurt sauce sa tabi.",
+                "caption": "Pan juices sa manok; yogurt sauce sa tabi."
+              }
+            }
+          ],
+          "components": [
+            {
+              "title": "Roast chicken",
+              "body": "Bawang at paprika, kasama ang lahat ng mainit na pan juices."
+            },
+            {
+              "title": "Gulay at sarsa",
+              "body": "Golden na patatas, carrot at broccoli; malabnaw na yogurt sauce sa tabi."
+            }
+          ],
+          "adjustment": "",
+          "basis": "Tantiyang nutrisyon sa buong hapunan, kasama ang lahat ng sarsa at side. Generic food data; hilaw ang timbang ng karne, gulay, bigas at pasta maliban kung may ibang nakasulat. Nag-iiba ayon sa brand at pagluluto. Mga 18 g fat. May gatas; tingnan din ang allergens sa stock. Hindi pa nasubukang lutuin at tikman."
+        },
+        "number": "04"
+      }
+    },
+    {
+      "id": "pesto-chicken",
+      "collection": "Dinner trials",
+      "category": "Chicken",
+      "cuisine": "Italian inspired",
+      "title": "Basil pesto chicken pasta",
+      "subtitle": "Garlic, toasted almonds & parmesan · fresh tomato",
+      "serves": "1 Serving",
+      "macro": "≈650 kcal | 59g P | 58g C | 20g F | 8g fibre",
+      "description": "Glossy basil pesto pasta with golden chicken, courgette and spinach. Garlic, toasted almonds, lemon and parmesan bring the flavour; fresh diced tomato finishes it.",
+      "approved": false,
+      "ingredients": [
+        {
+          "group": "Pasta & chicken",
+          "items": [
+            "180 g halal chicken breast, raw, skinless",
+            "55 g regular fusilli pasta, dry weight",
+            "150 g courgette, small half-moons",
+            "80 g spinach",
+            "100 g tomato, finely diced",
+            "3 g olive oil for the pan",
+            "⅛ tsp black pepper",
+            "1 g salt TOTAL, divided across chicken, vegetables and pesto"
+          ]
+        },
+        {
+          "group": "Pesto — use all of it",
+          "items": [
+            "20 g basil leaves",
+            "10 g unsalted flaked almonds",
+            "10 g parmesan-style hard cheese, halal-certified or microbial/vegetarian rennet",
+            "4 g garlic",
+            "10 g lemon juice",
+            "3 g olive oil for pesto",
+            "90–120 ml reserved pasta water"
+          ]
+        }
+      ],
+      "steps": [
+        "Wash vegetables. Finely dice tomato; cut courgette into small half-moons. Grate cheese. Peel garlic. Pick basil leaves. Cut chicken into bite-sized chunks on a separate board.",
+        "Toast almonds in a dry pan over medium-low for 3–4 minutes; cool. Finely blend almonds, basil, garlic, half the cheese, lemon, pesto oil and a little salt. Add a splash of water if needed to blend. Set aside.",
+        "Boil pasta in unsalted water until just tender, following packet timing. Reserve the listed pasta water before draining.",
+        "Season chicken with pepper and some salt. Heat pan oil over medium-high. Sear chicken for 2–3 minutes; turn and cook another 5–7 minutes, to 74°C. Lift out. Cook courgette in the same pan for 4–5 minutes. Add spinach and remaining salt; wilt for 1 minute.",
+        "Turn heat off. Add pasta, chicken and all the pesto. Toss with the lower amount of pasta water. Add more as needed. Keep the sauce loose and glossy; do not boil the pesto.",
+        "Spoon into a warm bowl. Top with all the fresh tomato and remaining cheese. Serve immediately, while the sauce is glossy."
+      ],
+      "tl": {
+        "description": "Glossy basil pesto pasta na may golden na manok, courgette at spinach. Malasa mula sa bawang, toasted almonds, lemon at parmesan; may sariwang diced na kamatis.",
+        "ingredients": [
+          {
+            "group": "Pasta at manok",
+            "items": [
+              "180 g halal chicken breast, hilaw at walang balat",
+              "55 g regular fusilli pasta, timbang bago lutuin",
+              "150 g courgette, maliliit na half-moon",
+              "80 g spinach",
+              "100 g kamatis, pinong diced",
+              "3 g olive oil para sa kawali",
+              "⅛ tsp black pepper",
+              "1 g asin SA KABUUAN, paghatiin sa manok, gulay at pesto"
+            ]
+          },
+          {
+            "group": "Pesto — gamitin lahat",
+            "items": [
+              "20 g dahon ng basil",
+              "10 g unsalted flaked almonds",
+              "10 g parmesan-style hard cheese, halal-certified o microbial/vegetarian rennet",
+              "4 g bawang",
+              "10 g lemon juice",
+              "3 g olive oil para sa pesto",
+              "90–120 ml itinabing tubig ng pasta"
+            ]
+          }
+        ],
+        "steps": [
+          "Hugasan ang gulay. Pinong i-dice ang kamatis; hiwain ang courgette sa maliliit na half-moon. Gadgarin ang keso. Balatan ang bawang. Pitasin ang dahon ng basil. Hiwain ang manok sa maliliit na chunks sa hiwalay na sangkalan.",
+          "I-toast ang almonds sa tuyong kawali sa katamtaman hanggang mahinang apoy nang 3–4 minuto; palamigin. Pinong i-blend ang almonds, basil, bawang, kalahati ng keso, lemon, mantika para sa pesto at kaunting asin. Dagdagan ng kaunting tubig kung kailangan sa pag-blend. Itabi.",
+          "Pakuluan ang pasta sa tubig na walang asin hanggang lumambot, ayon sa oras sa pakete. Itabi ang nakalistang dami ng tubig ng pasta bago salain.",
+          "Timplahan ang manok ng pepper at kaunting asin. Painitin ang mantika sa katamtaman hanggang malakas na apoy. I-sear ang manok nang 2–3 minuto; baligtarin at lutuin pa nang 5–7 minuto, hanggang 74°C. Iahon. Lutuin ang courgette sa parehong kawali nang 4–5 minuto. Idagdag ang spinach at natitirang asin; palantahin nang 1 minuto.",
+          "Patayin ang apoy. Idagdag ang pasta, manok at lahat ng pesto. Ihalo ang mas kaunting dami ng tubig ng pasta. Dagdagan kung kailangan. Panatilihing malabnaw at glossy ang sarsa; huwag pakuluan ang pesto.",
+          "Ilagay sa mainit na mangkok. Ilagay sa ibabaw ang lahat ng sariwang kamatis at natitirang keso. Ihain agad habang glossy pa ang sarsa."
+        ]
+      },
+      "visual": {
+        "subtitle": "Garlic, toasted almonds & parmesan · fresh tomato",
+        "time": "30–35",
+        "hero": {
+          "src": "assets/dinners/pesto-plate.webp",
+          "alt": "Chicken, courgette and spinach through the pasta; fresh tomato on top.",
+          "caption": "Chicken, courgette and spinach through the pasta; fresh tomato on top."
+        },
+        "nutrients": [
+          {
+            "value": "≈650",
+            "label": "kcal"
+          },
+          {
+            "value": "59g",
+            "label": "protein"
+          },
+          {
+            "value": "58g",
+            "label": "carbs"
+          },
+          {
+            "value": "8g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep",
+            "bullets": [
+              "Wash vegetables. Finely dice tomato; cut courgette into small half-moons.",
+              "Grate cheese. Peel garlic. Pick basil leaves.",
+              "Cut chicken into bite-sized chunks on a separate board."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/pesto-prep.webp",
+              "alt": "Small courgette pieces and finely diced fresh tomato.",
+              "caption": "Small courgette pieces and finely diced fresh tomato."
+            }
+          },
+          {
+            "title": "Toast & blend",
+            "bullets": [
+              "Toast almonds in a dry pan over medium-low for 3–4 minutes; cool.",
+              "Finely blend almonds, basil, garlic, half the cheese, lemon, pesto oil and a little salt.",
+              "Add a splash of water if needed to blend. Set aside."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Cook the pasta",
+            "bullets": [
+              "Boil pasta in unsalted water until just tender, following packet timing.",
+              "Reserve the listed pasta water before draining."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Brown the chicken & vegetables",
+            "bullets": [
+              "Season chicken with pepper and some salt. Heat pan oil over medium-high.",
+              "Sear chicken for 2–3 minutes; turn and cook another 5–7 minutes, to 74°C.",
+              "Lift out. Cook courgette in the same pan for 4–5 minutes.",
+              "Add spinach and remaining salt; wilt for 1 minute."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Make it glossy",
+            "bullets": [
+              "Turn heat off. Add pasta, chicken and all the pesto.",
+              "Toss with the lower amount of pasta water. Add more as needed.",
+              "Keep the sauce loose and glossy; do not boil the pesto."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/pesto-cook.webp",
+              "alt": "A loose coating of pesto, not a dry paste.",
+              "caption": "A loose coating of pesto, not a dry paste."
+            }
+          },
+          {
+            "title": "Serve",
+            "bullets": [
+              "Spoon into a warm bowl. Top with all the fresh tomato and remaining cheese.",
+              "Serve immediately, while the sauce is glossy."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/pesto-plate.webp",
+              "alt": "Fresh tomato over glossy green pesto pasta.",
+              "caption": "Fresh tomato over glossy green pesto pasta."
+            }
+          }
+        ],
+        "components": [
+          {
+            "title": "Full-flavoured pesto",
+            "body": "Basil, toasted almonds, garlic, lemon and parmesan."
+          },
+          {
+            "title": "One generous bowl",
+            "body": "Chicken, courgette and spinach through the pasta; fresh tomato on top."
+          }
+        ],
+        "adjustment": "",
+        "basis": "Rounded estimates for the whole dinner, including every sauce and side. Generic food-composition values; meat, vegetables, rice and pasta weighed raw unless stated. Brands, stock and cooking yields vary. About 20 g fat. Contains wheat, milk and almonds. Not yet kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per 100 g; kcal, protein, carbohydrate, fat, fibre",
+          "rows": [
+            [
+              "Chicken breast raw",
+              180,
+              [
+                120,
+                22.5,
+                0,
+                2.62,
+                0
+              ]
+            ],
+            [
+              "Dry regular pasta",
+              55,
+              [
+                371,
+                13.04,
+                74.67,
+                1.51,
+                3.2
+              ]
+            ],
+            [
+              "Courgette",
+              150,
+              [
+                17,
+                1.21,
+                3.11,
+                0.32,
+                1
+              ]
+            ],
+            [
+              "Spinach",
+              80,
+              [
+                23,
+                2.86,
+                3.63,
+                0.39,
+                2.2
+              ]
+            ],
+            [
+              "Tomato",
+              100,
+              [
+                18,
+                0.88,
+                3.89,
+                0.2,
+                1.2
+              ]
+            ],
+            [
+              "Olive oil",
+              6,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "Basil",
+              20,
+              [
+                23,
+                3.15,
+                2.65,
+                0.64,
+                1.6
+              ]
+            ],
+            [
+              "Almonds",
+              10,
+              [
+                579,
+                21.15,
+                21.55,
+                49.93,
+                12.5
+              ]
+            ],
+            [
+              "Parmesan",
+              10,
+              [
+                392,
+                35.75,
+                3.22,
+                25.83,
+                0
+              ]
+            ],
+            [
+              "Garlic",
+              4,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "Lemon juice",
+              10,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ],
+            [
+              "Mixed spices estimate",
+              0.3,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ]
+          ],
+          "totals": [
+            645.75,
+            59.3004,
+            57.6969,
+            20.3225,
+            7.994
+          ]
+        },
+        "tl": {
+          "subtitle": "Bawang, toasted almonds at parmesan · sariwang kamatis",
+          "hero": {
+            "src": "assets/dinners/pesto-plate.webp",
+            "alt": "Manok, courgette at spinach sa pasta; sariwang kamatis sa ibabaw.",
+            "caption": "Manok, courgette at spinach sa pasta; sariwang kamatis sa ibabaw."
+          },
+          "nutrients": [
+            {
+              "value": "≈650",
+              "label": "kcal"
+            },
+            {
+              "value": "59g",
+              "label": "protein"
+            },
+            {
+              "value": "58g",
+              "label": "carbs"
+            },
+            {
+              "value": "8g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda",
+              "bullets": [
+                "Hugasan ang gulay. Pinong i-dice ang kamatis; hiwain ang courgette sa maliliit na half-moon.",
+                "Gadgarin ang keso. Balatan ang bawang. Pitasin ang dahon ng basil.",
+                "Hiwain ang manok sa maliliit na chunks sa hiwalay na sangkalan."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/pesto-prep.webp",
+                "alt": "Maliliit na courgette at pinong diced na sariwang kamatis.",
+                "caption": "Maliliit na courgette at pinong diced na sariwang kamatis."
+              }
+            },
+            {
+              "title": "I-toast at i-blend",
+              "bullets": [
+                "I-toast ang almonds sa tuyong kawali sa katamtaman hanggang mahinang apoy nang 3–4 minuto; palamigin.",
+                "Pinong i-blend ang almonds, basil, bawang, kalahati ng keso, lemon, mantika para sa pesto at kaunting asin.",
+                "Dagdagan ng kaunting tubig kung kailangan sa pag-blend. Itabi."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Lutuin ang pasta",
+              "bullets": [
+                "Pakuluan ang pasta sa tubig na walang asin hanggang lumambot, ayon sa oras sa pakete.",
+                "Itabi ang nakalistang dami ng tubig ng pasta bago salain."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "I-brown ang manok at gulay",
+              "bullets": [
+                "Timplahan ang manok ng pepper at kaunting asin. Painitin ang mantika sa katamtaman hanggang malakas na apoy.",
+                "I-sear ang manok nang 2–3 minuto; baligtarin at lutuin pa nang 5–7 minuto, hanggang 74°C.",
+                "Iahon. Lutuin ang courgette sa parehong kawali nang 4–5 minuto.",
+                "Idagdag ang spinach at natitirang asin; palantahin nang 1 minuto."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Gawing glossy",
+              "bullets": [
+                "Patayin ang apoy. Idagdag ang pasta, manok at lahat ng pesto.",
+                "Ihalo ang mas kaunting dami ng tubig ng pasta. Dagdagan kung kailangan.",
+                "Panatilihing malabnaw at glossy ang sarsa; huwag pakuluan ang pesto."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/pesto-cook.webp",
+                "alt": "Malabnaw na balot ng pesto, hindi tuyong paste.",
+                "caption": "Malabnaw na balot ng pesto, hindi tuyong paste."
+              }
+            },
+            {
+              "title": "Ihain",
+              "bullets": [
+                "Ilagay sa mainit na mangkok. Ilagay sa ibabaw ang lahat ng sariwang kamatis at natitirang keso.",
+                "Ihain agad habang glossy pa ang sarsa."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/pesto-plate.webp",
+                "alt": "Sariwang kamatis sa ibabaw ng glossy green pesto pasta.",
+                "caption": "Sariwang kamatis sa ibabaw ng glossy green pesto pasta."
+              }
+            }
+          ],
+          "components": [
+            {
+              "title": "Malasang pesto",
+              "body": "Basil, toasted almonds, bawang, lemon at parmesan."
+            },
+            {
+              "title": "Isang saganang mangkok",
+              "body": "Manok, courgette at spinach sa pasta; sariwang kamatis sa ibabaw."
+            }
+          ],
+          "adjustment": "",
+          "basis": "Tantiyang nutrisyon sa buong hapunan, kasama ang lahat ng sarsa at side. Generic food data; hilaw ang timbang ng karne, gulay, bigas at pasta maliban kung may ibang nakasulat. Nag-iiba ayon sa brand at pagluluto. Mga 20 g fat. May wheat, gatas at almonds. Hindi pa nasubukang lutuin at tikman."
+        },
+        "number": "05"
+      }
+    },
+    {
+      "id": "ajiaco-chicken",
+      "collection": "Dinner trials",
+      "category": "Chicken",
+      "cuisine": "Colombian inspired",
+      "title": "Ajiaco chicken & potato soup",
+      "subtitle": "Corn & guascas · rice, lettuce and sour cream alongside",
+      "serves": "1 Serving",
+      "macro": "≈690 kcal | 54g P | 83g C | 17g F | 9g fibre",
+      "description": "A brothy, comforting take on ajiaco: chicken, soft potato and corn. Rice, finely shredded lettuce and sour cream arrive separately, ready to mix in your way.",
+      "approved": false,
+      "ingredients": [
+        {
+          "group": "Soup",
+          "items": [
+            "180 g halal chicken breast, raw, skinless",
+            "100 g floury potato, peeled and thinly sliced",
+            "100 g yellow potato or papa criolla, peeled, small chunks",
+            "80 g sweetcorn kernels, edible weight; use corn-on-cob rounds yielding this amount",
+            "60 g onion, very finely minced",
+            "20 g celery, very finely minced",
+            "4 g garlic, finely minced",
+            "4 g olive oil",
+            "500 ml low-sodium halal chicken stock, no alcohol",
+            "1 tsp dried guascas",
+            "⅛ tsp black pepper",
+            "0.5 g salt TOTAL, use only as needed after tasting stock"
+          ]
+        },
+        {
+          "group": "Serve separately",
+          "items": [
+            "25 g white rice, dry weight",
+            "60 ml water, or packet ratio",
+            "60 g iceberg lettuce, finely shredded and cut short",
+            "30 g sour cream"
+          ]
+        }
+      ],
+      "steps": [
+        "Wash vegetables. Mince onion, celery and garlic very finely. Peel potatoes: thinly slice floury potato; cut yellow potato into small chunks. Use short corn-on-cob rounds; ask the grocer to cut them if needed. Finely shred and shorten lettuce; keep chilled.",
+        "Heat oil over medium-low. Add onion and celery. Cook 8–10 minutes until very soft; add a splash of water if needed. Add garlic; stir for 1 minute.",
+        "Add stock, chicken, corn, both potatoes, guascas and pepper. Bring to a gentle simmer; partly cover. Cook for 18–22 minutes. Remove chicken once its centre reaches 74°C. Rest on a clean plate. Simmer soup another 10–15 minutes, until corn and potatoes are tender.",
+        "While soup simmers, rinse rice and add its water to a small lidded pan. Bring to a boil; cover and simmer on low for 10–12 minutes. Rest covered, off the heat, for 10 minutes. Follow packet ratios if different.",
+        "Shred chicken into short pieces and return it to the soup. Mash a few soft potato slices against the pot; leave some chunks. Add water if needed to keep it brothy. Heat through. Taste before adding any of the measured salt.",
+        "Ladle all the soup into a roomy bowl. Serve rice, lettuce and sour cream in three separate bowls. Mix them into the soup at the table, as you like."
+      ],
+      "tl": {
+        "description": "Masabaw at comforting na bersyon ng ajiaco: manok, malambot na patatas at mais. Hiwalay ang kanin, pinong shredded na lettuce at sour cream para ikaw ang maghalo.",
+        "ingredients": [
+          {
+            "group": "Sopas",
+            "items": [
+              "180 g halal chicken breast, hilaw at walang balat",
+              "100 g floury potato, binalatan at manipis na hiniwa",
+              "100 g yellow potato o papa criolla, binalatan, maliliit na chunks",
+              "80 g sweetcorn kernels, timbang ng nakakain; gumamit ng corn-on-cob rounds na may ganitong dami",
+              "60 g sibuyas, napakapinong tinadtad",
+              "20 g celery, napakapinong tinadtad",
+              "4 g bawang, pinong tinadtad",
+              "4 g olive oil",
+              "500 ml low-sodium halal chicken stock, walang alcohol",
+              "1 tsp dried guascas",
+              "⅛ tsp black pepper",
+              "0.5 g asin SA KABUUAN, gamitin lamang kung kailangan matapos tikman ang stock"
+            ]
+          },
+          {
+            "group": "Ihain nang hiwalay",
+            "items": [
+              "25 g puting bigas, timbang bago lutuin",
+              "60 ml tubig, o ratio sa pakete",
+              "60 g iceberg lettuce, pinong shredded at pinaikli",
+              "30 g sour cream"
+            ]
+          }
+        ],
+        "steps": [
+          "Hugasan ang gulay. Napakapinong tadtarin ang sibuyas, celery at bawang. Balatan ang patatas: manipis na hiwa sa floury potato; maliliit na chunks sa yellow potato. Gumamit ng maiikling corn-on-cob rounds; ipahiwa sa tindahan kung kailangan. Pinong i-shred at paikliin ang lettuce; panatilihing malamig.",
+          "Painitin ang mantika sa katamtaman hanggang mahinang apoy. Idagdag ang sibuyas at celery. Lutuin nang 8–10 minuto hanggang napakalambot; dagdagan ng kaunting tubig kung kailangan. Idagdag ang bawang; haluin nang 1 minuto.",
+          "Idagdag ang stock, manok, mais, parehong patatas, guascas at pepper. Pakuluin nang marahan; bahagyang takpan. Lutuin nang 18–22 minuto. Alisin ang manok kapag 74°C na ang gitna. Ipahinga sa malinis na plato. Pakuluin pa nang marahan ang sopas nang 10–15 minuto, hanggang malambot ang mais at patatas.",
+          "Habang kumukulo ang sopas, hugasan ang bigas at ilagay kasama ang tubig nito sa maliit na kaserolang may takip. Pakuluan; takpan at lutuin sa mahinang apoy nang 10–12 minuto. Ipahinga nang may takip, walang apoy, nang 10 minuto. Sundin ang ratio sa pakete kung iba.",
+          "Himayin ang manok sa maiikling piraso at ibalik sa sopas. Durugin ang ilang malambot na hiwa ng patatas sa gilid ng kaserola; mag-iwan ng ilang chunks. Dagdagan ng tubig kung kailangan para manatiling masabaw. Painitin nang mabuti. Tikman bago magdagdag ng nakasukat na asin.",
+          "Isandok ang buong sopas sa maluwag na mangkok. Ihain ang kanin, lettuce at sour cream sa tatlong magkahiwalay na mangkok. Ihalo sa sopas habang kumakain, ayon sa gusto."
+        ]
+      },
+      "visual": {
+        "subtitle": "Corn & guascas · rice, lettuce and sour cream alongside",
+        "time": "50–60",
+        "hero": {
+          "src": "assets/dinners/ajiaco-plate-v2.webp",
+          "alt": "Rice, fine lettuce and sour cream in separate bowls.",
+          "caption": "Rice, fine lettuce and sour cream in separate bowls."
+        },
+        "nutrients": [
+          {
+            "value": "≈690",
+            "label": "kcal"
+          },
+          {
+            "value": "54g",
+            "label": "protein"
+          },
+          {
+            "value": "83g",
+            "label": "carbs"
+          },
+          {
+            "value": "9g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep",
+            "bullets": [
+              "Wash vegetables. Mince onion, celery and garlic very finely.",
+              "Peel potatoes: thinly slice floury potato; cut yellow potato into small chunks.",
+              "Use short corn-on-cob rounds; ask the grocer to cut them if needed.",
+              "Finely shred and shorten lettuce; keep chilled."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/ajiaco-prep-v2.webp",
+              "alt": "Celery minced almost to a paste; small potato pieces.",
+              "caption": "Celery minced almost to a paste; small potato pieces."
+            }
+          },
+          {
+            "title": "Soften the aromatics",
+            "bullets": [
+              "Heat oil over medium-low. Add onion and celery.",
+              "Cook 8–10 minutes until very soft; add a splash of water if needed.",
+              "Add garlic; stir for 1 minute."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Simmer the soup",
+            "bullets": [
+              "Add stock, chicken, corn, both potatoes, guascas and pepper.",
+              "Bring to a gentle simmer; partly cover. Cook for 18–22 minutes.",
+              "Remove chicken once its centre reaches 74°C. Rest on a clean plate.",
+              "Simmer soup another 10–15 minutes, until corn and potatoes are tender."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Cook the rice",
+            "bullets": [
+              "While soup simmers, rinse rice and add its water to a small lidded pan.",
+              "Bring to a boil; cover and simmer on low for 10–12 minutes.",
+              "Rest covered, off the heat, for 10 minutes. Follow packet ratios if different."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Finish the broth",
+            "bullets": [
+              "Shred chicken into short pieces and return it to the soup.",
+              "Mash a few soft potato slices against the pot; leave some chunks.",
+              "Add water if needed to keep it brothy. Heat through.",
+              "Taste before adding any of the measured salt."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/ajiaco-cook.webp",
+              "alt": "Soft potato lightly thickens the broth.",
+              "caption": "Soft potato lightly thickens the broth."
+            }
+          },
+          {
+            "title": "Serve your way",
+            "bullets": [
+              "Ladle all the soup into a roomy bowl.",
+              "Serve rice, lettuce and sour cream in three separate bowls.",
+              "Mix them into the soup at the table, as you like."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/ajiaco-plate-v2.webp",
+              "alt": "Rice, lettuce and sour cream stay separate until you mix them in.",
+              "caption": "Rice, lettuce and sour cream stay separate until you mix them in."
+            }
+          }
+        ],
+        "components": [
+          {
+            "title": "Comforting soup",
+            "body": "Chicken, potato and corn in a gently thickened broth."
+          },
+          {
+            "title": "Three sides",
+            "body": "Rice, fine lettuce and sour cream in separate bowls."
+          }
+        ],
+        "adjustment": "Guascas gives ajiaco its characteristic flavour. If unavailable, omit it and make chicken-potato soup; oregano is not the same. This is a two-potato version with your chosen sides.",
+        "basis": "Rounded estimates for the whole dinner, including every sauce and side. Generic food-composition values; meat, vegetables, rice and pasta weighed raw unless stated. Brands, stock and cooking yields vary. About 17 g fat. Contains milk; check stock allergens. Not yet kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per 100 g; kcal, protein, carbohydrate, fat, fibre",
+          "rows": [
+            [
+              "Chicken breast raw",
+              180,
+              [
+                120,
+                22.5,
+                0,
+                2.62,
+                0
+              ]
+            ],
+            [
+              "Potato",
+              200,
+              [
+                77,
+                2.05,
+                17.49,
+                0.09,
+                2.1
+              ]
+            ],
+            [
+              "Sweetcorn edible kernels",
+              80,
+              [
+                86,
+                3.27,
+                18.7,
+                1.35,
+                2
+              ]
+            ],
+            [
+              "Onion",
+              60,
+              [
+                40,
+                1.1,
+                9.34,
+                0.1,
+                1.7
+              ]
+            ],
+            [
+              "Celery",
+              20,
+              [
+                14,
+                0.69,
+                2.97,
+                0.17,
+                1.6
+              ]
+            ],
+            [
+              "Garlic",
+              4,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "Olive oil",
+              4,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "Chicken stock estimate",
+              500,
+              [
+                5,
+                0.5,
+                0.3,
+                0.2,
+                0
+              ]
+            ],
+            [
+              "Dried herbs estimate",
+              1,
+              [
+                265,
+                9,
+                69,
+                4,
+                40
+              ]
+            ],
+            [
+              "Mixed spices estimate",
+              0.3,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "Dry white rice",
+              25,
+              [
+                365,
+                7.13,
+                80,
+                0.66,
+                1.3
+              ]
+            ],
+            [
+              "Iceberg",
+              60,
+              [
+                14,
+                0.9,
+                2.97,
+                0.14,
+                1.2
+              ]
+            ],
+            [
+              "Sour cream",
+              30,
+              [
+                198,
+                2.44,
+                4.63,
+                19.35,
+                0
+              ]
+            ]
+          ],
+          "totals": [
+            694.52,
+            53.9489,
+            82.9714,
+            17.22,
+            8.759
+          ]
+        },
+        "tl": {
+          "subtitle": "Mais at guascas · kanin, lettuce at sour cream sa tabi",
+          "hero": {
+            "src": "assets/dinners/ajiaco-plate-v2.webp",
+            "alt": "Kanin, pinong lettuce at sour cream sa magkakahiwalay na mangkok.",
+            "caption": "Kanin, pinong lettuce at sour cream sa magkakahiwalay na mangkok."
+          },
+          "nutrients": [
+            {
+              "value": "≈690",
+              "label": "kcal"
+            },
+            {
+              "value": "54g",
+              "label": "protein"
+            },
+            {
+              "value": "83g",
+              "label": "carbs"
+            },
+            {
+              "value": "9g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda",
+              "bullets": [
+                "Hugasan ang gulay. Napakapinong tadtarin ang sibuyas, celery at bawang.",
+                "Balatan ang patatas: manipis na hiwa sa floury potato; maliliit na chunks sa yellow potato.",
+                "Gumamit ng maiikling corn-on-cob rounds; ipahiwa sa tindahan kung kailangan.",
+                "Pinong i-shred at paikliin ang lettuce; panatilihing malamig."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/ajiaco-prep-v2.webp",
+                "alt": "Halos paste ang pinong celery; maliliit na patatas.",
+                "caption": "Halos paste ang pinong celery; maliliit na patatas."
+              }
+            },
+            {
+              "title": "Palambutin ang aromatics",
+              "bullets": [
+                "Painitin ang mantika sa katamtaman hanggang mahinang apoy. Idagdag ang sibuyas at celery.",
+                "Lutuin nang 8–10 minuto hanggang napakalambot; dagdagan ng kaunting tubig kung kailangan.",
+                "Idagdag ang bawang; haluin nang 1 minuto."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Pakuluin nang marahan",
+              "bullets": [
+                "Idagdag ang stock, manok, mais, parehong patatas, guascas at pepper.",
+                "Pakuluin nang marahan; bahagyang takpan. Lutuin nang 18–22 minuto.",
+                "Alisin ang manok kapag 74°C na ang gitna. Ipahinga sa malinis na plato.",
+                "Pakuluin pa nang marahan ang sopas nang 10–15 minuto, hanggang malambot ang mais at patatas."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Lutuin ang kanin",
+              "bullets": [
+                "Habang kumukulo ang sopas, hugasan ang bigas at ilagay kasama ang tubig nito sa maliit na kaserolang may takip.",
+                "Pakuluan; takpan at lutuin sa mahinang apoy nang 10–12 minuto.",
+                "Ipahinga nang may takip, walang apoy, nang 10 minuto. Sundin ang ratio sa pakete kung iba."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Tapusin ang sabaw",
+              "bullets": [
+                "Himayin ang manok sa maiikling piraso at ibalik sa sopas.",
+                "Durugin ang ilang malambot na hiwa ng patatas sa gilid ng kaserola; mag-iwan ng ilang chunks.",
+                "Dagdagan ng tubig kung kailangan para manatiling masabaw. Painitin nang mabuti.",
+                "Tikman bago magdagdag ng nakasukat na asin."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/ajiaco-cook.webp",
+                "alt": "Bahagyang pinapalapot ng malambot na patatas ang sabaw.",
+                "caption": "Bahagyang pinapalapot ng malambot na patatas ang sabaw."
+              }
+            },
+            {
+              "title": "Ihain ayon sa gusto",
+              "bullets": [
+                "Isandok ang buong sopas sa maluwag na mangkok.",
+                "Ihain ang kanin, lettuce at sour cream sa tatlong magkahiwalay na mangkok.",
+                "Ihalo sa sopas habang kumakain, ayon sa gusto."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/ajiaco-plate-v2.webp",
+                "alt": "Hiwalay ang kanin, lettuce at sour cream hanggang ikaw ang maghalo.",
+                "caption": "Hiwalay ang kanin, lettuce at sour cream hanggang ikaw ang maghalo."
+              }
+            }
+          ],
+          "components": [
+            {
+              "title": "Comforting na sopas",
+              "body": "Manok, patatas at mais sa bahagyang malapot na sabaw."
+            },
+            {
+              "title": "Tatlong side",
+              "body": "Kanin, pinong lettuce at sour cream sa magkakahiwalay na mangkok."
+            }
+          ],
+          "adjustment": "Guascas ang nagbibigay ng natatanging lasa ng ajiaco. Kung wala, puwedeng chicken-potato soup; hindi kapareho ang oregano. Dalawang uri ng patatas ito, kasama ang pinili mong side.",
+          "basis": "Tantiyang nutrisyon sa buong hapunan, kasama ang lahat ng sarsa at side. Generic food data; hilaw ang timbang ng karne, gulay, bigas at pasta maliban kung may ibang nakasulat. Nag-iiba ayon sa brand at pagluluto. Mga 17 g fat. May gatas; tingnan din ang allergens sa stock. Hindi pa nasubukang lutuin at tikman."
+        },
+        "sources": [
+          {
+            "label": "Ajiaco: ingredients & tradition — Erica Dinho",
+            "url": "https://www.mycolombianrecipes.com/ajiaco-bogotano-colombian-chicken-and/"
+          }
+        ],
+        "number": "06"
       }
     }
   ]
