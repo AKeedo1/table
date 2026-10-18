@@ -17,7 +17,7 @@ test('trial merges without changing legacy IDs and works in search and shopping'
   const tl=catalog.shopping(all,['halal-cart-chicken'],'tl');
   assert.deepEqual(en.map(x=>x.key),tl.map(x=>x.key));
   assert.ok(en.some(x=>x.text.includes('120 g plain 2% Greek yogurt')));
-  assert.ok(en.some(x=>x.text.includes('50 g cooked chickpeas')));
+  assert.ok(en.some(x=>x.text.includes('60 g cooked chickpeas')));
 });
 test('every visual stage and language retains matching check keys and available offline assets',()=>{
   const sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');
