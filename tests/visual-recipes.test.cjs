@@ -11,7 +11,7 @@ test('trial merges without changing legacy IDs and works in search and shopping'
   const all=[...trials,...legacy];assert.equal(new Set(all.map(r=>r.id)).size,all.length);
   assert.equal(legacy.length,16);
   assert.ok(catalog.filter(all,{query:'halal chicken'}).some(r=>r.id==='halal-cart-chicken'));
-  assert.equal(trials.length,6);
+  assert.equal(trials.length,5);
   assert.deepEqual(trials.filter(r=>r.approved).map(r=>r.id),['halal-cart-chicken']);
   const en=catalog.shopping(all,['halal-cart-chicken'],'en');
   const tl=catalog.shopping(all,['halal-cart-chicken'],'tl');
@@ -47,11 +47,11 @@ test('nutrition calculation covers the full dinner and displayed rounding agrees
   assert.ok(approved.rows.some(x=>x[0].includes('yogurt')&&x[1]===120));
   assert.ok(approved.rows.some(x=>x[0]==='Olive oil'&&x[1]===7));
 });
-test('six dinners have matching translated shopping rows and complete visual guides',()=>{
+test('current dinners have matching translated shopping rows and complete visual guides',()=>{
   const ids=trials.map(r=>r.id);
   const en=catalog.shopping(trials,ids,'en'),tl=catalog.shopping(trials,ids,'tl');
   assert.deepEqual(en.map(x=>x.key),tl.map(x=>x.key));
-  assert.equal(new Set(en.map(x=>x.recipeId)).size,6);
+  assert.equal(new Set(en.map(x=>x.recipeId)).size,5);
   for(const r of trials){
     const photos=new Set([r.visual.hero.src,...r.visual.steps.filter(s=>s.photo).map(s=>s.photo.src)]);
     assert.equal(photos.size,3,r.id);
@@ -73,7 +73,7 @@ test('offline requests retain the correct legacy and visual recipe catalogs',asy
       return cache.get(key);
     }}
   });
-  for(const [filename,count] of [['recipes.json',16],['dinner-trials.json',6]]){
+  for(const [filename,count] of [['recipes.json',16],['dinner-trials.json',5]]){
     let response;
     handlers.fetch({request:{method:'GET',url:'https://example.test/table/'+filename+'?v=offline-test'},respondWith:p=>response=p});
     assert.equal((await response).recipes.length,count);

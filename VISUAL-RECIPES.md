@@ -1,5 +1,11 @@
 # Visual dinners
 
+Current selection — 18 October 2026: five visual dinners. Roast chicken/potato/broccoli removed from the active menu by request. Pesto includes25g drained oil-packed sun-dried tomatoes, retains fresh tomato and all existing main-meal portions, and has three matching revised photo guides. Complete-serving nutrition includes the added tomatoes and retained oil (USDA SR169384); brands vary.
+
+Old recipe review lives at `#/recipe-review`, linked from Recipes. All16 older recipes start undecided. Keep & update / Remove choices and optional notes are saved in `bah.kitchen.v1.recipeDecisions`, separate from cooked ratings and favourites. Undo is available. Copy choices into the chat to apply removals and upgrade retained recipes; the screen does not claim automatic sync or delete recipes on a local vote. EN/TL and returning from a full recipe retain review context. Short dish descriptions replace historical health/training commentary on this screen. Existing mirin alternatives in two old fish recipes are replaced by rice vinegar/honey in both languages; their full recipe modernization awaits selection.
+
+Current checks:13catalog, visual-recipe and review tests pass; mobile choice/note persistence, Undo, copy, full-recipe return, direct language-tap reading position and pesto ingredient scaling in EN/TL checked. New photo guides visually inspected. No kitchen testing or independent reviewer claimed.
+
 The first visual dinner is `#/r/halal-cart-chicken`. It is a trial for review, not a taste-tested recipe or a full daily meal plan.
 
 - `dinner-trials.json` is the maintained source for new dinners. The generated legacy `recipes.json` remains unchanged. Both load into the existing catalog.
