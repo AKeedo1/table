@@ -38,12 +38,25 @@ test('shopping language switches retain item keys and aisle grouping', () => {
   assert.deepEqual(tl.map(r=>[r.key,r.aisle]),en.map(r=>[r.key,r.aisle]));
   assert.notEqual(tl[0].text,en[0].text);
   assert.equal(en.some(r=>/^(Pat completely dry|Split in half)/.test(r.text)),false);
-  assert.equal(en.find(r=>r.text==='1 tbsp soy sauce').aisle,'pantry');
-  assert.equal(en.find(r=>r.text.startsWith('200g salmon')).aisle,'protein');
+  assert.equal(en.find(r=>r.text==='12 g low-sodium soy sauce').aisle,'pantry');
+  assert.equal(en.find(r=>r.text.startsWith('200 g salmon')).aisle,'protein');
+  assert.equal(catalog.shopping([{id:'a',ingredients:['10 g lemon juice for grain and lamb finish']}],['a'])[0].aisle,'produce');
+  assert.equal(catalog.shopping([{id:'a',ingredients:['5 g garlic, grated, for beef']}],['a'])[0].aisle,'produce');
 });
 
 test('preparation notes stay in recipes, with fallback for missing translations', () => {
-  assert.ok(catalog.ingredientRows(recipes.find(r=>r.id==='win-teriyaki').ingredients).some(r=>r.text.startsWith('Pat completely dry')));
+  assert.equal(catalog.shopping([{id:'note-test',ingredients:['Pat completely dry before cubing','200 g salmon']}],['note-test']).length,1);
   const data=[{id:'a',title:'First',ingredients:[{group:'Main',items:['2 eggs','1 tomato']}]}];
   assert.deepEqual(catalog.shopping(data,['a'],'tl'),catalog.shopping(data,['a'],'en'));
+});
+
+test('recipe upgrades reset stale ticks once while retaining favourites, notes and selections',()=>{
+  const state={checks:{'win-miso':{'s:win-miso:0':1},other:{keep:1}},shop:{'recipe:win-miso:0:0':1,'recipe:other:0:0':1},savedRecipes:['win-miso'],shoppingRecipes:['win-miso'],fb:{'win-miso':{note:'Favourite'}},reviews:{'win-miso':{note:'More sauce'}}};
+  const keep=JSON.stringify([state.savedRecipes,state.shoppingRecipes,state.fb,state.reviews]);
+  catalog.reconcileChecks(state,[{id:'win-miso',checkRevision:'new'}]);
+  assert.equal(state.checks['win-miso'],undefined);assert.deepEqual(state.checks.other,{keep:1});
+  assert.equal(state.shop['recipe:win-miso:0:0'],undefined);assert.equal(state.shop['recipe:other:0:0'],1);
+  assert.equal(JSON.stringify([state.savedRecipes,state.shoppingRecipes,state.fb,state.reviews]),keep);
+  state.checks['win-miso']={newStep:1};catalog.reconcileChecks(state,[{id:'win-miso',checkRevision:'new'}]);
+  assert.deepEqual(state.checks['win-miso'],{newStep:1});
 });

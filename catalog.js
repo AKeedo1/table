@@ -17,7 +17,7 @@
       && matches(r, options.query));
   }
   function aisle(text){
-    const s=normalize(text);
+    const s=normalize(text).split(/\bfor\b/)[0].trim();
     if(/\b(sauce|oil|vinegar|stock|paste|powder|salt|sugar|rice|honey|cornstarch)\b/.test(s)) return 'pantry';
     if(/\b(chicken|beef|lamb|salmon|fish|hammour|bass|grouper|cod|egg|eggs|tofu|sirloin|shrimp|prawn|prawns)\b/.test(s)) return 'protein';
     if(/onion|garlic|ginger|tomato|cucumber|spinach|cabbage|carrot|eggplant|broccoli|bean|sprout|lemon|lime|parsley|cilantro|coriander|mint|dill|basil|chili|scallion|avocado|cauliflower|zucchini|courgette|celery|sweetcorn|pomegranate|lettuce|mushroom|potato|pear|apple|shallot|leaves|herb|lemongrass/.test(s)) return 'produce';
@@ -36,7 +36,17 @@
       });
     });
   }
-  const api={normalize,matches,filter,ingredientRows,shopping};
+  function reconcileChecks(state,recipes){
+    // Reordered instructions must not inherit ticks for different steps/ingredients.
+    state.recipeCheckRevisions=state.recipeCheckRevisions||{};
+    for(const r of recipes){
+      if(!r.checkRevision||state.recipeCheckRevisions[r.id]===r.checkRevision)continue;
+      if(state.checks)delete state.checks[r.id];
+      for(const key of Object.keys(state.shop||{}))if(key.startsWith('recipe:'+r.id+':'))delete state.shop[key];
+      state.recipeCheckRevisions[r.id]=r.checkRevision;
+    }
+  }
+  const api={normalize,matches,filter,ingredientRows,shopping,reconcileChecks};
   root.TableCatalog=api;
   if(typeof module!=='undefined') module.exports=api;
 })(globalThis);

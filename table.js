@@ -114,6 +114,7 @@ function loadData(){
   return Promise.all(['recipes.json','dinner-trials.json'].map(path=>fetch(path+'?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(path);return r.json();})))
     .then(([j,trials])=>{
       DATA = [...trials.recipes,...j.recipes]; COLLECTIONS = ['Dinner trials',...(j.collections || COLLECTIONS)];
+      TableCatalog.reconcileChecks(store,DATA);
       const sig = JSON.stringify(DATA); // Changes to instructions must refresh too, not just recipe count.
       const changed = store.dataSig && store.dataSig !== sig;
       store.dataSig = sig; save();
