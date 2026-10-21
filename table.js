@@ -100,7 +100,7 @@ function wireChips(scope){ scope.querySelectorAll('.tchip').forEach(chip=>chip.o
 // 3.8 servings scaler — rescale the leading quantity; handles ranges "2–3" and fraction glyphs; leaves unparseable lines
 const FRAC={'½':.5,'⅓':1/3,'⅔':2/3,'¼':.25,'¾':.75,'⅛':.125,'⅜':.375,'⅝':.625,'⅞':.875};
 function fmtQty(n){ const r=Math.round(n*100)/100; return Math.abs(r-Math.round(r))<.001?String(Math.round(r)):String(r); }
-function scaleLine(line, mult){ if(mult===1) return line; const m=line.match(/^(\s*)([½⅓⅔¼¾⅛⅜⅝⅞]|\d+(?:\.\d+)?)(?:\s*[–-]\s*(\d+(?:\.\d+)?))?/); if(!m) return line; const toNum=x=>FRAC[x]!==undefined?FRAC[x]:parseFloat(x); const a=toNum(m[2]); if(isNaN(a)) return line; const rep = m[3]!==undefined ? fmtQty(a*mult)+'–'+fmtQty(toNum(m[3])*mult) : fmtQty(a*mult); return m[1]+rep+line.slice(m[0].length); }
+function scaleLine(line, mult){ if(mult===1) return line; const m=line.match(/^(\s*(?:(?:scant|kulang na)\s+)?)([½⅓⅔¼¾⅛⅜⅝⅞]|\d+(?:\.\d+)?)(?:\s*[–-]\s*(\d+(?:\.\d+)?))?/); if(!m) return line; const toNum=x=>FRAC[x]!==undefined?FRAC[x]:parseFloat(x); const a=toNum(m[2]); if(isNaN(a)) return line; const rep = m[3]!==undefined ? fmtQty(a*mult)+'–'+fmtQty(toNum(m[3])*mult) : fmtQty(a*mult); return m[1]+rep+line.slice(m[0].length); }
 function scalerHTML(){ return `<span class="scaler">${[1,2,3].map(n=>`<button data-scale="${n}" class="${scale===n?'on':''}">×${n}</button>`).join('')}</span>`; }
 
 // 3.7 shopping-list categoriser
@@ -150,6 +150,7 @@ function route(){
   document.body.classList.remove('cook-open');                  // Batch 5 — release body-scroll lock
   const h = location.hash.replace(/^#/,'');
   if(h==='/shop'){ renderShop(); return; }                       // 3.7
+  if(h==='/goal-review'){renderGoalReview();return;}
   if(h==='/recipe-review'){renderRecipeReview();return;}
   const m = h.match(/^\/(r|cook)\/(.+)$/);
   if(m){ const rec = DATA.find(x=>x.id===m[2]);
@@ -185,7 +186,7 @@ function changeLanguage(lang,render=route,scope=app){
   const header=scope.querySelector(inCook?'.ctop':'.hdr');
   const top=header?.getBoundingClientRect().bottom||0;
   // Anchor to the nearest visible reading item: translated text can wrap differently.
-  const selector='[data-k], .step-bullets li, .visual-step h3, .meal-components h3, .recipe-tabs, .dinner-ingredients > summary, .recipe-basis > summary, .meal-review label, .meal-review h2, .recipe-decision h2, .decision-notes summary, .card, .gname, .cstep';
+  const selector='.goal-detail > summary, .goal-body p, .goal-points > div, .goal-method > summary, .goal-method li, .goal-row-heading, .goal-row > p, .goal-row details > summary, .goal-row details > p, [data-k], .step-bullets li, .visual-step h3, .meal-components h3, .recipe-tabs, .dinner-ingredients > summary, .recipe-basis > summary, .meal-review label, .meal-review h2, .recipe-decision h2, .decision-notes summary, .card, .gname, .cstep';
   let anchor=null;
   scope.querySelectorAll(selector).forEach((el,index)=>{
     const rect=el.getBoundingClientRect();

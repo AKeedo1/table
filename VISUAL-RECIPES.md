@@ -13,3 +13,10 @@ The updated dishes are Black Pepper Chicken & Greens, Kra Pao Gai, Bulgogi Chick
 - HTML query versions and service-worker cache are bumped together. All 30 new guides are precached. Bookmarks and feedback stay device-local.
 
 Validation: `node --test tests/*.test.cjs` covers the explicit keep/remove set, translated quantities and keys, nutrition arithmetic, cooking endpoints, all photo assets, offline JSON fallback and preservation of notes/favourites across tick migration. Mobile checks cover recipe viewing, scaling, EN/TL, Cook Mode and shopping. The five prior dinners are unchanged. No independent panel or kitchen testing is claimed.
+
+
+## 21 October: tasted portions and goal review
+
+Curry: 75% of the curry ingredients, unchanged rice; scant quarter-teaspoon is the practical measure for 3/16 tsp. Halal-cart: smaller non-rice components, broth rice, explicit component salt, no-mayo garlic-herb sauce, properly roasted chickpea/carrot side. Three new photo assets, including the side browning guide. Ajiaco and the other twelve recipes are unchanged.
+
+Goal review: `#/goal-review`, with a collapsible breakdown on every dinner and scores on cards. Five equal 0–2 dimensions; documented editorial judgments, not medical or taste-test certification. No patient records or individual prescribed targets are published. Re-run the private goal-review generator after either recipe builder; tests detect stale nutrient inputs. New recipe revision resets only obsolete cooking/shopping ticks for the two changed meals. Notes and bookmarks remain intact.
