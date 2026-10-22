@@ -36,7 +36,7 @@ let store = load();
 function load(){ try{return JSON.parse(localStorage.getItem(KEY))||{}}catch(e){return {}} }
 // 2.2 — Table's save() was unguarded (throws in Safari private mode); wrap + flag on failure
 let storageFailed=false;
-function flagStorageFail(){ if(storageFailed)return; storageFailed=true; try{ const el=document.createElement('div'); el.textContent='Storage failing — back up your notes now.'; el.style.cssText='position:fixed;left:0;right:0;bottom:0;z-index:9999;padding:10px 16px;font-size:12px;text-align:center;background:#241a14;color:#cf6244;border-top:1px solid #cf6244;opacity:.96'; document.body.appendChild(el);}catch(e){} }
+function flagStorageFail(){ if(storageFailed)return; storageFailed=true; try{ const el=document.createElement('div'); el.textContent='Changes could not be saved on this device.'; el.style.cssText='position:fixed;left:0;right:0;bottom:0;z-index:9999;padding:10px 16px;font-size:12px;text-align:center;background:#241a14;color:#cf6244;border-top:1px solid #cf6244;opacity:.96'; document.body.appendChild(el);}catch(e){} }
 function save(){ try{ localStorage.setItem(KEY, JSON.stringify(store)); }catch(e){ flagStorageFail(); } }
 // 2.7 — escape user text before innerHTML (feedback note could contain </textarea>)
 const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -150,7 +150,6 @@ function route(){
   document.body.classList.remove('cook-open');                  // Batch 5 — release body-scroll lock
   const h = location.hash.replace(/^#/,'');
   if(h==='/shop'){ renderShop(); return; }                       // 3.7
-  if(h==='/recipe-review'){renderRecipeReview();return;}
   const m = h.match(/^\/(r|cook)\/(.+)$/);
   if(m){ const rec = DATA.find(x=>x.id===m[2]);
     if(rec){ m[1]==='cook' ? renderCook(rec) : renderDetail(rec); return; } }
@@ -185,7 +184,7 @@ function changeLanguage(lang,render=route,scope=app){
   const header=scope.querySelector(inCook?'.ctop':'.hdr');
   const top=header?.getBoundingClientRect().bottom||0;
   // Anchor to the nearest visible reading item: translated text can wrap differently.
-  const selector='[data-k], .step-bullets li, .visual-step h3, .meal-components h3, .recipe-tabs, .dinner-ingredients > summary, .recipe-basis > summary, .meal-review label, .meal-review h2, .recipe-decision h2, .decision-notes summary, .card, .gname, .cstep';
+  const selector='[data-k], .step-bullets li, .visual-step h3, .meal-components h3, .recipe-tabs, .dinner-ingredients > summary, .card, .gname, .cstep';
   let anchor=null;
   scope.querySelectorAll(selector).forEach((el,index)=>{
     const rect=el.getBoundingClientRect();

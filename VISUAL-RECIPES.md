@@ -20,3 +20,9 @@ Validation: `node --test tests/*.test.cjs` covers the explicit keep/remove set, 
 Curry: 75% of the curry ingredients, unchanged rice; scant quarter-teaspoon is the practical measure for 3/16 tsp. Halal-cart: smaller non-rice components, broth rice, explicit component salt, no-mayo garlic-herb sauce, properly roasted chickpea/carrot side. Three new photo assets, including the side browning guide. Ajiaco and the other twelve recipes are unchanged.
 
 22 October correction: recipe scores and the goal-fit assessment belong in chat only. Removed the public assessment page, card scores and dinner breakdowns. The private assessment generator must not publish data into Table. Recipe quantities, instructions, photos and nutrition remain unchanged. The recipe revision resets only obsolete cooking/shopping ticks for the two changed meals; notes and bookmarks remain intact.
+
+## 22 October: cooking app cleanup
+
+Table displays recipe content, not the planning conversation. Cards show cuisine instead of approval/tasting status. Dinner and Method are the two recipe tabs; the Review tab, notes controls, old-menu review route, revision explanations, component commentary and calculation/source notes are no longer rendered. Cook Mode ends at the dinner. Photo labels are a short AI-illustration disclosure. Nutrition remains an estimate per serving. All ingredient quantities, cooking bullets, food-safety endpoints and nutrient calculations are unchanged. Saved local notes remain stored without being surfaced.
+
+Descriptions and photo captions are maintained through the private `table_product_copy.py` builder pass, so regeneration does not restore revision commentary. Product-copy review: direct dish descriptions; cuisine labels; two clear actions; no request to report back to chat. Verified serving scaling across EN/TL, all five Cook Mode steps and Finish, and no console errors.

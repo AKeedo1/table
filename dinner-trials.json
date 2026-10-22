@@ -10,7 +10,7 @@
       "subtitle": "Broth rice · punchy garlic sauce · crisp roasted side",
       "serves": "1 Serving",
       "macro": "≈610 kcal | 50g P | 57g C | 21g F | 8g fibre",
-      "description": "A smaller halal-cart-style dinner with savoury broth rice, browned spiced chicken, fresh chopped salad and a bright garlic-herb yogurt sauce. A small, properly roasted chickpea-carrot side adds crunch.",
+      "description": "Spiced chicken over savoury broth rice, with finely chopped salad, garlic-herb yogurt sauce and crisp roasted chickpeas and carrots.",
       "ingredients": [
         {
           "group": "Chicken",
@@ -85,7 +85,7 @@
         "Taste one bite of chicken, rice, salad and sauce together before plating. Plate rice with chicken and its juices. Add the fresh tomato and lettuce beside them. Drizzle some sauce; serve the rest alongside. Serve the small crisp side separately."
       ],
       "tl": {
-        "description": "Mas maliit na halal-cart-style dinner: malasang kanin sa sabaw, browned na manok, sariwang chopped salad at garlic-herb yogurt sauce. Maliit na roasted chickpea-carrot side para sa lutong.",
+        "description": "Manok na may spices sa kaning niluto sa broth, kasama ang pinong salad, garlic-herb yogurt sauce at malutong na roasted chickpeas at carrots.",
         "ingredients": [
           {
             "group": "Manok",
@@ -164,8 +164,8 @@
         "subtitle": "Broth rice · punchy garlic sauce · crisp roasted side",
         "hero": {
           "src": "assets/dinners/halal-cart-plate-v3.webp",
-          "alt": "Smaller seasoned chicken and yellow rice plate, fine tomato and lettuce, garlic-herb sauce, and a small browned chickpea-carrot side.",
-          "caption": "Smaller chicken, fresh vegetables and side; broth rice and punchy sauce. Follow the weights."
+          "alt": "Spiced chicken, broth rice, chopped salad and garlic-herb sauce; roasted chickpeas and carrots alongside.",
+          "caption": "Spiced chicken, broth rice, chopped salad and garlic-herb sauce; roasted chickpeas and carrots alongside."
         },
         "nutrients": [
           {
@@ -202,7 +202,7 @@
             }
           },
           {
-            "title": "Roast for real browning",
+            "title": "Roast the chickpeas & carrots",
             "bullets": [
               "Toss chickpeas and carrots with their oil and side salt. Spread in separate areas on a metal tray.",
               "Roast chickpeas for 25–30 minutes; shake halfway. Carrots need about 20–25 minutes; remove when browned.",
@@ -227,7 +227,7 @@
             "cue": ""
           },
           {
-            "title": "Make the sauce punchy",
+            "title": "Mix the garlic-herb sauce",
             "bullets": [
               "Crush sauce garlic with its salt. Whisk in yogurt, oil, lemon, vinegar, sugar, cumin, chilli and parsley.",
               "Add cold water a little at a time, only until pourable. Do not use extra water to increase the volume.",
@@ -259,8 +259,8 @@
             "cue": "",
             "photo": {
               "src": "assets/dinners/halal-cart-plate-v3.webp",
-              "alt": "Smaller seasoned chicken and yellow rice plate, fine tomato and lettuce, garlic-herb sauce, and a small browned chickpea-carrot side.",
-              "caption": "Smaller chicken, fresh vegetables and side; broth rice and punchy sauce. Follow the weights."
+              "alt": "Spiced chicken, broth rice, chopped salad and garlic-herb sauce; roasted chickpeas and carrots alongside.",
+              "caption": "Spiced chicken, broth rice, chopped salad and garlic-herb sauce; roasted chickpeas and carrots alongside."
             }
           }
         ],
@@ -468,8 +468,8 @@
           "subtitle": "Kanin sa sabaw · malasang garlic sauce · crispy roasted side",
           "hero": {
             "src": "assets/dinners/halal-cart-plate-v3.webp",
-            "alt": "Mas maliit na serving; sundin ang nakasulat na timbang.",
-            "caption": "Mas maliit na serving; sundin ang nakasulat na timbang."
+            "alt": "Manok na may spices, kanin sa broth, pinong salad at garlic-herb sauce; roasted chickpeas at carrots sa tabi.",
+            "caption": "Manok na may spices, kanin sa broth, pinong salad at garlic-herb sauce; roasted chickpeas at carrots sa tabi."
           },
           "nutrients": [
             {
@@ -506,7 +506,7 @@
               }
             },
             {
-              "title": "I-roast hanggang browned",
+              "title": "I-roast ang chickpeas at carrots",
               "bullets": [
                 "Ihalo ang chickpeas at carrot sa nakalaang mantika at asin. Ikalat sa magkahiwalay na bahagi ng metal tray.",
                 "I-roast ang chickpeas nang 25–30 minuto; alugin sa kalagitnaan. Mga 20–25 minuto ang carrot; alisin kapag browned na.",
@@ -531,7 +531,7 @@
               "cue": ""
             },
             {
-              "title": "Gawing malasa ang sarsa",
+              "title": "Haluin ang garlic-herb sauce",
               "bullets": [
                 "Durugin ang bawang kasama ang asin para sa sarsa. Ihalo ang yogurt, mantika, lemon, suka, asukal, cumin, chilli at parsley.",
                 "Unti-unting lagyan ng malamig na tubig hanggang maibuhos. Huwag dagdagan ng tubig para lang dumami.",
@@ -563,8 +563,8 @@
               "cue": "",
               "photo": {
                 "src": "assets/dinners/halal-cart-plate-v3.webp",
-                "alt": "Mas maliit na serving; sundin ang nakasulat na timbang.",
-                "caption": "Mas maliit na serving; sundin ang nakasulat na timbang."
+                "alt": "Manok na may spices, kanin sa broth, pinong salad at garlic-herb sauce; roasted chickpeas at carrots sa tabi.",
+                "caption": "Manok na may spices, kanin sa broth, pinong salad at garlic-herb sauce; roasted chickpeas at carrots sa tabi."
               }
             }
           ],
@@ -599,7 +599,7 @@
       "subtitle": "Tomato-ginger gravy · green beans in the curry",
       "serves": "1 Serving",
       "macro": "≈520 kcal | 46g P | 57g C | 12g F | 7g fibre",
-      "description": "The same tomato-ginger curry, with every curry ingredient reduced by a quarter. Rice stays at 40 g dry. Keep the gravy loose.",
+      "description": "Chicken and green beans in a fragrant tomato-ginger curry, finished with yogurt and lemon. Basmati rice alongside.",
       "approved": false,
       "ingredients": [
         {
@@ -645,7 +645,7 @@
         "Turn heat off. Whisk a spoonful of warm gravy into the yogurt. Stir yogurt into the curry with garam masala and lemon. Do not boil. Add coriander. Serve all the curry and sauce with rice alongside."
       ],
       "tl": {
-        "description": "Parehong tomato-ginger curry: binawasan ng isang-kapat ang bawat sangkap ng curry. Pareho pa rin ang 40 g tuyong bigas. Panatilihing malabnaw ang gravy.",
+        "description": "Manok at green beans sa mabangong tomato-ginger curry, tinapos sa yogurt at lemon. May basmati rice sa tabi.",
         "ingredients": [
           {
             "group": "Manok at gulay",
@@ -691,12 +691,12 @@
         ]
       },
       "visual": {
-        "subtitle": "Same tomato-ginger curry · smaller serving",
+        "subtitle": "Tomato-ginger gravy · green beans · basmati rice",
         "time": "40–45",
         "hero": {
           "src": "assets/dinners/curry-plate-v2.webp",
-          "alt": "Keep the rice separate; spoon over as much curry as you like.",
-          "caption": "Smaller curry; same rice portion and loose gravy."
+          "alt": "Saucy chicken and green beans, with basmati rice alongside.",
+          "caption": "Saucy chicken and green beans, with basmati rice alongside."
         },
         "nutrients": [
           {
@@ -775,8 +775,8 @@
             "cue": "",
             "photo": {
               "src": "assets/dinners/curry-plate-v2.webp",
-              "alt": "Keep the rice separate; spoon over as much curry as you like.",
-              "caption": "Smaller curry; same rice portion and loose gravy."
+              "alt": "Saucy chicken and green beans, with basmati rice alongside.",
+              "caption": "Saucy chicken and green beans, with basmati rice alongside."
             }
           }
         ],
@@ -937,11 +937,11 @@
           ]
         },
         "tl": {
-          "subtitle": "Parehong tomato-ginger curry · mas maliit na serving",
+          "subtitle": "Tomato-ginger gravy · green beans · basmati rice",
           "hero": {
             "src": "assets/dinners/curry-plate-v2.webp",
-            "alt": "Hiwalay ang kanin; sandukan ng curry ayon sa gusto.",
-            "caption": "Mas maliit na curry; parehong kanin at malabnaw na gravy."
+            "alt": "Manok at green beans na maraming sarsa, may basmati rice sa tabi.",
+            "caption": "Manok at green beans na maraming sarsa, may basmati rice sa tabi."
           },
           "nutrients": [
             {
@@ -1020,8 +1020,8 @@
               "cue": "",
               "photo": {
                 "src": "assets/dinners/curry-plate-v2.webp",
-                "alt": "Hiwalay ang kanin; sandukan ng curry ayon sa gusto.",
-                "caption": "Mas maliit na curry; parehong kanin at malabnaw na gravy."
+                "alt": "Manok at green beans na maraming sarsa, may basmati rice sa tabi.",
+                "caption": "Manok at green beans na maraming sarsa, may basmati rice sa tabi."
               }
             }
           ],
