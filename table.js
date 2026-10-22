@@ -150,7 +150,6 @@ function route(){
   document.body.classList.remove('cook-open');                  // Batch 5 — release body-scroll lock
   const h = location.hash.replace(/^#/,'');
   if(h==='/shop'){ renderShop(); return; }                       // 3.7
-  if(h==='/goal-review'){renderGoalReview();return;}
   if(h==='/recipe-review'){renderRecipeReview();return;}
   const m = h.match(/^\/(r|cook)\/(.+)$/);
   if(m){ const rec = DATA.find(x=>x.id===m[2]);
@@ -186,7 +185,7 @@ function changeLanguage(lang,render=route,scope=app){
   const header=scope.querySelector(inCook?'.ctop':'.hdr');
   const top=header?.getBoundingClientRect().bottom||0;
   // Anchor to the nearest visible reading item: translated text can wrap differently.
-  const selector='.goal-detail > summary, .goal-body p, .goal-points > div, .goal-method > summary, .goal-method li, .goal-row-heading, .goal-row > p, .goal-row details > summary, .goal-row details > p, [data-k], .step-bullets li, .visual-step h3, .meal-components h3, .recipe-tabs, .dinner-ingredients > summary, .recipe-basis > summary, .meal-review label, .meal-review h2, .recipe-decision h2, .decision-notes summary, .card, .gname, .cstep';
+  const selector='[data-k], .step-bullets li, .visual-step h3, .meal-components h3, .recipe-tabs, .dinner-ingredients > summary, .recipe-basis > summary, .meal-review label, .meal-review h2, .recipe-decision h2, .decision-notes summary, .card, .gname, .cstep';
   let anchor=null;
   scope.querySelectorAll(selector).forEach((el,index)=>{
     const rect=el.getBoundingClientRect();

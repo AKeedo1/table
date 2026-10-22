@@ -5,21 +5,6 @@ const path=require('node:path');
 const vm=require('node:vm');
 const root=path.resolve(__dirname,'..');
 const trials=require('../dinner-trials.json').recipes;
-const all=[...trials,...require('../recipes.json').recipes];
-const context={};vm.createContext(context);
-vm.runInContext(fs.readFileSync(path.join(root,'goal-review-data.js'),'utf8')+';globalThis.review=GOAL_REVIEW;',context);
-test('every dinner has a traceable score tied to the current nutrient calculation',()=>{
- assert.deepEqual(Object.keys(context.review).sort(),all.map(r=>r.id).sort());
- for(const r of all){const a=context.review[r.id];
-  assert.equal(a.points.length,5);assert.ok(a.points.every(p=>Number.isInteger(p)&&p>=0&&p<=2));
-  assert.equal(a.score,a.points.reduce((x,y)=>x+y,0));
-  assert.deepEqual(Array.from(a.totals),r.visual.nutritionCalculation.totals,'stale assessment: '+r.id);
-  assert.ok(a.good&&a.watch&&a.tl.good&&a.tl.watch&&a.status&&a.tl.status);
- }
- assert.equal(context.review['halal-cart-chicken'].points[4],1,'new flavour is untested');
- assert.equal(context.review['ajiaco-chicken'].points[3],2,'soup portion actually worked');
- assert.equal(context.review['win-krapao'].points[1],0,'low fibre must not be hidden');
-});
 test('smaller dinners keep rice, use full sauce accounting, and have matched translated amounts',()=>{
  const h=trials.find(r=>r.id==='halal-cart-chicken'),c=trials.find(r=>r.id==='curry-chicken');
  const qty=(r,key)=>r.visual.nutritionCalculation.rows.filter(x=>x[0]===key).reduce((s,x)=>s+x[1],0);
@@ -37,12 +22,13 @@ test('smaller dinners keep rice, use full sauce accounting, and have matched tra
   assert.equal(r.checkRevision,'tasted-portions-1');
  }
 });
-test('goal review scripts are loaded and precached without publishing private health records',()=>{
- const html=fs.readFileSync(path.join(root,'index.html'),'utf8'),sw=fs.readFileSync(path.join(root,'sw.js'),'utf8');
- for(const file of ['goal-review.js','goal-review-data.js']){assert.ok(html.includes(file));assert.ok(sw.includes(file));}
- const published=fs.readFileSync(path.join(root,'goal-review-data.js'),'utf8')+fs.readFileSync(path.join(root,'goal-review.js'),'utf8');
- assert.ok(!/ApoB|HOMA|GI.MAP|Dana|132 kg|1,900/.test(published));
- assert.ok(published.includes('not a medical score'));assert.ok(published.includes('not a measured sodium'));
+test('recipe app excludes chat-only goal scores',()=>{
+ for(const file of ['index.html','sw.js','navigation.js','visual-recipes.js','table.js']){
+  const source=fs.readFileSync(path.join(root,file),'utf8');
+  assert.ok(!/goal-review|goalBadge|goalDetail|GOAL_REVIEW/.test(source),file);
+ }
+ assert.ok(!fs.existsSync(path.join(root,'goal-review-data.js')));
+ assert.ok(!fs.existsSync(path.join(root,'goal-review.js')));
 });
 test('practical scant-spoon quantities scale in both languages',()=>{
  const source=fs.readFileSync(path.join(root,'table.js'),'utf8');
