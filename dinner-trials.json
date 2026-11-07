@@ -1,5 +1,5 @@
 {
-  "version": "tasted-portions-1",
+  "version": "november-additions-1",
   "recipes": [
     {
       "id": "halal-cart-chicken",
@@ -2453,6 +2453,2663 @@
         "number": "05"
       },
       "portionRevision": "main-meal-portions-1"
+    },
+    {
+      "id": "chicken-stroganoff",
+      "checkRevision": "november-additions-1",
+      "collection": "Recipe collection",
+      "title": "Chicken stroganoff & rice",
+      "subtitle": "Golden mushrooms · creamy mustard sauce · spinach",
+      "category": "Chicken",
+      "cuisine": "European",
+      "serves": "1 Serving",
+      "approved": false,
+      "description": "Golden mushrooms · creamy mustard sauce · spinach.",
+      "macro": "≈580 kcal | 55g P | 52g C | 17g F | 5g fibre",
+      "ingredients": [
+        {
+          "group": "Chicken & vegetables",
+          "items": [
+            "170 g halal chicken breast, raw, cut into bite-sized pieces",
+            "120 g mushrooms, thickly sliced",
+            "40 g onion, finely diced",
+            "70 g spinach, roughly chopped",
+            "5 g garlic, minced"
+          ]
+        },
+        {
+          "group": "Sauce & seasoning",
+          "items": [
+            "4 g olive oil for chicken",
+            "6 g olive oil for mushrooms",
+            "150 ml low-sodium halal chicken stock for sauce",
+            "60 g plain 2% Greek yogurt",
+            "5 g alcohol-free Dijon-style mustard",
+            "4 g cornflour for slurry",
+            "15 ml cold water for cornflour slurry",
+            "1 g sweet paprika",
+            "0.3 g ground black pepper",
+            "0.4 g salt for chicken",
+            "0.4 g salt for sauce",
+            "0.2 g salt for rice"
+          ]
+        },
+        {
+          "group": "Rice",
+          "items": [
+            "40 g basmati rice, dry",
+            "90 ml low-sodium halal chicken stock for rice, or packet ratio"
+          ]
+        }
+      ],
+      "steps": [
+        "Wash vegetables. Slice mushrooms; dice onion and mince garlic. Cut chicken on a separate board. Season with paprika, pepper and its salt.",
+        "Rinse rice. Add its stock and salt; bring to a boil. Cover; simmer on low 10–12 minutes, then rest covered 10 minutes off heat. Follow packet ratio if different.",
+        "Heat the chicken oil in a wide pan. Sear chicken over medium-high heat 3–4 minutes; transfer to a clean plate. Add the mushroom oil and mushrooms. Cook 5–7 minutes until deeply golden, stirring only occasionally. Add onion; soften 3 minutes. Stir in garlic for 30 seconds.",
+        "Add sauce stock, mustard and sauce salt. Scrape up the golden pan juices. Return chicken and juices. Simmer gently 4–6 minutes, until chicken reaches 74°C. Mix cornflour with its cold water. Stir into the pan with spinach; simmer 1–2 minutes until lightly thickened.",
+        "Take pan off heat. Mix a spoonful of sauce into yogurt, then stir yogurt into the pan. Do not boil. Loosen with a splash of hot water if needed. Serve with rice alongside."
+      ],
+      "tl": {
+        "description": "Golden mushrooms · creamy mustard sauce · spinach.",
+        "ingredients": [
+          {
+            "group": "Manok at gulay",
+            "items": [
+              "170 g halal chicken breast, hilaw, hiniwa sa maliliit na piraso",
+              "120 g kabute, hiniwa nang makapal",
+              "40 g sibuyas, pinong diced",
+              "70 g spinach, tinadtad nang malalaki",
+              "5 g bawang, tinadtad"
+            ]
+          },
+          {
+            "group": "Sarsa at pampalasa",
+            "items": [
+              "4 g olive oil para sa manok",
+              "6 g olive oil para sa kabute",
+              "150 ml low-sodium halal chicken stock para sa sarsa",
+              "60 g plain 2% Greek yogurt",
+              "5 g Dijon-style mustard na walang alcohol",
+              "4 g cornflour para sa slurry",
+              "15 ml malamig na tubig para sa cornflour slurry",
+              "1 g sweet paprika",
+              "0.3 g dinurog na paminta",
+              "0.4 g asin para sa manok",
+              "0.4 g asin para sa sarsa",
+              "0.2 g asin para sa kanin"
+            ]
+          },
+          {
+            "group": "Kanin",
+            "items": [
+              "40 g basmati rice, tuyo",
+              "90 ml low-sodium halal chicken stock para sa kanin, o ratio sa pakete"
+            ]
+          }
+        ],
+        "steps": [
+          "Hugasan ang gulay. Hiwain ang kabute; i-dice ang sibuyas at tadtarin ang bawang. Hiwain ang manok sa hiwalay na sangkalan. Timplahan ng paprika, paminta at asin nito.",
+          "Hugasan ang bigas. Idagdag ang stock at asin nito; pakuluan. Takpan; lutuin sa mahinang apoy nang 10–12 minuto, saka ipahinga nang may takip nang 10 minuto. Sundin ang ratio sa pakete kung iba.",
+          "Painitin ang mantika para sa manok sa malapad na kawali. I-sear ang manok sa katamtaman hanggang malakas na apoy nang 3–4 minuto; ilipat sa malinis na plato. Idagdag ang mantika para sa kabute at kabute. Lutuin nang 5–7 minuto hanggang golden; haluin paminsan-minsan. Idagdag ang sibuyas; palambutin nang 3 minuto. Idagdag ang bawang at haluin nang 30 segundo.",
+          "Idagdag ang stock para sa sarsa, mustard at asin. Kaskasin ang golden na latak sa kawali. Ibalik ang manok at katas nito. Pakuluin nang marahan nang 4–6 minuto, hanggang umabot sa 74°C ang manok. Ihalo ang cornflour sa malamig na tubig nito. Idagdag sa kawali kasama ang spinach; pakuluin nang marahan nang 1–2 minuto hanggang bahagyang lumapot.",
+          "Patayin ang apoy. Haluin ang isang kutsarang sarsa sa yogurt, saka ihalo sa kawali. Huwag pakuluan. Dagdagan ng kaunting mainit na tubig kung kailangan. Ihain na may kanin sa tabi."
+        ]
+      },
+      "visual": {
+        "number": "16",
+        "time": "35–40",
+        "subtitle": "Golden mushrooms · creamy mustard sauce · spinach",
+        "hero": {
+          "src": "assets/dinners/chicken-stroganoff-plate-v1.webp",
+          "alt": "Chicken and mushrooms in a loose creamy sauce, rice alongside.",
+          "caption": "Chicken and mushrooms in a loose creamy sauce, rice alongside."
+        },
+        "nutrients": [
+          {
+            "value": "≈580",
+            "label": "kcal"
+          },
+          {
+            "value": "55g",
+            "label": "protein"
+          },
+          {
+            "value": "52g",
+            "label": "carbs"
+          },
+          {
+            "value": "5g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep",
+            "bullets": [
+              "Wash vegetables. Slice mushrooms; dice onion and mince garlic.",
+              "Cut chicken on a separate board. Season with paprika, pepper and its salt."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-stroganoff-prep-v1.webp",
+              "alt": "Thick mushroom slices, fine onion and bite-sized chicken.",
+              "caption": "Thick mushroom slices, fine onion and bite-sized chicken."
+            }
+          },
+          {
+            "title": "Cook the rice",
+            "bullets": [
+              "Rinse rice. Add its stock and salt; bring to a boil.",
+              "Cover; simmer on low 10–12 minutes, then rest covered 10 minutes off heat. Follow packet ratio if different."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Brown chicken & mushrooms",
+            "bullets": [
+              "Heat the chicken oil in a wide pan. Sear chicken over medium-high heat 3–4 minutes; transfer to a clean plate.",
+              "Add the mushroom oil and mushrooms. Cook 5–7 minutes until deeply golden, stirring only occasionally.",
+              "Add onion; soften 3 minutes. Stir in garlic for 30 seconds."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-stroganoff-cook-v1.webp",
+              "alt": "Browned mushroom faces before adding the sauce.",
+              "caption": "Browned mushroom faces before adding the sauce."
+            }
+          },
+          {
+            "title": "Make the sauce",
+            "bullets": [
+              "Add sauce stock, mustard and sauce salt. Scrape up the golden pan juices.",
+              "Return chicken and juices. Simmer gently 4–6 minutes, until chicken reaches 74°C.",
+              "Mix cornflour with its cold water. Stir into the pan with spinach; simmer 1–2 minutes until lightly thickened."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Finish & serve",
+            "bullets": [
+              "Take pan off heat. Mix a spoonful of sauce into yogurt, then stir yogurt into the pan. Do not boil.",
+              "Loosen with a splash of hot water if needed. Serve with rice alongside."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-stroganoff-plate-v1.webp",
+              "alt": "Chicken and mushrooms in a loose creamy sauce, rice alongside.",
+              "caption": "Chicken and mushrooms in a loose creamy sauce, rice alongside."
+            }
+          }
+        ],
+        "components": [],
+        "adjustment": "",
+        "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 17 g. Contains milk and mustard. Brands and cooking yields vary. Not kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per100g: kcal, protein, carbohydrate, fat, fibre. All listed ingredients included; salt/water zero for these five metrics.",
+          "rows": [
+            [
+              "170 g halal chicken breast, raw, cut into bite-sized pieces",
+              170,
+              [
+                120,
+                22.5,
+                0,
+                2.62,
+                0
+              ]
+            ],
+            [
+              "120 g mushrooms, thickly sliced",
+              120,
+              [
+                22,
+                3.09,
+                3.26,
+                0.34,
+                1
+              ]
+            ],
+            [
+              "40 g onion, finely diced",
+              40,
+              [
+                40,
+                1.1,
+                9.34,
+                0.1,
+                1.7
+              ]
+            ],
+            [
+              "70 g spinach, roughly chopped",
+              70,
+              [
+                23,
+                2.86,
+                3.63,
+                0.39,
+                2.2
+              ]
+            ],
+            [
+              "5 g garlic, minced",
+              5,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "4 g olive oil for chicken",
+              4,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "6 g olive oil for mushrooms",
+              6,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "150 ml low-sodium halal chicken stock for sauce",
+              150,
+              [
+                5,
+                0.5,
+                0.3,
+                0.2,
+                0
+              ]
+            ],
+            [
+              "60 g plain 2% Greek yogurt",
+              60,
+              [
+                73,
+                9.95,
+                3.94,
+                1.92,
+                0
+              ]
+            ],
+            [
+              "5 g alcohol-free Dijon-style mustard",
+              5,
+              [
+                66,
+                4.4,
+                5.8,
+                4,
+                3.3
+              ]
+            ],
+            [
+              "4 g cornflour for slurry",
+              4,
+              [
+                381,
+                0.26,
+                91.27,
+                0.05,
+                0.9
+              ]
+            ],
+            [
+              "15 ml cold water for cornflour slurry",
+              15,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "1 g sweet paprika",
+              1,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.3 g ground black pepper",
+              0.3,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.4 g salt for chicken",
+              0.4,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.4 g salt for sauce",
+              0.4,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.2 g salt for rice",
+              0.2,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "40 g basmati rice, dry",
+              40,
+              [
+                365,
+                7.13,
+                80,
+                0.66,
+                1.3
+              ]
+            ],
+            [
+              "90 ml low-sodium halal chicken stock for rice, or packet ratio",
+              90,
+              [
+                5,
+                0.5,
+                0.3,
+                0.2,
+                0
+              ]
+            ]
+          ],
+          "totals": [
+            582.59,
+            55.1264,
+            51.516799999999996,
+            17.454,
+            4.636
+          ]
+        },
+        "tl": {
+          "subtitle": "Golden mushrooms · creamy mustard sauce · spinach",
+          "hero": {
+            "src": "assets/dinners/chicken-stroganoff-plate-v1.webp",
+            "alt": "Manok at kabute sa creamy na sarsa, may kanin sa tabi.",
+            "caption": "Manok at kabute sa creamy na sarsa, may kanin sa tabi."
+          },
+          "nutrients": [
+            {
+              "value": "≈580",
+              "label": "kcal"
+            },
+            {
+              "value": "55g",
+              "label": "protein"
+            },
+            {
+              "value": "52g",
+              "label": "carbs"
+            },
+            {
+              "value": "5g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda",
+              "bullets": [
+                "Hugasan ang gulay. Hiwain ang kabute; i-dice ang sibuyas at tadtarin ang bawang.",
+                "Hiwain ang manok sa hiwalay na sangkalan. Timplahan ng paprika, paminta at asin nito."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-stroganoff-prep-v1.webp",
+                "alt": "Makakapal na hiwa ng kabute, pinong sibuyas at maliliit na piraso ng manok.",
+                "caption": "Makakapal na hiwa ng kabute, pinong sibuyas at maliliit na piraso ng manok."
+              }
+            },
+            {
+              "title": "Lutuin ang kanin",
+              "bullets": [
+                "Hugasan ang bigas. Idagdag ang stock at asin nito; pakuluan.",
+                "Takpan; lutuin sa mahinang apoy nang 10–12 minuto, saka ipahinga nang may takip nang 10 minuto. Sundin ang ratio sa pakete kung iba."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Papulahin ang manok at kabute",
+              "bullets": [
+                "Painitin ang mantika para sa manok sa malapad na kawali. I-sear ang manok sa katamtaman hanggang malakas na apoy nang 3–4 minuto; ilipat sa malinis na plato.",
+                "Idagdag ang mantika para sa kabute at kabute. Lutuin nang 5–7 minuto hanggang golden; haluin paminsan-minsan.",
+                "Idagdag ang sibuyas; palambutin nang 3 minuto. Idagdag ang bawang at haluin nang 30 segundo."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-stroganoff-cook-v1.webp",
+                "alt": "Golden na ibabaw ng kabute bago idagdag ang sarsa.",
+                "caption": "Golden na ibabaw ng kabute bago idagdag ang sarsa."
+              }
+            },
+            {
+              "title": "Gawin ang sarsa",
+              "bullets": [
+                "Idagdag ang stock para sa sarsa, mustard at asin. Kaskasin ang golden na latak sa kawali.",
+                "Ibalik ang manok at katas nito. Pakuluin nang marahan nang 4–6 minuto, hanggang umabot sa 74°C ang manok.",
+                "Ihalo ang cornflour sa malamig na tubig nito. Idagdag sa kawali kasama ang spinach; pakuluin nang marahan nang 1–2 minuto hanggang bahagyang lumapot."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Tapusin at ihain",
+              "bullets": [
+                "Patayin ang apoy. Haluin ang isang kutsarang sarsa sa yogurt, saka ihalo sa kawali. Huwag pakuluan.",
+                "Dagdagan ng kaunting mainit na tubig kung kailangan. Ihain na may kanin sa tabi."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-stroganoff-plate-v1.webp",
+                "alt": "Manok at kabute sa creamy na sarsa, may kanin sa tabi.",
+                "caption": "Manok at kabute sa creamy na sarsa, may kanin sa tabi."
+              }
+            }
+          ],
+          "components": [],
+          "adjustment": "",
+          "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 17 g. Contains milk and mustard. Brands and cooking yields vary. Not kitchen-tested."
+        }
+      }
+    },
+    {
+      "id": "musakhan-chicken-bowl",
+      "checkRevision": "november-additions-1",
+      "collection": "Recipe collection",
+      "title": "Musakhan chicken bowl & tabbouleh",
+      "subtitle": "Sumac chicken · lemon-tahini sauce · separate fresh tabbouleh",
+      "category": "Chicken",
+      "cuisine": "Palestinian-inspired",
+      "serves": "1 Serving",
+      "approved": false,
+      "description": "Sumac chicken · lemon-tahini sauce · separate fresh tabbouleh.",
+      "macro": "≈610 kcal | 49g P | 60g C | 21g F | 9g fibre",
+      "ingredients": [
+        {
+          "group": "Sumac chicken & rice",
+          "items": [
+            "170 g halal chicken breast, raw, bite-sized pieces",
+            "60 g onion, thin half-moons",
+            "35 g basmati rice, dry",
+            "80 ml low-sodium halal chicken stock, or rice packet ratio",
+            "3 g olive oil for chicken",
+            "3 g olive oil for onion",
+            "2 g olive oil for tabbouleh",
+            "2 g sumac for chicken",
+            "1 g sumac for onion",
+            "0.5 g ground allspice",
+            "0.3 g black pepper",
+            "0.4 g salt for chicken",
+            "0.2 g salt for onion",
+            "0.1 g salt for rice",
+            "0.15 g salt for sauce",
+            "0.15 g salt for tabbouleh"
+          ]
+        },
+        {
+          "group": "Lemon-tahini sauce",
+          "items": [
+            "12 g tahini",
+            "3 g garlic, finely grated",
+            "15 g lemon juice for sauce",
+            "25 ml cold water, plus a splash to loosen"
+          ]
+        },
+        {
+          "group": "Tabbouleh — serve separately",
+          "items": [
+            "15 g fine bulgur, dry",
+            "30 ml boiling water for bulgur, or packet ratio",
+            "40 g flat-leaf parsley leaves and tender stems, finely chopped",
+            "5 g mint leaves, finely chopped",
+            "80 g tomato, finely diced",
+            "40 g cucumber, finely diced",
+            "15 g lemon juice for tabbouleh"
+          ]
+        }
+      ],
+      "steps": [
+        "Wash and dry herbs and vegetables. Finely chop tabbouleh ingredients; slice onion thinly. On a separate board, cut chicken into bite-sized pieces. Toss with the chicken oil and sumac, allspice, pepper and chicken salt.",
+        "Rinse rice. Add stock and rice salt; cover and simmer on low 10–12 minutes. Rest covered 10 minutes off heat. Cover fine bulgur with boiling water for 15 minutes, or follow packet directions. Drain any excess; cool.",
+        "Heat a wide pan over medium-high. Sear chicken 6–8 minutes, turning, until golden and 74°C inside. Transfer to a clean plate. Lower heat. Add the onion oil, onion and onion salt; soften 8–10 minutes. Add a splash of water if catching. Stir in onion sumac and chicken; warm through.",
+        "Whisk tahini, garlic, sauce lemon juice, sauce salt and cold water until pourable. Toss cooled bulgur with parsley, mint, tomato and cucumber. Add tabbouleh lemon juice, tabbouleh oil and its salt.",
+        "Spoon rice into a bowl. Add chicken and onions; drizzle with tahini sauce. Serve parsley-forward tabbouleh in a separate small bowl."
+      ],
+      "tl": {
+        "description": "Sumac chicken · lemon-tahini sauce · hiwalay na sariwang tabbouleh.",
+        "ingredients": [
+          {
+            "group": "Sumac chicken at kanin",
+            "items": [
+              "170 g halal chicken breast, hilaw, maliliit na piraso",
+              "60 g sibuyas, manipis na kalahating bilog",
+              "35 g basmati rice, tuyo",
+              "80 ml low-sodium halal chicken stock, o ratio sa pakete ng bigas",
+              "3 g olive oil para sa manok",
+              "3 g olive oil para sa sibuyas",
+              "2 g olive oil para sa tabbouleh",
+              "2 g sumac para sa manok",
+              "1 g sumac para sa sibuyas",
+              "0.5 g ground allspice",
+              "0.3 g paminta",
+              "0.4 g asin para sa manok",
+              "0.2 g asin para sa sibuyas",
+              "0.1 g asin para sa kanin",
+              "0.15 g asin para sa sarsa",
+              "0.15 g asin para sa tabbouleh"
+            ]
+          },
+          {
+            "group": "Lemon-tahini sauce",
+            "items": [
+              "12 g tahini",
+              "3 g bawang, pinong ginadgad",
+              "15 g lemon juice para sa sarsa",
+              "25 ml malamig na tubig, dagdagan kung kailangan"
+            ]
+          },
+          {
+            "group": "Tabbouleh — ihain nang hiwalay",
+            "items": [
+              "15 g pinong bulgur, tuyo",
+              "30 ml kumukulong tubig para sa bulgur, o ratio sa pakete",
+              "40 g flat-leaf parsley at malalambot na tangkay, pinong tinadtad",
+              "5 g dahon ng mint, pinong tinadtad",
+              "80 g kamatis, pinong diced",
+              "40 g pipino, pinong diced",
+              "15 g lemon juice para sa tabbouleh"
+            ]
+          }
+        ],
+        "steps": [
+          "Hugasan at patuyuin ang herbs at gulay. Pinong tadtarin ang sangkap ng tabbouleh; hiwain nang manipis ang sibuyas. Sa hiwalay na sangkalan, hiwain ang manok sa maliliit na piraso. Ihalo ang mantika at sumac para sa manok, allspice, paminta at asin para sa manok.",
+          "Hugasan ang bigas. Idagdag ang stock at asin para sa kanin; takpan at lutuin sa mahinang apoy nang 10–12 minuto. Ipahinga nang may takip nang 10 minuto. Ibabad ang pinong bulgur sa kumukulong tubig nang 15 minuto, o sundin ang pakete. Salain ang sobrang tubig; palamigin.",
+          "Painitin ang malapad na kawali sa katamtaman hanggang malakas na apoy. I-sear ang manok nang 6–8 minuto, binabaligtad, hanggang golden at 74°C sa loob. Ilipat sa malinis na plato. Hinaan ang apoy. Idagdag ang mantika para sa sibuyas, sibuyas at asin nito; palambutin nang 8–10 minuto. Dagdagan ng kaunting tubig kung dumidikit. Idagdag ang sumac para sa sibuyas at manok; painitin nang mabuti.",
+          "Haluin ang tahini, bawang, lemon juice at asin para sa sarsa at malamig na tubig hanggang madaling ibuhos. Ihalo ang malamig na bulgur sa parsley, mint, kamatis at pipino. Idagdag ang lemon juice para sa tabbouleh, mantika para sa tabbouleh at asin nito.",
+          "Ilagay ang kanin sa mangkok. Idagdag ang manok at sibuyas; lagyan ng tahini sauce. Ihain ang tabbouleh na maraming parsley sa hiwalay na maliit na mangkok."
+        ]
+      },
+      "visual": {
+        "number": "17",
+        "time": "35–40",
+        "subtitle": "Sumac chicken · lemon-tahini sauce · separate fresh tabbouleh",
+        "hero": {
+          "src": "assets/dinners/musakhan-chicken-bowl-plate-v1.webp",
+          "alt": "Sumac chicken and rice with tahini sauce; tabbouleh in a separate bowl.",
+          "caption": "Sumac chicken and rice with tahini sauce; tabbouleh in a separate bowl."
+        },
+        "nutrients": [
+          {
+            "value": "≈610",
+            "label": "kcal"
+          },
+          {
+            "value": "49g",
+            "label": "protein"
+          },
+          {
+            "value": "60g",
+            "label": "carbs"
+          },
+          {
+            "value": "9g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep",
+            "bullets": [
+              "Wash and dry herbs and vegetables. Finely chop tabbouleh ingredients; slice onion thinly.",
+              "On a separate board, cut chicken into bite-sized pieces. Toss with the chicken oil and sumac, allspice, pepper and chicken salt."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/musakhan-chicken-bowl-prep-v1.webp",
+              "alt": "Fine herbs and diced salad vegetables; a modest portion of sliced onion.",
+              "caption": "Fine herbs and diced salad vegetables; a modest portion of sliced onion."
+            }
+          },
+          {
+            "title": "Start rice & bulgur",
+            "bullets": [
+              "Rinse rice. Add stock and rice salt; cover and simmer on low 10–12 minutes. Rest covered 10 minutes off heat.",
+              "Cover fine bulgur with boiling water for 15 minutes, or follow packet directions. Drain any excess; cool."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Cook chicken & onions",
+            "bullets": [
+              "Heat a wide pan over medium-high. Sear chicken 6–8 minutes, turning, until golden and 74°C inside. Transfer to a clean plate.",
+              "Lower heat. Add the onion oil, onion and onion salt; soften 8–10 minutes. Add a splash of water if catching.",
+              "Stir in onion sumac and chicken; warm through."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/musakhan-chicken-bowl-cook-v1.webp",
+              "alt": "Golden sumac chicken with soft onions lightly coating the pieces.",
+              "caption": "Golden sumac chicken with soft onions lightly coating the pieces."
+            }
+          },
+          {
+            "title": "Mix sauce & tabbouleh",
+            "bullets": [
+              "Whisk tahini, garlic, sauce lemon juice, sauce salt and cold water until pourable.",
+              "Toss cooled bulgur with parsley, mint, tomato and cucumber. Add tabbouleh lemon juice, tabbouleh oil and its salt."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Serve",
+            "bullets": [
+              "Spoon rice into a bowl. Add chicken and onions; drizzle with tahini sauce.",
+              "Serve parsley-forward tabbouleh in a separate small bowl."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/musakhan-chicken-bowl-plate-v1.webp",
+              "alt": "Sumac chicken and rice with tahini sauce; tabbouleh in a separate bowl.",
+              "caption": "Sumac chicken and rice with tahini sauce; tabbouleh in a separate bowl."
+            }
+          }
+        ],
+        "components": [],
+        "adjustment": "",
+        "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 21 g. Contains sesame and wheat (bulgur). Brands and cooking yields vary. Not kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per100g: kcal, protein, carbohydrate, fat, fibre. All listed ingredients included; salt/water zero for these five metrics.",
+          "rows": [
+            [
+              "170 g halal chicken breast, raw, bite-sized pieces",
+              170,
+              [
+                120,
+                22.5,
+                0,
+                2.62,
+                0
+              ]
+            ],
+            [
+              "60 g onion, thin half-moons",
+              60,
+              [
+                40,
+                1.1,
+                9.34,
+                0.1,
+                1.7
+              ]
+            ],
+            [
+              "35 g basmati rice, dry",
+              35,
+              [
+                365,
+                7.13,
+                80,
+                0.66,
+                1.3
+              ]
+            ],
+            [
+              "80 ml low-sodium halal chicken stock, or rice packet ratio",
+              80,
+              [
+                5,
+                0.5,
+                0.3,
+                0.2,
+                0
+              ]
+            ],
+            [
+              "3 g olive oil for chicken",
+              3,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "3 g olive oil for onion",
+              3,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "2 g olive oil for tabbouleh",
+              2,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "2 g sumac for chicken",
+              2,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "1 g sumac for onion",
+              1,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.5 g ground allspice",
+              0.5,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.3 g black pepper",
+              0.3,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.4 g salt for chicken",
+              0.4,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.2 g salt for onion",
+              0.2,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.1 g salt for rice",
+              0.1,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.15 g salt for sauce",
+              0.15,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.15 g salt for tabbouleh",
+              0.15,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "12 g tahini",
+              12,
+              [
+                595,
+                17,
+                21.2,
+                53.8,
+                9.3
+              ]
+            ],
+            [
+              "3 g garlic, finely grated",
+              3,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "15 g lemon juice for sauce",
+              15,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ],
+            [
+              "25 ml cold water, plus a splash to loosen",
+              25,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "15 g fine bulgur, dry",
+              15,
+              [
+                342,
+                12.29,
+                75.87,
+                1.33,
+                18.3
+              ]
+            ],
+            [
+              "30 ml boiling water for bulgur, or packet ratio",
+              30,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "40 g flat-leaf parsley leaves and tender stems, finely chopped",
+              40,
+              [
+                36,
+                2.97,
+                6.33,
+                0.79,
+                3.3
+              ]
+            ],
+            [
+              "5 g mint leaves, finely chopped",
+              5,
+              [
+                44,
+                3.29,
+                8.41,
+                0.73,
+                6.8
+              ]
+            ],
+            [
+              "80 g tomato, finely diced",
+              80,
+              [
+                18,
+                0.88,
+                3.89,
+                0.2,
+                1.2
+              ]
+            ],
+            [
+              "40 g cucumber, finely diced",
+              40,
+              [
+                15,
+                0.65,
+                3.63,
+                0.11,
+                0.5
+              ]
+            ],
+            [
+              "15 g lemon juice for tabbouleh",
+              15,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ]
+          ],
+          "totals": [
+            612.64,
+            48.7573,
+            60.2468,
+            20.66,
+            9.449
+          ]
+        },
+        "tl": {
+          "subtitle": "Sumac chicken · lemon-tahini sauce · hiwalay na sariwang tabbouleh",
+          "hero": {
+            "src": "assets/dinners/musakhan-chicken-bowl-plate-v1.webp",
+            "alt": "Sumac chicken at kanin na may tahini sauce; tabbouleh sa hiwalay na mangkok.",
+            "caption": "Sumac chicken at kanin na may tahini sauce; tabbouleh sa hiwalay na mangkok."
+          },
+          "nutrients": [
+            {
+              "value": "≈610",
+              "label": "kcal"
+            },
+            {
+              "value": "49g",
+              "label": "protein"
+            },
+            {
+              "value": "60g",
+              "label": "carbs"
+            },
+            {
+              "value": "9g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda",
+              "bullets": [
+                "Hugasan at patuyuin ang herbs at gulay. Pinong tadtarin ang sangkap ng tabbouleh; hiwain nang manipis ang sibuyas.",
+                "Sa hiwalay na sangkalan, hiwain ang manok sa maliliit na piraso. Ihalo ang mantika at sumac para sa manok, allspice, paminta at asin para sa manok."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/musakhan-chicken-bowl-prep-v1.webp",
+                "alt": "Pinong herbs at diced na gulay; katamtamang dami ng hiniwang sibuyas.",
+                "caption": "Pinong herbs at diced na gulay; katamtamang dami ng hiniwang sibuyas."
+              }
+            },
+            {
+              "title": "Isalang ang kanin at bulgur",
+              "bullets": [
+                "Hugasan ang bigas. Idagdag ang stock at asin para sa kanin; takpan at lutuin sa mahinang apoy nang 10–12 minuto. Ipahinga nang may takip nang 10 minuto.",
+                "Ibabad ang pinong bulgur sa kumukulong tubig nang 15 minuto, o sundin ang pakete. Salain ang sobrang tubig; palamigin."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Lutuin ang manok at sibuyas",
+              "bullets": [
+                "Painitin ang malapad na kawali sa katamtaman hanggang malakas na apoy. I-sear ang manok nang 6–8 minuto, binabaligtad, hanggang golden at 74°C sa loob. Ilipat sa malinis na plato.",
+                "Hinaan ang apoy. Idagdag ang mantika para sa sibuyas, sibuyas at asin nito; palambutin nang 8–10 minuto. Dagdagan ng kaunting tubig kung dumidikit.",
+                "Idagdag ang sumac para sa sibuyas at manok; painitin nang mabuti."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/musakhan-chicken-bowl-cook-v1.webp",
+                "alt": "Golden na sumac chicken na may katamtamang dami ng malambot na sibuyas.",
+                "caption": "Golden na sumac chicken na may katamtamang dami ng malambot na sibuyas."
+              }
+            },
+            {
+              "title": "Gawin ang sarsa at tabbouleh",
+              "bullets": [
+                "Haluin ang tahini, bawang, lemon juice at asin para sa sarsa at malamig na tubig hanggang madaling ibuhos.",
+                "Ihalo ang malamig na bulgur sa parsley, mint, kamatis at pipino. Idagdag ang lemon juice para sa tabbouleh, mantika para sa tabbouleh at asin nito."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Ihain",
+              "bullets": [
+                "Ilagay ang kanin sa mangkok. Idagdag ang manok at sibuyas; lagyan ng tahini sauce.",
+                "Ihain ang tabbouleh na maraming parsley sa hiwalay na maliit na mangkok."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/musakhan-chicken-bowl-plate-v1.webp",
+                "alt": "Sumac chicken at kanin na may tahini sauce; tabbouleh sa hiwalay na mangkok.",
+                "caption": "Sumac chicken at kanin na may tahini sauce; tabbouleh sa hiwalay na mangkok."
+              }
+            }
+          ],
+          "components": [],
+          "adjustment": "",
+          "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 21 g. Contains sesame and wheat (bulgur). Brands and cooking yields vary. Not kitchen-tested."
+        }
+      }
+    },
+    {
+      "id": "chicken-tortilla-soup",
+      "checkRevision": "november-additions-1",
+      "collection": "Recipe collection",
+      "title": "Chicken tortilla soup",
+      "subtitle": "Tomato-chilli broth · black beans · avocado · crisp corn tortilla",
+      "category": "Chicken",
+      "cuisine": "Mexican-inspired",
+      "serves": "1 Serving",
+      "approved": false,
+      "description": "Tomato-chilli broth · black beans · avocado · crisp corn tortilla.",
+      "macro": "≈600 kcal | 52g P | 55g C | 20g F | 15g fibre",
+      "ingredients": [
+        {
+          "group": "Soup",
+          "items": [
+            "170 g halal chicken breast, raw, whole piece",
+            "150 g ripe tomatoes, finely chopped",
+            "40 g onion, finely diced",
+            "5 g garlic, minced",
+            "70 g cooked black beans, drained and rinsed",
+            "50 g sweetcorn kernels",
+            "300 ml low-sodium halal chicken stock",
+            "5 g olive oil for soup",
+            "2 g olive oil for tortilla",
+            "1 g ground cumin",
+            "1 g smoked paprika",
+            "0.3 g mild chilli powder",
+            "0.3 g dried oregano",
+            "0.7 g salt for soup",
+            "0.1 g salt for tortilla"
+          ]
+        },
+        {
+          "group": "Toppings",
+          "items": [
+            "25 g corn tortilla, cut into small triangles",
+            "40 g avocado flesh, diced",
+            "15 g lime juice",
+            "5 g coriander leaves, chopped"
+          ]
+        }
+      ],
+      "steps": [
+        "Heat oven to 200°C conventional / 180°C fan. Wash vegetables and herbs. Dice onion and tomato; mince garlic. Cut tortilla into small triangles. Keep raw chicken separate.",
+        "Toss tortilla pieces with tortilla oil and tortilla salt; spread on a tray. Bake 7–10 minutes, turning once, until crisp and golden. Watch closely near the end.",
+        "Heat soup oil in a saucepan. Soften onion 5 minutes. Add garlic, cumin, paprika, chilli and oregano; stir 30 seconds. Add tomato and soup salt; cook 5 minutes until jammy. Pour in stock.",
+        "Add chicken; keep at a gentle simmer, partly covered, 12–18 minutes until the centre reaches 74°C. Lift chicken onto a clean board; shred with two forks. Return with beans and corn; simmer 3 minutes. Add a splash of water if needed to keep the soup brothy.",
+        "Turn off heat; stir in lime juice and coriander. Ladle into a bowl. Add diced avocado; serve crisp tortilla pieces alongside to add as you eat."
+      ],
+      "tl": {
+        "description": "Tomato-chilli broth · black beans · avocado · malutong na corn tortilla.",
+        "ingredients": [
+          {
+            "group": "Sopas",
+            "items": [
+              "170 g halal chicken breast, hilaw, buong piraso",
+              "150 g hinog na kamatis, pinong tinadtad",
+              "40 g sibuyas, pinong diced",
+              "5 g bawang, tinadtad",
+              "70 g lutong black beans, pinatulo at binanlawan",
+              "50 g butil ng mais",
+              "300 ml low-sodium halal chicken stock",
+              "5 g olive oil para sa sopas",
+              "2 g olive oil para sa tortilla",
+              "1 g ground cumin",
+              "1 g smoked paprika",
+              "0.3 g mild chilli powder",
+              "0.3 g dried oregano",
+              "0.7 g asin para sa sopas",
+              "0.1 g asin para sa tortilla"
+            ]
+          },
+          {
+            "group": "Pang-ibabaw",
+            "items": [
+              "25 g corn tortilla, hiniwa sa maliliit na tatsulok",
+              "40 g laman ng avocado, diced",
+              "15 g katas ng dayap",
+              "5 g dahon ng coriander, tinadtad"
+            ]
+          }
+        ],
+        "steps": [
+          "Painitin ang oven sa 200°C conventional / 180°C fan. Hugasan ang gulay at herbs. I-dice ang sibuyas at kamatis; tadtarin ang bawang. Hiwain ang tortilla sa maliliit na tatsulok. Ihiwalay ang hilaw na manok.",
+          "Ihalo ang mga piraso ng tortilla sa mantika para sa tortilla at asin nito; ikalat sa tray. I-bake nang 7–10 minuto, baligtarin minsan, hanggang malutong at golden. Bantayan sa huling minuto.",
+          "Painitin ang mantika para sa sopas sa kaserola. Palambutin ang sibuyas nang 5 minuto. Idagdag ang bawang, cumin, paprika, chilli at oregano; haluin nang 30 segundo. Idagdag ang kamatis at asin para sa sopas; lutuin nang 5 minuto hanggang lumapot. Ibuhos ang stock.",
+          "Idagdag ang manok; pakuluin nang marahan, bahagyang may takip, nang 12–18 minuto hanggang 74°C ang gitna. Ilipat ang manok sa malinis na sangkalan; himayin gamit ang dalawang tinidor. Ibalik kasama ang beans at mais; pakuluin nang marahan nang 3 minuto. Dagdagan ng kaunting tubig kung kailangan upang manatiling masabaw.",
+          "Patayin ang apoy; ihalo ang katas ng dayap at coriander. Isalin sa mangkok. Lagyan ng diced na avocado; ihain sa tabi ang malutong na tortilla para idagdag habang kumakain."
+        ]
+      },
+      "visual": {
+        "number": "18",
+        "time": "35–40",
+        "subtitle": "Tomato-chilli broth · black beans · avocado · crisp corn tortilla",
+        "hero": {
+          "src": "assets/dinners/chicken-tortilla-soup-plate-v1.webp",
+          "alt": "Tomato broth with chicken, beans and avocado; crisp tortilla pieces on the side.",
+          "caption": "Tomato broth with chicken, beans and avocado; crisp tortilla pieces on the side."
+        },
+        "nutrients": [
+          {
+            "value": "≈600",
+            "label": "kcal"
+          },
+          {
+            "value": "52g",
+            "label": "protein"
+          },
+          {
+            "value": "55g",
+            "label": "carbs"
+          },
+          {
+            "value": "15g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep & heat oven",
+            "bullets": [
+              "Heat oven to 200°C conventional / 180°C fan. Wash vegetables and herbs.",
+              "Dice onion and tomato; mince garlic. Cut tortilla into small triangles. Keep raw chicken separate."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-tortilla-soup-prep-v1.webp",
+              "alt": "Fine tomato and onion, rinsed beans and small corn-tortilla triangles.",
+              "caption": "Fine tomato and onion, rinsed beans and small corn-tortilla triangles."
+            }
+          },
+          {
+            "title": "Crisp the tortilla",
+            "bullets": [
+              "Toss tortilla pieces with tortilla oil and tortilla salt; spread on a tray.",
+              "Bake 7–10 minutes, turning once, until crisp and golden. Watch closely near the end."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Build the broth",
+            "bullets": [
+              "Heat soup oil in a saucepan. Soften onion 5 minutes. Add garlic, cumin, paprika, chilli and oregano; stir 30 seconds.",
+              "Add tomato and soup salt; cook 5 minutes until jammy. Pour in stock."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Poach & shred chicken",
+            "bullets": [
+              "Add chicken; keep at a gentle simmer, partly covered, 12–18 minutes until the centre reaches 74°C.",
+              "Lift chicken onto a clean board; shred with two forks. Return with beans and corn; simmer 3 minutes.",
+              "Add a splash of water if needed to keep the soup brothy."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-tortilla-soup-cook-v1.webp",
+              "alt": "Shredded chicken, black beans and corn in a loose red tomato broth.",
+              "caption": "Shredded chicken, black beans and corn in a loose red tomato broth."
+            }
+          },
+          {
+            "title": "Finish & serve",
+            "bullets": [
+              "Turn off heat; stir in lime juice and coriander.",
+              "Ladle into a bowl. Add diced avocado; serve crisp tortilla pieces alongside to add as you eat."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-tortilla-soup-plate-v1.webp",
+              "alt": "Tomato broth with chicken, beans and avocado; crisp tortilla pieces on the side.",
+              "caption": "Tomato broth with chicken, beans and avocado; crisp tortilla pieces on the side."
+            }
+          }
+        ],
+        "components": [],
+        "adjustment": "",
+        "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 20 g. Contains check stock and tortilla labels for allergens. Brands and cooking yields vary. Not kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per100g: kcal, protein, carbohydrate, fat, fibre. All listed ingredients included; salt/water zero for these five metrics.",
+          "rows": [
+            [
+              "170 g halal chicken breast, raw, whole piece",
+              170,
+              [
+                120,
+                22.5,
+                0,
+                2.62,
+                0
+              ]
+            ],
+            [
+              "150 g ripe tomatoes, finely chopped",
+              150,
+              [
+                18,
+                0.88,
+                3.89,
+                0.2,
+                1.2
+              ]
+            ],
+            [
+              "40 g onion, finely diced",
+              40,
+              [
+                40,
+                1.1,
+                9.34,
+                0.1,
+                1.7
+              ]
+            ],
+            [
+              "5 g garlic, minced",
+              5,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "70 g cooked black beans, drained and rinsed",
+              70,
+              [
+                132,
+                8.86,
+                23.71,
+                0.54,
+                8.7
+              ]
+            ],
+            [
+              "50 g sweetcorn kernels",
+              50,
+              [
+                86,
+                3.27,
+                18.7,
+                1.35,
+                2
+              ]
+            ],
+            [
+              "300 ml low-sodium halal chicken stock",
+              300,
+              [
+                5,
+                0.5,
+                0.3,
+                0.2,
+                0
+              ]
+            ],
+            [
+              "5 g olive oil for soup",
+              5,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "2 g olive oil for tortilla",
+              2,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "1 g ground cumin",
+              1,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "1 g smoked paprika",
+              1,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.3 g mild chilli powder",
+              0.3,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.3 g dried oregano",
+              0.3,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.7 g salt for soup",
+              0.7,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.1 g salt for tortilla",
+              0.1,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "25 g corn tortilla, cut into small triangles",
+              25,
+              [
+                218,
+                5.7,
+                44.6,
+                2.85,
+                6.3
+              ]
+            ],
+            [
+              "40 g avocado flesh, diced",
+              40,
+              [
+                160,
+                2,
+                8.53,
+                14.66,
+                6.7
+              ]
+            ],
+            [
+              "15 g lime juice",
+              15,
+              [
+                25,
+                0.42,
+                8.42,
+                0.07,
+                0.4
+              ]
+            ],
+            [
+              "5 g coriander leaves, chopped",
+              5,
+              [
+                23,
+                2.13,
+                3.67,
+                0.52,
+                2.8
+              ]
+            ]
+          ],
+          "totals": [
+            597.9300000000001,
+            52.3715,
+            55.3795,
+            20.397000000000002,
+            14.91
+          ]
+        },
+        "tl": {
+          "subtitle": "Tomato-chilli broth · black beans · avocado · malutong na corn tortilla",
+          "hero": {
+            "src": "assets/dinners/chicken-tortilla-soup-plate-v1.webp",
+            "alt": "Sabaw ng kamatis na may manok, beans at avocado; malutong na tortilla sa tabi.",
+            "caption": "Sabaw ng kamatis na may manok, beans at avocado; malutong na tortilla sa tabi."
+          },
+          "nutrients": [
+            {
+              "value": "≈600",
+              "label": "kcal"
+            },
+            {
+              "value": "52g",
+              "label": "protein"
+            },
+            {
+              "value": "55g",
+              "label": "carbs"
+            },
+            {
+              "value": "15g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda at painitin ang oven",
+              "bullets": [
+                "Painitin ang oven sa 200°C conventional / 180°C fan. Hugasan ang gulay at herbs.",
+                "I-dice ang sibuyas at kamatis; tadtarin ang bawang. Hiwain ang tortilla sa maliliit na tatsulok. Ihiwalay ang hilaw na manok."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-tortilla-soup-prep-v1.webp",
+                "alt": "Pinong kamatis at sibuyas, binanlawang beans at maliliit na tatsulok ng corn tortilla.",
+                "caption": "Pinong kamatis at sibuyas, binanlawang beans at maliliit na tatsulok ng corn tortilla."
+              }
+            },
+            {
+              "title": "Palutungin ang tortilla",
+              "bullets": [
+                "Ihalo ang mga piraso ng tortilla sa mantika para sa tortilla at asin nito; ikalat sa tray.",
+                "I-bake nang 7–10 minuto, baligtarin minsan, hanggang malutong at golden. Bantayan sa huling minuto."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Gawin ang sabaw",
+              "bullets": [
+                "Painitin ang mantika para sa sopas sa kaserola. Palambutin ang sibuyas nang 5 minuto. Idagdag ang bawang, cumin, paprika, chilli at oregano; haluin nang 30 segundo.",
+                "Idagdag ang kamatis at asin para sa sopas; lutuin nang 5 minuto hanggang lumapot. Ibuhos ang stock."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Lutuin at himayin ang manok",
+              "bullets": [
+                "Idagdag ang manok; pakuluin nang marahan, bahagyang may takip, nang 12–18 minuto hanggang 74°C ang gitna.",
+                "Ilipat ang manok sa malinis na sangkalan; himayin gamit ang dalawang tinidor. Ibalik kasama ang beans at mais; pakuluin nang marahan nang 3 minuto.",
+                "Dagdagan ng kaunting tubig kung kailangan upang manatiling masabaw."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-tortilla-soup-cook-v1.webp",
+                "alt": "Hinimay na manok, black beans at mais sa malabnaw na pulang sabaw ng kamatis.",
+                "caption": "Hinimay na manok, black beans at mais sa malabnaw na pulang sabaw ng kamatis."
+              }
+            },
+            {
+              "title": "Tapusin at ihain",
+              "bullets": [
+                "Patayin ang apoy; ihalo ang katas ng dayap at coriander.",
+                "Isalin sa mangkok. Lagyan ng diced na avocado; ihain sa tabi ang malutong na tortilla para idagdag habang kumakain."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-tortilla-soup-plate-v1.webp",
+                "alt": "Sabaw ng kamatis na may manok, beans at avocado; malutong na tortilla sa tabi.",
+                "caption": "Sabaw ng kamatis na may manok, beans at avocado; malutong na tortilla sa tabi."
+              }
+            }
+          ],
+          "components": [],
+          "adjustment": "",
+          "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 20 g. Contains check stock and tortilla labels for allergens. Brands and cooking yields vary. Not kitchen-tested."
+        }
+      }
+    },
+    {
+      "id": "chicken-piccata",
+      "checkRevision": "november-additions-1",
+      "collection": "Recipe collection",
+      "title": "Chicken piccata",
+      "subtitle": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli",
+      "category": "Chicken",
+      "cuisine": "Italian-inspired",
+      "serves": "1 Serving",
+      "approved": false,
+      "description": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli.",
+      "macro": "≈600 kcal | 50g P | 58g C | 19g F | 9g fibre",
+      "ingredients": [
+        {
+          "group": "Piccata & sauce",
+          "items": [
+            "170 g halal chicken breast, raw, sliced horizontally into 2 thin cutlets",
+            "6 g cornflour for a light dusting",
+            "4 g olive oil for pan",
+            "5 g olive oil for broccoli roasting",
+            "1 g olive oil for late garlic",
+            "4 g unsalted butter for sauce",
+            "100 ml low-sodium halal chicken stock",
+            "8 g capers, drained and well rinsed",
+            "20 g lemon juice for sauce",
+            "5 g parsley, chopped",
+            "0.3 g black pepper",
+            "0.3 g salt for chicken",
+            "0.2 g salt for mash",
+            "0.2 g salt for broccoli",
+            "0.1 g salt for sauce"
+          ]
+        },
+        {
+          "group": "Mash",
+          "items": [
+            "200 g potato, peeled weight, 2 cm chunks",
+            "50 ml low-fat milk, warmed"
+          ]
+        },
+        {
+          "group": "Charred broccoli",
+          "items": [
+            "160 g broccoli, small florets with flat cut faces",
+            "5 g garlic, finely minced",
+            "10 g lemon juice for broccoli"
+          ]
+        }
+      ],
+      "steps": [
+        "Heat oven to 230°C conventional / 210°C fan with a metal tray inside. Wash broccoli; dry thoroughly. Cut broccoli into small florets with flat faces. Peel and cut potato into 2 cm chunks; mince garlic. On a separate board, slice chicken horizontally into thin cutlets; flatten thick areas to about 1 cm.",
+        "Toss broccoli with the broccoli-roasting oil and broccoli salt. Spread cut-side down on the hot tray, with space between pieces. Roast 15–20 minutes, turning once, until deeply browned with charred tips and tender stems. Mix garlic with the reserved garlic oil. Toss through for the final 2 minutes only. Finish with broccoli lemon juice after roasting.",
+        "Meanwhile, cover potatoes with water; simmer 12–15 minutes until very tender. Drain and steam-dry 1 minute. Mash with warm milk and mash salt. Cover to keep warm.",
+        "Season chicken with protein salt and pepper. Lightly dust with cornflour. Heat the pan oil over medium-high heat. Sear cutlets 3–4 minutes per side until golden and 74°C inside. Transfer to a warm plate.",
+        "Lower heat; add stock and rinsed capers. Scrape up golden pan juices and simmer 2–3 minutes. Add sauce lemon juice and sauce salt. Turn off heat; swirl in butter and parsley. Keep sauce loose and pourable.",
+        "Plate mash and chicken. Spoon sauce over the chicken and around the mash. Keep charred broccoli alongside, out of the sauce, so its edges stay crisp."
+      ],
+      "tl": {
+        "description": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli.",
+        "ingredients": [
+          {
+            "group": "Piccata at sarsa",
+            "items": [
+              "170 g halal chicken breast, hilaw, hinati pahalang sa 2 manipis na cutlet",
+              "6 g cornflour para sa manipis na balot",
+              "4 g olive oil para sa kawali",
+              "5 g olive oil para sa pag-roast ng broccoli",
+              "1 g olive oil para sa bawang sa huli",
+              "4 g unsalted butter para sa sarsa",
+              "100 ml low-sodium halal chicken stock",
+              "8 g capers, pinatulo at binanlawan nang mabuti",
+              "20 g lemon juice para sa sarsa",
+              "5 g parsley, tinadtad",
+              "0.3 g paminta",
+              "0.3 g asin para sa manok",
+              "0.2 g asin para sa mash",
+              "0.2 g asin para sa broccoli",
+              "0.1 g asin para sa sarsa"
+            ]
+          },
+          {
+            "group": "Mashed potato",
+            "items": [
+              "200 g patatas, timbang na binalatan, 2 cm na piraso",
+              "50 ml low-fat milk, pinainit"
+            ]
+          },
+          {
+            "group": "Charred broccoli",
+            "items": [
+              "160 g broccoli, maliliit na florets na may patag na hiwa",
+              "5 g bawang, pinong tinadtad",
+              "10 g lemon juice para sa broccoli"
+            ]
+          }
+        ],
+        "steps": [
+          "Painitin ang oven sa 230°C conventional / 210°C fan na may metal tray sa loob. Hugasan ang broccoli; patuyuin nang mabuti. Hiwain ang broccoli sa maliliit na florets na may patag na hiwa. Balatan at hiwain ang patatas sa 2 cm na piraso; tadtarin ang bawang. Sa hiwalay na sangkalan, hatiin pahalang ang manok sa maninipis na cutlet; pantayin ang makakapal na bahagi sa mga 1 cm.",
+          "Ihalo ang broccoli sa mantika para sa pag-roast ng broccoli at asin nito. Ikalat sa mainit na tray, patag na hiwa sa ilalim, na may pagitan. I-roast nang 15–20 minuto, baligtarin minsan, hanggang browned na may charred na dulo at malambot na tangkay. Ihalo ang bawang sa nakalaang mantika para sa bawang. Idagdag sa huling 2 minuto lamang. Lagyan ng lemon juice pagkatapos i-roast.",
+          "Habang nagro-roast, lagyan ng tubig ang patatas hanggang matakpan; pakuluin nang marahan nang 12–15 minuto hanggang malambot. Salain at patuyuin sa singaw nang 1 minuto. I-mash kasama ang mainit na gatas at asin para sa mash. Takpan upang manatiling mainit.",
+          "Timplahan ang manok ng asin para sa protina at paminta. Balutan nang manipis ng cornflour. Painitin ang mantika para sa kawali sa katamtaman hanggang malakas na apoy. I-sear ang cutlet nang 3–4 minuto bawat panig hanggang golden at 74°C sa loob. Ilipat sa mainit na plato.",
+          "Hinaan ang apoy; idagdag ang stock at binanlawang capers. Kaskasin ang golden na latak at pakuluin nang marahan nang 2–3 minuto. Idagdag ang lemon juice at asin para sa sarsa. Patayin ang apoy; ihalo ang butter at parsley. Panatilihing madaling ibuhos ang sarsa.",
+          "Ilagay sa plato ang mash at manok. Isandok ang sarsa sa manok at paligid ng mash. Ilagay ang charred broccoli sa tabi, hiwalay sa sarsa, upang manatiling malutong ang mga gilid."
+        ]
+      },
+      "visual": {
+        "number": "19",
+        "time": "40–45",
+        "subtitle": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli",
+        "hero": {
+          "src": "assets/dinners/chicken-piccata-plate-v1.webp",
+          "alt": "Chicken with lemon-caper sauce, mash and charred broccoli alongside.",
+          "caption": "Chicken with lemon-caper sauce, mash and charred broccoli alongside."
+        },
+        "nutrients": [
+          {
+            "value": "≈600",
+            "label": "kcal"
+          },
+          {
+            "value": "50g",
+            "label": "protein"
+          },
+          {
+            "value": "58g",
+            "label": "carbs"
+          },
+          {
+            "value": "9g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep & preheat",
+            "bullets": [
+              "Heat oven to 230°C conventional / 210°C fan with a metal tray inside. Wash broccoli; dry thoroughly.",
+              "Cut broccoli into small florets with flat faces. Peel and cut potato into 2 cm chunks; mince garlic.",
+              "On a separate board, slice chicken horizontally into thin cutlets; flatten thick areas to about 1 cm."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-piccata-prep-v1.webp",
+              "alt": "Small flat-faced broccoli florets, potato chunks and thin chicken cutlets.",
+              "caption": "Small flat-faced broccoli florets, potato chunks and thin chicken cutlets."
+            }
+          },
+          {
+            "title": "Roast the broccoli",
+            "bullets": [
+              "Toss broccoli with the broccoli-roasting oil and broccoli salt. Spread cut-side down on the hot tray, with space between pieces.",
+              "Roast 15–20 minutes, turning once, until deeply browned with charred tips and tender stems.",
+              "Mix garlic with the reserved garlic oil. Toss through for the final 2 minutes only. Finish with broccoli lemon juice after roasting."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-piccata-cook-v1.webp",
+              "alt": "Broccoli with browned flat faces, charred tips and golden garlic.",
+              "caption": "Broccoli with browned flat faces, charred tips and golden garlic."
+            }
+          },
+          {
+            "title": "Make the mash",
+            "bullets": [
+              "Meanwhile, cover potatoes with water; simmer 12–15 minutes until very tender. Drain and steam-dry 1 minute.",
+              "Mash with warm milk and mash salt. Cover to keep warm."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Sear the chicken",
+            "bullets": [
+              "Season chicken with protein salt and pepper. Lightly dust with cornflour.",
+              "Heat the pan oil over medium-high heat. Sear cutlets 3–4 minutes per side until golden and 74°C inside. Transfer to a warm plate."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Make the lemon-caper sauce",
+            "bullets": [
+              "Lower heat; add stock and rinsed capers. Scrape up golden pan juices and simmer 2–3 minutes.",
+              "Add sauce lemon juice and sauce salt. Turn off heat; swirl in butter and parsley. Keep sauce loose and pourable."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Plate & serve",
+            "bullets": [
+              "Plate mash and chicken. Spoon sauce over the chicken and around the mash.",
+              "Keep charred broccoli alongside, out of the sauce, so its edges stay crisp."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/chicken-piccata-plate-v1.webp",
+              "alt": "Chicken with lemon-caper sauce, mash and charred broccoli alongside.",
+              "caption": "Chicken with lemon-caper sauce, mash and charred broccoli alongside."
+            }
+          }
+        ],
+        "components": [],
+        "adjustment": "",
+        "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 19 g. Contains milk. Brands and cooking yields vary. Not kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per100g: kcal, protein, carbohydrate, fat, fibre. All listed ingredients included; salt/water zero for these five metrics.",
+          "rows": [
+            [
+              "170 g halal chicken breast, raw, sliced horizontally into 2 thin cutlets",
+              170,
+              [
+                120,
+                22.5,
+                0,
+                2.62,
+                0
+              ]
+            ],
+            [
+              "6 g cornflour for a light dusting",
+              6,
+              [
+                381,
+                0.26,
+                91.27,
+                0.05,
+                0.9
+              ]
+            ],
+            [
+              "4 g olive oil for pan",
+              4,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "5 g olive oil for broccoli roasting",
+              5,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "1 g olive oil for late garlic",
+              1,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "4 g unsalted butter for sauce",
+              4,
+              [
+                717,
+                0.85,
+                0.06,
+                81.11,
+                0
+              ]
+            ],
+            [
+              "100 ml low-sodium halal chicken stock",
+              100,
+              [
+                5,
+                0.5,
+                0.3,
+                0.2,
+                0
+              ]
+            ],
+            [
+              "8 g capers, drained and well rinsed",
+              8,
+              [
+                23,
+                2.36,
+                4.89,
+                0.86,
+                3.2
+              ]
+            ],
+            [
+              "20 g lemon juice for sauce",
+              20,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ],
+            [
+              "5 g parsley, chopped",
+              5,
+              [
+                36,
+                2.97,
+                6.33,
+                0.79,
+                3.3
+              ]
+            ],
+            [
+              "0.3 g black pepper",
+              0.3,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.3 g salt for chicken",
+              0.3,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.2 g salt for mash",
+              0.2,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.2 g salt for broccoli",
+              0.2,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.1 g salt for sauce",
+              0.1,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "200 g potato, peeled weight, 2 cm chunks",
+              200,
+              [
+                77,
+                2.05,
+                17.49,
+                0.09,
+                2.1
+              ]
+            ],
+            [
+              "50 ml low-fat milk, warmed",
+              50,
+              [
+                42,
+                3.37,
+                4.99,
+                0.97,
+                0
+              ]
+            ],
+            [
+              "160 g broccoli, small florets with flat cut faces",
+              160,
+              [
+                34,
+                2.82,
+                6.64,
+                0.37,
+                2.6
+              ]
+            ],
+            [
+              "5 g garlic, finely minced",
+              5,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "10 g lemon juice for broccoli",
+              10,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ]
+          ],
+          "totals": [
+            596.93,
+            49.8929,
+            58.458299999999994,
+            19.3997,
+            9.120000000000001
+          ]
+        },
+        "tl": {
+          "subtitle": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli",
+          "hero": {
+            "src": "assets/dinners/chicken-piccata-plate-v1.webp",
+            "alt": "Manok na may lemon-caper sauce, mash at charred broccoli sa tabi.",
+            "caption": "Manok na may lemon-caper sauce, mash at charred broccoli sa tabi."
+          },
+          "nutrients": [
+            {
+              "value": "≈600",
+              "label": "kcal"
+            },
+            {
+              "value": "50g",
+              "label": "protein"
+            },
+            {
+              "value": "58g",
+              "label": "carbs"
+            },
+            {
+              "value": "9g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda at painitin ang oven",
+              "bullets": [
+                "Painitin ang oven sa 230°C conventional / 210°C fan na may metal tray sa loob. Hugasan ang broccoli; patuyuin nang mabuti.",
+                "Hiwain ang broccoli sa maliliit na florets na may patag na hiwa. Balatan at hiwain ang patatas sa 2 cm na piraso; tadtarin ang bawang.",
+                "Sa hiwalay na sangkalan, hatiin pahalang ang manok sa maninipis na cutlet; pantayin ang makakapal na bahagi sa mga 1 cm."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-piccata-prep-v1.webp",
+                "alt": "Maliliit na broccoli florets, piraso ng patatas at maninipis na chicken cutlet.",
+                "caption": "Maliliit na broccoli florets, piraso ng patatas at maninipis na chicken cutlet."
+              }
+            },
+            {
+              "title": "I-roast ang broccoli",
+              "bullets": [
+                "Ihalo ang broccoli sa mantika para sa pag-roast ng broccoli at asin nito. Ikalat sa mainit na tray, patag na hiwa sa ilalim, na may pagitan.",
+                "I-roast nang 15–20 minuto, baligtarin minsan, hanggang browned na may charred na dulo at malambot na tangkay.",
+                "Ihalo ang bawang sa nakalaang mantika para sa bawang. Idagdag sa huling 2 minuto lamang. Lagyan ng lemon juice pagkatapos i-roast."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-piccata-cook-v1.webp",
+                "alt": "Broccoli na browned ang patag na ibabaw, charred ang dulo at golden ang bawang.",
+                "caption": "Broccoli na browned ang patag na ibabaw, charred ang dulo at golden ang bawang."
+              }
+            },
+            {
+              "title": "Gawin ang mash",
+              "bullets": [
+                "Habang nagro-roast, lagyan ng tubig ang patatas hanggang matakpan; pakuluin nang marahan nang 12–15 minuto hanggang malambot. Salain at patuyuin sa singaw nang 1 minuto.",
+                "I-mash kasama ang mainit na gatas at asin para sa mash. Takpan upang manatiling mainit."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "I-sear ang manok",
+              "bullets": [
+                "Timplahan ang manok ng asin para sa protina at paminta. Balutan nang manipis ng cornflour.",
+                "Painitin ang mantika para sa kawali sa katamtaman hanggang malakas na apoy. I-sear ang cutlet nang 3–4 minuto bawat panig hanggang golden at 74°C sa loob. Ilipat sa mainit na plato."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Gawin ang lemon-caper sauce",
+              "bullets": [
+                "Hinaan ang apoy; idagdag ang stock at binanlawang capers. Kaskasin ang golden na latak at pakuluin nang marahan nang 2–3 minuto.",
+                "Idagdag ang lemon juice at asin para sa sarsa. Patayin ang apoy; ihalo ang butter at parsley. Panatilihing madaling ibuhos ang sarsa."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Ihain",
+              "bullets": [
+                "Ilagay sa plato ang mash at manok. Isandok ang sarsa sa manok at paligid ng mash.",
+                "Ilagay ang charred broccoli sa tabi, hiwalay sa sarsa, upang manatiling malutong ang mga gilid."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/chicken-piccata-plate-v1.webp",
+                "alt": "Manok na may lemon-caper sauce, mash at charred broccoli sa tabi.",
+                "caption": "Manok na may lemon-caper sauce, mash at charred broccoli sa tabi."
+              }
+            }
+          ],
+          "components": [],
+          "adjustment": "",
+          "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 19 g. Contains milk. Brands and cooking yields vary. Not kitchen-tested."
+        }
+      }
+    },
+    {
+      "id": "cod-piccata",
+      "checkRevision": "november-additions-1",
+      "collection": "Recipe collection",
+      "title": "Cod piccata",
+      "subtitle": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli",
+      "category": "Fish",
+      "cuisine": "Italian-inspired",
+      "serves": "1 Serving",
+      "approved": false,
+      "description": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli.",
+      "macro": "≈560 kcal | 47g P | 58g C | 16g F | 9g fibre",
+      "ingredients": [
+        {
+          "group": "Piccata & sauce",
+          "items": [
+            "200 g skinless boneless cod fillet, raw, thawed and patted dry",
+            "6 g cornflour for a light dusting",
+            "4 g olive oil for pan",
+            "5 g olive oil for broccoli roasting",
+            "1 g olive oil for late garlic",
+            "4 g unsalted butter for sauce",
+            "100 ml low-sodium vegetable stock",
+            "8 g capers, drained and well rinsed",
+            "20 g lemon juice for sauce",
+            "5 g parsley, chopped",
+            "0.3 g black pepper",
+            "0.3 g salt for fish",
+            "0.2 g salt for mash",
+            "0.2 g salt for broccoli",
+            "0.1 g salt for sauce"
+          ]
+        },
+        {
+          "group": "Mash",
+          "items": [
+            "200 g potato, peeled weight, 2 cm chunks",
+            "50 ml low-fat milk, warmed"
+          ]
+        },
+        {
+          "group": "Charred broccoli",
+          "items": [
+            "160 g broccoli, small florets with flat cut faces",
+            "5 g garlic, finely minced",
+            "10 g lemon juice for broccoli"
+          ]
+        }
+      ],
+      "steps": [
+        "Heat oven to 230°C conventional / 210°C fan with a metal tray inside. Wash broccoli; dry thoroughly. Cut broccoli into small florets with flat faces. Peel and cut potato into 2 cm chunks; mince garlic. Pat cod very dry and check for pin bones on a separate board.",
+        "Toss broccoli with the broccoli-roasting oil and broccoli salt. Spread cut-side down on the hot tray, with space between pieces. Roast 15–20 minutes, turning once, until deeply browned with charred tips and tender stems. Mix garlic with the reserved garlic oil. Toss through for the final 2 minutes only. Finish with broccoli lemon juice after roasting.",
+        "Meanwhile, cover potatoes with water; simmer 12–15 minutes until very tender. Drain and steam-dry 1 minute. Mash with warm milk and mash salt. Cover to keep warm.",
+        "Season cod with protein salt and pepper. Lightly dust with cornflour. Heat the pan oil in a nonstick pan over medium-high heat. Sear cod 3–4 minutes per side; lower heat for a thick fillet. Cook until the centre reaches 63°C, then transfer gently to a warm plate.",
+        "Lower heat; add stock and rinsed capers. Scrape up golden pan juices and simmer 2–3 minutes. Add sauce lemon juice and sauce salt. Turn off heat; swirl in butter and parsley. Keep sauce loose and pourable.",
+        "Plate mash and cod. Spoon sauce over the cod and around the mash. Keep charred broccoli alongside, out of the sauce, so its edges stay crisp."
+      ],
+      "tl": {
+        "description": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli.",
+        "ingredients": [
+          {
+            "group": "Piccata at sarsa",
+            "items": [
+              "200 g cod fillet, walang balat at tinik, hilaw, na-defrost at pinatuyo",
+              "6 g cornflour para sa manipis na balot",
+              "4 g olive oil para sa kawali",
+              "5 g olive oil para sa pag-roast ng broccoli",
+              "1 g olive oil para sa bawang sa huli",
+              "4 g unsalted butter para sa sarsa",
+              "100 ml low-sodium vegetable stock",
+              "8 g capers, pinatulo at binanlawan nang mabuti",
+              "20 g lemon juice para sa sarsa",
+              "5 g parsley, tinadtad",
+              "0.3 g paminta",
+              "0.3 g asin para sa isda",
+              "0.2 g asin para sa mash",
+              "0.2 g asin para sa broccoli",
+              "0.1 g asin para sa sarsa"
+            ]
+          },
+          {
+            "group": "Mashed potato",
+            "items": [
+              "200 g patatas, timbang na binalatan, 2 cm na piraso",
+              "50 ml low-fat milk, pinainit"
+            ]
+          },
+          {
+            "group": "Charred broccoli",
+            "items": [
+              "160 g broccoli, maliliit na florets na may patag na hiwa",
+              "5 g bawang, pinong tinadtad",
+              "10 g lemon juice para sa broccoli"
+            ]
+          }
+        ],
+        "steps": [
+          "Painitin ang oven sa 230°C conventional / 210°C fan na may metal tray sa loob. Hugasan ang broccoli; patuyuin nang mabuti. Hiwain ang broccoli sa maliliit na florets na may patag na hiwa. Balatan at hiwain ang patatas sa 2 cm na piraso; tadtarin ang bawang. Patuyuin nang mabuti ang cod at alisin ang maliliit na tinik sa hiwalay na sangkalan.",
+          "Ihalo ang broccoli sa mantika para sa pag-roast ng broccoli at asin nito. Ikalat sa mainit na tray, patag na hiwa sa ilalim, na may pagitan. I-roast nang 15–20 minuto, baligtarin minsan, hanggang browned na may charred na dulo at malambot na tangkay. Ihalo ang bawang sa nakalaang mantika para sa bawang. Idagdag sa huling 2 minuto lamang. Lagyan ng lemon juice pagkatapos i-roast.",
+          "Habang nagro-roast, lagyan ng tubig ang patatas hanggang matakpan; pakuluin nang marahan nang 12–15 minuto hanggang malambot. Salain at patuyuin sa singaw nang 1 minuto. I-mash kasama ang mainit na gatas at asin para sa mash. Takpan upang manatiling mainit.",
+          "Timplahan ang cod ng asin para sa protina at paminta. Balutan nang manipis ng cornflour. Painitin ang mantika para sa kawali sa nonstick na kawali sa katamtaman hanggang malakas na apoy. I-sear ang cod nang 3–4 minuto bawat panig; hinaan ang apoy kung makapal. Lutuin hanggang 63°C ang gitna, saka maingat na ilipat sa mainit na plato.",
+          "Hinaan ang apoy; idagdag ang stock at binanlawang capers. Kaskasin ang golden na latak at pakuluin nang marahan nang 2–3 minuto. Idagdag ang lemon juice at asin para sa sarsa. Patayin ang apoy; ihalo ang butter at parsley. Panatilihing madaling ibuhos ang sarsa.",
+          "Ilagay sa plato ang mash at cod. Isandok ang sarsa sa cod at paligid ng mash. Ilagay ang charred broccoli sa tabi, hiwalay sa sarsa, upang manatiling malutong ang mga gilid."
+        ]
+      },
+      "visual": {
+        "number": "20",
+        "time": "40–45",
+        "subtitle": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli",
+        "hero": {
+          "src": "assets/dinners/cod-piccata-plate-v1.webp",
+          "alt": "Cod with lemon-caper sauce, mash and charred broccoli alongside.",
+          "caption": "Cod with lemon-caper sauce, mash and charred broccoli alongside."
+        },
+        "nutrients": [
+          {
+            "value": "≈560",
+            "label": "kcal"
+          },
+          {
+            "value": "47g",
+            "label": "protein"
+          },
+          {
+            "value": "58g",
+            "label": "carbs"
+          },
+          {
+            "value": "9g",
+            "label": "fibre"
+          }
+        ],
+        "steps": [
+          {
+            "title": "Prep & preheat",
+            "bullets": [
+              "Heat oven to 230°C conventional / 210°C fan with a metal tray inside. Wash broccoli; dry thoroughly.",
+              "Cut broccoli into small florets with flat faces. Peel and cut potato into 2 cm chunks; mince garlic.",
+              "Pat cod very dry and check for pin bones on a separate board."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/cod-piccata-prep-v1.webp",
+              "alt": "Small flat-faced broccoli florets, potato chunks and a thick cod fillet.",
+              "caption": "Small flat-faced broccoli florets, potato chunks and a thick cod fillet."
+            }
+          },
+          {
+            "title": "Roast the broccoli",
+            "bullets": [
+              "Toss broccoli with the broccoli-roasting oil and broccoli salt. Spread cut-side down on the hot tray, with space between pieces.",
+              "Roast 15–20 minutes, turning once, until deeply browned with charred tips and tender stems.",
+              "Mix garlic with the reserved garlic oil. Toss through for the final 2 minutes only. Finish with broccoli lemon juice after roasting."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/cod-piccata-cook-v1.webp",
+              "alt": "Broccoli with browned flat faces, charred tips and golden garlic.",
+              "caption": "Broccoli with browned flat faces, charred tips and golden garlic."
+            }
+          },
+          {
+            "title": "Make the mash",
+            "bullets": [
+              "Meanwhile, cover potatoes with water; simmer 12–15 minutes until very tender. Drain and steam-dry 1 minute.",
+              "Mash with warm milk and mash salt. Cover to keep warm."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Sear the cod",
+            "bullets": [
+              "Season cod with protein salt and pepper. Lightly dust with cornflour.",
+              "Heat the pan oil in a nonstick pan over medium-high heat. Sear cod 3–4 minutes per side; lower heat for a thick fillet. Cook until the centre reaches 63°C, then transfer gently to a warm plate."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Make the lemon-caper sauce",
+            "bullets": [
+              "Lower heat; add stock and rinsed capers. Scrape up golden pan juices and simmer 2–3 minutes.",
+              "Add sauce lemon juice and sauce salt. Turn off heat; swirl in butter and parsley. Keep sauce loose and pourable."
+            ],
+            "cue": ""
+          },
+          {
+            "title": "Plate & serve",
+            "bullets": [
+              "Plate mash and cod. Spoon sauce over the cod and around the mash.",
+              "Keep charred broccoli alongside, out of the sauce, so its edges stay crisp."
+            ],
+            "cue": "",
+            "photo": {
+              "src": "assets/dinners/cod-piccata-plate-v1.webp",
+              "alt": "Cod with lemon-caper sauce, mash and charred broccoli alongside.",
+              "caption": "Cod with lemon-caper sauce, mash and charred broccoli alongside."
+            }
+          }
+        ],
+        "components": [],
+        "adjustment": "",
+        "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 16 g. Contains fish and milk. Brands and cooking yields vary. Not kitchen-tested.",
+        "nutritionCalculation": {
+          "units": "Generic estimates per100g: kcal, protein, carbohydrate, fat, fibre. All listed ingredients included; salt/water zero for these five metrics.",
+          "rows": [
+            [
+              "200 g skinless boneless cod fillet, raw, thawed and patted dry",
+              200,
+              [
+                82,
+                17.8,
+                0,
+                0.67,
+                0
+              ]
+            ],
+            [
+              "6 g cornflour for a light dusting",
+              6,
+              [
+                381,
+                0.26,
+                91.27,
+                0.05,
+                0.9
+              ]
+            ],
+            [
+              "4 g olive oil for pan",
+              4,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "5 g olive oil for broccoli roasting",
+              5,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "1 g olive oil for late garlic",
+              1,
+              [
+                884,
+                0,
+                0,
+                100,
+                0
+              ]
+            ],
+            [
+              "4 g unsalted butter for sauce",
+              4,
+              [
+                717,
+                0.85,
+                0.06,
+                81.11,
+                0
+              ]
+            ],
+            [
+              "100 ml low-sodium vegetable stock",
+              100,
+              [
+                5,
+                0.5,
+                0.3,
+                0.2,
+                0
+              ]
+            ],
+            [
+              "8 g capers, drained and well rinsed",
+              8,
+              [
+                23,
+                2.36,
+                4.89,
+                0.86,
+                3.2
+              ]
+            ],
+            [
+              "20 g lemon juice for sauce",
+              20,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ],
+            [
+              "5 g parsley, chopped",
+              5,
+              [
+                36,
+                2.97,
+                6.33,
+                0.79,
+                3.3
+              ]
+            ],
+            [
+              "0.3 g black pepper",
+              0.3,
+              [
+                300,
+                12,
+                50,
+                12,
+                30
+              ]
+            ],
+            [
+              "0.3 g salt for fish",
+              0.3,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.2 g salt for mash",
+              0.2,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.2 g salt for broccoli",
+              0.2,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "0.1 g salt for sauce",
+              0.1,
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            [
+              "200 g potato, peeled weight, 2 cm chunks",
+              200,
+              [
+                77,
+                2.05,
+                17.49,
+                0.09,
+                2.1
+              ]
+            ],
+            [
+              "50 ml low-fat milk, warmed",
+              50,
+              [
+                42,
+                3.37,
+                4.99,
+                0.97,
+                0
+              ]
+            ],
+            [
+              "160 g broccoli, small florets with flat cut faces",
+              160,
+              [
+                34,
+                2.82,
+                6.64,
+                0.37,
+                2.6
+              ]
+            ],
+            [
+              "5 g garlic, finely minced",
+              5,
+              [
+                149,
+                6.36,
+                33.06,
+                0.5,
+                2.1
+              ]
+            ],
+            [
+              "10 g lemon juice for broccoli",
+              10,
+              [
+                22,
+                0.35,
+                6.9,
+                0.24,
+                0.3
+              ]
+            ]
+          ],
+          "totals": [
+            556.93,
+            47.2429,
+            58.458299999999994,
+            16.285700000000002,
+            9.120000000000001
+          ]
+        },
+        "tl": {
+          "subtitle": "Lemon-caper sauce · creamy mash · charred garlic-lemon broccoli",
+          "hero": {
+            "src": "assets/dinners/cod-piccata-plate-v1.webp",
+            "alt": "Cod na may lemon-caper sauce, mash at charred broccoli sa tabi.",
+            "caption": "Cod na may lemon-caper sauce, mash at charred broccoli sa tabi."
+          },
+          "nutrients": [
+            {
+              "value": "≈560",
+              "label": "kcal"
+            },
+            {
+              "value": "47g",
+              "label": "protein"
+            },
+            {
+              "value": "58g",
+              "label": "carbs"
+            },
+            {
+              "value": "9g",
+              "label": "fibre"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ihanda at painitin ang oven",
+              "bullets": [
+                "Painitin ang oven sa 230°C conventional / 210°C fan na may metal tray sa loob. Hugasan ang broccoli; patuyuin nang mabuti.",
+                "Hiwain ang broccoli sa maliliit na florets na may patag na hiwa. Balatan at hiwain ang patatas sa 2 cm na piraso; tadtarin ang bawang.",
+                "Patuyuin nang mabuti ang cod at alisin ang maliliit na tinik sa hiwalay na sangkalan."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/cod-piccata-prep-v1.webp",
+                "alt": "Maliliit na broccoli florets, piraso ng patatas at makapal na cod fillet.",
+                "caption": "Maliliit na broccoli florets, piraso ng patatas at makapal na cod fillet."
+              }
+            },
+            {
+              "title": "I-roast ang broccoli",
+              "bullets": [
+                "Ihalo ang broccoli sa mantika para sa pag-roast ng broccoli at asin nito. Ikalat sa mainit na tray, patag na hiwa sa ilalim, na may pagitan.",
+                "I-roast nang 15–20 minuto, baligtarin minsan, hanggang browned na may charred na dulo at malambot na tangkay.",
+                "Ihalo ang bawang sa nakalaang mantika para sa bawang. Idagdag sa huling 2 minuto lamang. Lagyan ng lemon juice pagkatapos i-roast."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/cod-piccata-cook-v1.webp",
+                "alt": "Broccoli na browned ang patag na ibabaw, charred ang dulo at golden ang bawang.",
+                "caption": "Broccoli na browned ang patag na ibabaw, charred ang dulo at golden ang bawang."
+              }
+            },
+            {
+              "title": "Gawin ang mash",
+              "bullets": [
+                "Habang nagro-roast, lagyan ng tubig ang patatas hanggang matakpan; pakuluin nang marahan nang 12–15 minuto hanggang malambot. Salain at patuyuin sa singaw nang 1 minuto.",
+                "I-mash kasama ang mainit na gatas at asin para sa mash. Takpan upang manatiling mainit."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "I-sear ang cod",
+              "bullets": [
+                "Timplahan ang cod ng asin para sa protina at paminta. Balutan nang manipis ng cornflour.",
+                "Painitin ang mantika para sa kawali sa nonstick na kawali sa katamtaman hanggang malakas na apoy. I-sear ang cod nang 3–4 minuto bawat panig; hinaan ang apoy kung makapal. Lutuin hanggang 63°C ang gitna, saka maingat na ilipat sa mainit na plato."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Gawin ang lemon-caper sauce",
+              "bullets": [
+                "Hinaan ang apoy; idagdag ang stock at binanlawang capers. Kaskasin ang golden na latak at pakuluin nang marahan nang 2–3 minuto.",
+                "Idagdag ang lemon juice at asin para sa sarsa. Patayin ang apoy; ihalo ang butter at parsley. Panatilihing madaling ibuhos ang sarsa."
+              ],
+              "cue": ""
+            },
+            {
+              "title": "Ihain",
+              "bullets": [
+                "Ilagay sa plato ang mash at cod. Isandok ang sarsa sa cod at paligid ng mash.",
+                "Ilagay ang charred broccoli sa tabi, hiwalay sa sarsa, upang manatiling malutong ang mga gilid."
+              ],
+              "cue": "",
+              "photo": {
+                "src": "assets/dinners/cod-piccata-plate-v1.webp",
+                "alt": "Cod na may lemon-caper sauce, mash at charred broccoli sa tabi.",
+                "caption": "Cod na may lemon-caper sauce, mash at charred broccoli sa tabi."
+              }
+            }
+          ],
+          "components": [],
+          "adjustment": "",
+          "basis": "Whole-dinner estimates including all sauce, oil and sides. Generic per-100g composition; raw weights unless specified. Fat approximately 16 g. Contains fish and milk. Brands and cooking yields vary. Not kitchen-tested."
+        }
+      }
     }
   ]
 }

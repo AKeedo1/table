@@ -1,5 +1,9 @@
 # Visual dinners
 
+## 7 November additions
+
+Five dinners added: chicken stroganoff with rice; musakhan chicken bowl with separate tabbouleh; chicken tortilla soup; chicken piccata; cod piccata. Both piccatas include mash and oven-charred garlic-lemon broccoli. All15 earlier recipe objects are unchanged;20 active dinners total. New recipes include measured English/Tagalog ingredients, matching method steps, complete-dinner nutrition estimates and15 labelled AI photo guides. Twenty automated tests pass. Images inspected individually, including refined tabbouleh herbs/grains. Browser preview was unavailable in this release session; no new interactive browser-validation claim. Recipes have not been kitchen-tested.
+
 Current release — 19 October 2026: all 15 active dinners use the approved visual recipe format. Five existing dinners remain unchanged; the ten selected older dishes are rebuilt. The six rejected dishes are removed from the active catalogue. Original IDs are retained for the keepers.
 
 The updated dishes are Black Pepper Chicken & Greens, Kra Pao Gai, Bulgogi Chicken Lettuce Wraps, Braised Chicken Thighs, Sichuan Dry-Fried Chicken, Ají de Gallina, Tender Greek Lamb Souvlaki, Korean Beef Bibimbap, Salmon Teriyaki Bowl and Miso-Glazed Salmon. Lamb now specifies trimmed boneless loin, a refrigerated yogurt marinade, controlled searing and a thermometer/rest endpoint. The previous interchangeable shoulder option and guaranteed overnight-marinade claim are removed.

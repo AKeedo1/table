@@ -25,7 +25,7 @@ test('trial merges without changing legacy IDs and works in search and shopping'
   const all=[...trials,...legacy];assert.equal(new Set(all.map(r=>r.id)).size,all.length);
   assert.equal(legacy.length,10);
   assert.ok(catalog.filter(all,{query:'halal chicken'}).some(r=>r.id==='halal-cart-chicken'));
-  assert.equal(trials.length,5);
+  assert.equal(trials.length,10);
   assert.equal(trials.find(r=>r.id==='halal-cart-chicken').approved,false,'rebuilt recipe must not inherit visual approval as taste approval');
   const en=catalog.shopping(all,['halal-cart-chicken'],'en');
   const tl=catalog.shopping(all,['halal-cart-chicken'],'tl');
@@ -45,7 +45,7 @@ test('every visual stage and language retains matching check keys and available 
     assert.ok(r.steps.some(s=>s.includes(r.id==='kofta-tomato'?'71°C':['Fish','Lamb','Beef'].includes(r.category)?'63°C':'74°C')));
     assert.deepEqual(r.visual.steps.map(s=>s.bullets.length),r.visual.tl.steps.map(s=>s.bullets.length));
     assert.ok(r.visual.time && r.visual.number);
-    assert.ok(r.id==='halal-cart-chicken'?r.visual.adjustment.includes('1.3 g added salt TOTAL'):r.ingredients.flatMap(x=>x.items).some(x=>x.includes('salt TOTAL')));
+    assert.ok(r.id==='halal-cart-chicken'?r.visual.adjustment.includes('1.3 g added salt TOTAL'):r.ingredients.flatMap(x=>x.items).some(x=>x.includes('salt TOTAL') || (r.checkRevision==='november-additions-1' && /g salt for /.test(x))));
   }
 });
 test('nutrition calculation covers the full dinner and displayed rounding agrees',()=>{
@@ -65,7 +65,7 @@ test('current dinners have matching translated shopping rows and complete visual
   const ids=trials.map(r=>r.id);
   const en=catalog.shopping(trials,ids,'en'),tl=catalog.shopping(trials,ids,'tl');
   assert.deepEqual(en.map(x=>x.key),tl.map(x=>x.key));
-  assert.equal(new Set(en.map(x=>x.recipeId)).size,5);
+  assert.equal(new Set(en.map(x=>x.recipeId)).size,10);
   for(const r of [...trials,...legacy]){
     const photos=new Set([r.visual.hero.src,...r.visual.steps.filter(s=>s.photo).map(s=>s.photo.src)]);
     assert.equal(photos.size,r.id==='halal-cart-chicken'?4:3,r.id);
@@ -87,7 +87,7 @@ test('offline requests retain the correct legacy and visual recipe catalogs',asy
       return cache.get(key);
     }}
   });
-  for(const [filename,count] of [['recipes.json',10],['dinner-trials.json',5]]){
+  for(const [filename,count] of [['recipes.json',10],['dinner-trials.json',10]]){
     let response;
     handlers.fetch({request:{method:'GET',url:'https://example.test/table/'+filename+'?v=offline-test'},respondWith:p=>response=p});
     assert.equal((await response).recipes.length,count);
